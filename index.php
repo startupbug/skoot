@@ -124,7 +124,7 @@
                         <div class="col-xs-height col-middle col-xs-4">
                            <!-- <a href="companies/nestle-middle-east.html" title="Nestle Middle East careers"> -->
                            <a href="#" title="Nestle Middle East careers">
-                           <img src="assets/images1/logos/GE991-1050_logoa95c.jpg?v2_68_0"
+                           <img src="assets/img/logo/nestle.png"
                               class="img-responsive center-block"
                               style="max-height: 80px;" />
                            </a>
@@ -132,7 +132,7 @@
                         <div class="col-xs-height col-middle col-xs-4">
                            <!-- <a href="companies/atkins-middle-east.html" title="Atkins Middle East careers"> -->
                            <a href="#" title="Atkins Middle East careers">
-                           <img src="assets/images1/logos/HE331-1392_logoa95c.jpg?v2_68_0"
+                           <img src="assets/img/logo/atkins.jpg"
                               class="img-responsive center-block"
                               style="max-height: 80px;" />
                            </a>
@@ -140,7 +140,7 @@
                         <div class="col-xs-height col-middle col-xs-4">
                            <!-- <a href="companies/alshaya.html" title="Alshaya careers"> -->
                            <a href="#" title="Alshaya careers">
-                           <img src="assets/images1/logos/GE435-493_minilogoa95c.png?v2_68_0"
+                           <img src="assets/img/logo/aishaya.png"
                               class="img-responsive center-block"
                               style="max-height: 80px;" />
                            </a>
@@ -148,20 +148,20 @@
                         <div class="col-xs-height col-middle col-xs-4">
                            <!-- <a href="companies/arcadis.html" title="Arcadis careers"> -->
                            <a href="#" title="Arcadis careers">
-                           <img src="assets/images1/logos/ME180-4238_logoa95c.jpg?v2_68_0" class="img-responsive center-block" style="max-height: 80px;" />
+                           <img src="assets/img/logo/arcadis.jpg" style="max-height: 80px;" />
                            </a>
                         </div>
                         <div class="col-xs-height col-middle col-xs-4">
                            <!-- <a href="companies/parsons-international.html" title="Parsons International careers"> -->
                            <a href="#" title="Parsons International careers">
-                           <img src="assets/images1/logos/HE094-1155_minilogoa95c.jpg?v2_68_0" class="img-responsive center-block" style="max-height: 80px;" />
+                           <img src="assets/img/logo/parsons.jpg" style="max-height: 80px;" />
                            </a>
                         </div>
-                        <div class="col-xs-height col-middle col-xs-4">
+                        <!--<div class="col-xs-height col-middle col-xs-4">
                            <!-- <a href="companies/gulf-marketing-group-gmg-group.html" title="Gulf Marketing Group (GMG Group) careers"> -->
-                           <a href="#" title="Gulf Marketing Group (GMG Group) careers">
+                           <!--<a href="#" title="Gulf Marketing Group (GMG Group) careers">
                            <img src="assets/images1/logos/QE229-7284_logoa95c.jpg?v2_68_0" class="img-responsive center-block" style="max-height: 80px;" />
-                           </a>
+                           </a>-->
                         </div>
                      </div>
                   </div>
@@ -248,7 +248,7 @@
                                     <div class="media-object pull-left">
                                        <div class="icon icon-2x hover-expand">
                                           <!--<i class="flag flag-AE"></i>-->
-                                       <div class="kualalampur"><img src="assets/img/kualalampur.png" class="img-responsive">
+                                       <div class="kualalampur"><img src="assets/img/flags/kualalampur.png" class="img-responsive">
                                        </div>
                                     </div>
                                     </div>
@@ -268,7 +268,7 @@
                                     <div class="media-object pull-left">
                                        <div class="icon icon-2x hover-expand">
                                           <!--<i class="flag flag-SA"></i>-->
-                                       <div class="kualalampur"><img src="assets/img/selonger.png" class="img-responsive">
+                                       <div class="kualalampur"><img src="assets/img/flags/selonger.png" class="img-responsive">
                                        </div>
                                        </div>
                                     </div>
@@ -288,7 +288,7 @@
                                     <div class="media-object pull-left">
                                        <div class="icon icon-2x hover-expand">
                                           <!--<i class="flag flag-QA"></i>-->
-                                          <div class="kualalampur"><img src="assets/img/penang.png" class="img-responsive">
+                                          <div class="kualalampur"><img src="assets/img/flags/penang.png" class="img-responsive">
                                        </div>
                                        </div>
                                     </div>
@@ -308,7 +308,7 @@
                                     <div class="media-object pull-left">
                                        <div class="icon icon-2x hover-expand">
                                           <!--<i class="flag flag-KW"></i>-->
-                                            <div class="kualalampur"><img src="assets/img/johar.png" class="img-responsive">
+                                            <div class="kualalampur"><img src="assets/img/flags/johar.png" class="img-responsive">
                                        </div>
                                        </div>
                                     </div>
@@ -331,7 +331,7 @@
                                     <div class="media-object pull-left">
                                        <div class="icon icon-2x hover-expand">
                                           <!--<i class="flag flag-OM"></i>-->
-                                          <div class="kualalampur"><img src="assets/img/sarawak.png" class="img-responsive">
+                                          <div class="kualalampur"><img src="assets/img/flags/sarawak.png" class="img-responsive">
                                        </div>
                                        </div>
                                     </div>
@@ -354,7 +354,7 @@
                                     <div class="media-object pull-left">
                                        <div class="icon icon-2x hover-expand">
                                           <!--<i class="flag flag-BH"></i>-->
-                                           <div class="kualalampur"><img src="assets/img/melaka.png" class="img-responsive">
+                                           <div class="kualalampur"><img src="assets/img/flags/melaka.png" class="img-responsive">
                                        </div>
                                        </div>
                                     </div>
@@ -378,7 +378,7 @@
                                     <div class="media-object pull-left">
                                        <div class="icon icon-2x hover-expand">
                                           <!--<i class="flag flag-EG"></i>-->
-                                           <div class="kualalampur"><img src="assets/img/labaun.png" class="img-responsive">
+                                           <div class="kualalampur"><img src="assets/img/flags/labaun.png" class="img-responsive">
                                        </div>
                                        </div>
                                     </div>
@@ -430,7 +430,7 @@
                                     <div class="media-object pull-left">
                                        <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
                                           <!--<i class="fa  fa-house-measured"></i>-->
-                                          <div class="civil"><img src="assets/img/civil.png" class="img-responsive">
+                                          <div class="civil"><img src="assets/img/icons/civil.png" class="img-responsive">
                                        </div>
                                        </div>
                                     </div>
@@ -457,7 +457,7 @@
                                     <div class="media-object pull-left">
                                        <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
                                           <!--<i class="fa  fa-html-tag"></i>-->
-                                           <div class="civil"><img src="assets/img/management.png" class="img-responsive">
+                                           <div class="civil"><img src="assets/img/icons/management.png" class="img-responsive">
                                        </div>
                                        </div>
                                     </div>
@@ -482,7 +482,7 @@
                                     <div class="media-object pull-left">
                                        <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
                                          <!--<i class="fa  fa-test-paper"></i>-->
-                                          <div class="civil"><img src="assets/img/software.png" class="img-responsive">
+                                          <div class="civil"><img src="assets/img/icons/software.png" class="img-responsive">
                                        </div>
                                        </div>
                                     </div>
@@ -506,7 +506,7 @@
                                     <div class="media-object pull-left">
                                        <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
                                           <!--<i class="fa  fa-dollar"></i>-->
-                                          <div class="civil"><img src="assets/img/finance.png" class="img-responsive">
+                                          <div class="civil"><img src="assets/img/icons/finance.png" class="img-responsive">
                                        </div>
                                        </div>
                                     </div>
@@ -532,7 +532,7 @@
                                     <div class="media-object pull-left">
                                        <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
                                           <!--<i class="fa  fa-warehouse"></i>-->
-                                          <div class="civil"><img src="assets/img/salesman.png" class="img-responsive">
+                                          <div class="civil"><img src="assets/img/icons/salesman.png" class="img-responsive">
                                        </div>
                                        </div>
                                     </div>
@@ -556,7 +556,7 @@
                                     <div class="media-object pull-left">
                                        <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
                                           <!--<i class="fa  fa-book-pen"></i>-->
-                                          <div class="civil"><img src="assets/img/accounting.png" class="img-responsive">
+                                          <div class="civil"><img src="assets/img/icons/accounting.png" class="img-responsive">
                                        </div>
                                        </div>
                                     </div>
@@ -581,7 +581,7 @@
                                     <div class="media-object pull-left">
                                        <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
                                           <!--<i class="fa  fa-chef"></i>-->
-                                          <div class="civil"><img src="assets/img/retail_sales.png" class="img-responsive">
+                                          <div class="civil"><img src="assets/img/icons/retail_sales.png" class="img-responsive">
                                        </div>
                                        </div>
                                     </div>
