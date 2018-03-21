@@ -46,7 +46,7 @@
                                     <li><a href="#">Help for Candidates</a></li>
                                      <!--<li><a href="faqs.html">Help for Candidates</a></li>-->
                                     <!--<li><a href="ar/jobs.html">&#1578;&#1608;&#1592;&#1610;&#1601;</a></li>-->
-                                    <li><a href="#">&#1578;&#1608;&#1592;&#1610;&#1601;</a></li>
+                                    <!--<li><a href="#">&#1578;&#1608;&#1592;&#1610;&#1601;</a></li>-->
                                  </ul>
                               </div>
                               <div class="col-sm-4">
@@ -127,7 +127,7 @@
                                  </ul>
                               </div>
                               <div class="col-sm-4">
-                                 <h4>GulfTalent</h4>
+                                 <h4>JobLaneTalent</h4>
                                  <ul class="list-unstyled">
                                     <li><a href="#">About us</a></li>
                                     <li><a href="#">TV coverage</a></li>
@@ -187,7 +187,7 @@
                                     </li>
                                     <li><a href="#">RSS</a> |</li>
                                     <li>
-                                       <span>&copy; GulfTalent 2018. All Rights Reserved.</span>
+                                       <span>&copy; JobLane 2018. All Rights Reserved.</span>
                                     </li>
 
 

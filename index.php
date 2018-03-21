@@ -79,7 +79,7 @@
             </div>
          </div>
       </section>
-      <div style="background-image: url(images/homepage_hero_defaulta95c.jpg)" class="jumbotron bg-cover background-centered">
+      <div style="background-image: url(assets/img/banner.png)" class="jumbotron bg_banner bg-cover background-centered">
          <div class="container">
             <div class="row">
                <div class=" col-sm-24 s-search-model">
@@ -95,15 +95,14 @@
                            <i class="fa fa-map-marker"></i>
                            <select class="form-control input-lg s-input-lg" name="frmPositionCountry">
                               <option selected disabled="disabled">Location</option>
-                              <option value="" >UAE</option>
-                              <option value="" >Qatar</option>
-                              <option value="" >Saudi Arabia</option>
-                              <option value="" >Oman</option>
-                              <option value="" >Bahrain</option>
-                              <option value="" >Kuwait</option>
-                              <option value="" >Egypt</option>
-                              <option value="" >Jordan</option>
-                              <option value="" >Lebanon</option>
+                              <option value="" >Kuala Lumpur</option>
+                              <option value="" >Selongar</option>
+                              <option value="" >Penang</option>
+                              <option value="" >Johar</option>
+                              <option value="" >Sarawak</option>
+                              <option value="" >Melaka</option>
+                              <option value="" >Labuan</option>
+                             
                            </select>
                         </div>
                         <button type="submit" class="btn btn-lg btn-primary btn-corner">
@@ -125,7 +124,7 @@
                         <div class="col-xs-height col-middle col-xs-4">
                            <!-- <a href="companies/nestle-middle-east.html" title="Nestle Middle East careers"> -->
                            <a href="#" title="Nestle Middle East careers">
-                           <img src="images1/logos/GE991-1050_logoa95c.jpg?v2_68_0"
+                           <img src="assets/images1/logos/GE991-1050_logoa95c.jpg?v2_68_0"
                               class="img-responsive center-block"
                               style="max-height: 80px;" />
                            </a>
@@ -133,7 +132,7 @@
                         <div class="col-xs-height col-middle col-xs-4">
                            <!-- <a href="companies/atkins-middle-east.html" title="Atkins Middle East careers"> -->
                            <a href="#" title="Atkins Middle East careers">
-                           <img src="images1/logos/HE331-1392_logoa95c.jpg?v2_68_0"
+                           <img src="assets/images1/logos/HE331-1392_logoa95c.jpg?v2_68_0"
                               class="img-responsive center-block"
                               style="max-height: 80px;" />
                            </a>
@@ -141,7 +140,7 @@
                         <div class="col-xs-height col-middle col-xs-4">
                            <!-- <a href="companies/alshaya.html" title="Alshaya careers"> -->
                            <a href="#" title="Alshaya careers">
-                           <img src="images1/logos/GE435-493_minilogoa95c.png?v2_68_0"
+                           <img src="assets/images1/logos/GE435-493_minilogoa95c.png?v2_68_0"
                               class="img-responsive center-block"
                               style="max-height: 80px;" />
                            </a>
@@ -149,19 +148,19 @@
                         <div class="col-xs-height col-middle col-xs-4">
                            <!-- <a href="companies/arcadis.html" title="Arcadis careers"> -->
                            <a href="#" title="Arcadis careers">
-                           <img src="images1/logos/ME180-4238_logoa95c.jpg?v2_68_0" class="img-responsive center-block" style="max-height: 80px;" />
+                           <img src="assets/images1/logos/ME180-4238_logoa95c.jpg?v2_68_0" class="img-responsive center-block" style="max-height: 80px;" />
                            </a>
                         </div>
                         <div class="col-xs-height col-middle col-xs-4">
                            <!-- <a href="companies/parsons-international.html" title="Parsons International careers"> -->
                            <a href="#" title="Parsons International careers">
-                           <img src="images1/logos/HE094-1155_minilogoa95c.jpg?v2_68_0" class="img-responsive center-block" style="max-height: 80px;" />
+                           <img src="assets/images1/logos/HE094-1155_minilogoa95c.jpg?v2_68_0" class="img-responsive center-block" style="max-height: 80px;" />
                            </a>
                         </div>
                         <div class="col-xs-height col-middle col-xs-4">
                            <!-- <a href="companies/gulf-marketing-group-gmg-group.html" title="Gulf Marketing Group (GMG Group) careers"> -->
                            <a href="#" title="Gulf Marketing Group (GMG Group) careers">
-                           <img src="images1/logos/QE229-7284_logoa95c.jpg?v2_68_0" class="img-responsive center-block" style="max-height: 80px;" />
+                           <img src="assets/images1/logos/QE229-7284_logoa95c.jpg?v2_68_0" class="img-responsive center-block" style="max-height: 80px;" />
                            </a>
                         </div>
                      </div>
@@ -177,7 +176,7 @@
             </div>
          </div>
       </section>
-      <section style="background-image: url(images/employers_finda95c.jpg?v2_68_0)" class="bg-cover">
+      <section style="background-image: url(assets/images/employers_finda95c.jpg?v2_68_0)" class="bg-cover">
          <div class="container">
             <div class="row space-top-sm space-bottom-sm">
                <div class="col-sm-offset-8 col-sm-16 text-center">
@@ -186,7 +185,7 @@
                      <span class="text-hg text-primary text-elegant">60,000</span>
                      <span class="text-xxl text-muted text-elegant">
                      professionals get contacted by employers every <br />
-                     month through <strong fa_strong>GulfTalent</strong>
+                     month through <strong fa_strong>JobLaneTalent</strong>
                      </span>
                   </div>
                   <div class="space-bottom-sm text-hg text-muted text-elegant">
@@ -202,7 +201,8 @@
             </div>
          </div>
       </section>
-      <section style="background-image: url(images/red_ribbon_stripa95c.jpg?v2_68_0)">
+      <section class="backgroud_color">
+      <!--<section style="background-image: url(images/red_ribbon_stripa95c.jpg?v2_68_0)">-->
          <div class="container">
             <div class="row">
                <div class="col-sm-8 text-center">
@@ -647,7 +647,7 @@
                            <li>Courses across 20 fields</li>
                         </ul>
                         <div class="text-center">
-                           <button class="btn btn-block btn-lg btn-section">Find a course</button>
+                           <button class="btn btn-block btn-lg btn-section">Find a Course</button>
                         </div>
                      </div>
                   </a>

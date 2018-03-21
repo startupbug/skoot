@@ -3204,7 +3204,8 @@ address{
     font-size:14px!important
 }
 .text-lg{
-    font-size:18px!important
+    font-size:18px!important;
+    color: #1c2870 !important;
 }
 .text-xl{
     font-size:20px!important
@@ -3267,7 +3268,7 @@ a.text-regular:hover{
     color:#000
 }
 .text-inverted{
-    color:#fff!important
+    color:#fff;
 }
 a.text-inverted:hover{
     color:#e6e6e6
@@ -7503,7 +7504,7 @@ a.badge:focus,a.badge:hover{
 }
 @media screen and (min-width:1px){
     .jumbotron{
-        padding-top:48px;
+        padding-top:200px;
         padding-bottom:48px
     }
     .container .jumbotron{
@@ -9555,7 +9556,7 @@ body{
     margin-bottom:386px
 }
 header{
-    border-bottom:10px solid #28306c;
+    /*border-bottom:10px solid #28306c;*/
     background:#fff;
     color:#fff
 }
@@ -9585,7 +9586,7 @@ footer .sitemap li a:hover{
     color:#ddd
 }
 footer .links{
-    background:#fff;
+    background: #515151;
     padding:15px
 }
 footer .links .list-inline{
@@ -9595,7 +9596,7 @@ footer .links .list-inline{
 footer .links .list-inline li{
     margin-bottom:0;
     font-size:13px;
-    color:#636464
+    color:#fff;
 }
 footer .links .list-inline li a,footer .links .list-inline li a:hover{
     color:inherit
@@ -11919,4 +11920,12 @@ a.text-section:hover{
     border-color: #1c2870;
     padding-left: 40px;
     padding-right: 40px;
+}
+
+section.backgroud_color {
+    background-color: #25a8e0;
+}
+
+.bg_banner {
+    height: 623px;
 }
