@@ -1,0 +1,44 @@
+
+@font-face {
+  font-family: 'AVANTGA';
+  src: url("../fonts/ITC_Avant_Garde_Gothic_Demi.ttf");
+  src: url("../fonts/ITC_Avant_Garde_Gothic_Demi.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+.header-ribbon, .media-object>.media-title, .page-header, .section-courses .header-ribbon, .section-courses .media-object>.media-title, .section-events .header-ribbon, .section-events .media-object>.media-title, .section-jobs .header-ribbon, .section-jobs .media-object>.media-title, .section-premium .header-ribbon, .section-premium .media-object>.media-title, .section-resources .header-ribbon, .section-resources .media-object>.media-title, .section-salaries .header-ribbon, .section-salaries .media-object>.media-title, .section-theme .section-courses .header-ribbon, .section-theme .section-courses .media-object>.media-title, .section-theme .section-events .header-ribbon, .section-theme .section-events .media-object>.media-title, .section-theme .section-jobs .header-ribbon, .section-theme .section-jobs .media-object>.media-title, .section-theme .section-premium .header-ribbon, .section-theme .section-premium .media-object>.media-title, .section-theme .section-resources .header-ribbon, .section-theme .section-resources .media-object>.media-title, .section-theme .section-salaries .header-ribbon, .section-theme .section-salaries .media-object>.media-title {
+  background-color: #1c2870;
+  padding: 50px 0px;
+}
+.page-header {
+    border-top: 0px solid #fff;
+}
+h3.s_headingjobs {
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+  color: #fff;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: "AVANTGA";
+    font-weight: 500;
+    line-height: 1.1;
+}
+.s-input-lg-job {
+    border-radius: 6px !important;
+    border-color: #ffffff !important;
+    color: #ffffff !important;
+    background-color: #1c2870 !important;
+}
+.s-input-lg-job::placeholder{
+  color: #ffffff !important;
+}
+.s-color-white .fa {
+    color: #ffffff;
+}
+a.s-list-group-item {
+    color: #1c2870 !important;
+}
+.s-panel-title, .s-panel-title a:hover {
+    color: #25a8e0;
+}

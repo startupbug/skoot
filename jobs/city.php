@@ -1,23 +1,24 @@
 
 <?php include('../header.php'); ?>
     <main id="main-block">
-                    <div class="page-header">
+            <div class="page-header">
                 <div class="container">
                     <div class="row">
-                        <div class="col-sm-24">
-                                <h1>Jobs By City</h1>
-    <h2>Find jobs in different cities in the Middle East &#38; Gulf region</h2>
-                        </div>
+                      <div class="col-sm-24">
+                         <h1>Jobs By City</h1>
+                         <h3 class="s_headingjobs">Find jobs in different cities in the Middle East & Gulf region</h3>
+
+                      </div>
                     </div>
                 </div>
             </div>
-        
-                
+
+
         <div class="page-content">
 
                <!-- <div class="flashmessage">
     <!--<div class="container">
-        
+
 <div class="row">
     <div class="col-sm-24">
         <div class="alert alert-{{ flashMessage.type }} fade container-xs-height container-block space-bottom-sm"
@@ -72,7 +73,7 @@
       <div class="col-sm-24">
          <div class="row">
             <div class="col-sm-6">
-               <div class="panel panel-default panel-hover 
+               <div class="panel panel-default panel-hover
                   ">
                   <a href="../uae/jobs/city/dubai.html"
                      title="Dubai"
@@ -97,7 +98,7 @@
                </div>
             </div>
             <div class="col-sm-6">
-               <div class="panel panel-default panel-hover 
+               <div class="panel panel-default panel-hover
                   ">
                   <a href="../uae/jobs/city/abu-dhabi.html"
                      title="Abu Dhabi"
@@ -122,7 +123,7 @@
                </div>
             </div>
             <div class="col-sm-6">
-               <div class="panel panel-default panel-hover 
+               <div class="panel panel-default panel-hover
                   ">
                   <a href="../saudi-arabia/jobs/city/riyadh.html"
                      title="Riyadh"
@@ -147,7 +148,7 @@
                </div>
             </div>
             <div class="col-sm-6">
-               <div class="panel panel-default panel-hover 
+               <div class="panel panel-default panel-hover
                   ">
                   <a href="../qatar/jobs/city/doha.html"
                      title="Doha"
@@ -174,7 +175,7 @@
          </div>
          <div class="row">
             <div class="col-sm-6">
-               <div class="panel panel-default panel-hover 
+               <div class="panel panel-default panel-hover
                   ">
                   <a href="../saudi-arabia/jobs/city/jeddah.html"
                      title="Jeddah"
@@ -199,7 +200,7 @@
                </div>
             </div>
             <div class="col-sm-6">
-               <div class="panel panel-default panel-hover 
+               <div class="panel panel-default panel-hover
                   ">
                   <a href="../oman/jobs/city/muscat.html"
                      title="Muscat"
@@ -224,7 +225,7 @@
                </div>
             </div>
             <div class="col-sm-6">
-               <div class="panel panel-default panel-hover 
+               <div class="panel panel-default panel-hover
                   ">
                   <a href="../uae/jobs/city/sharjah.html"
                      title="Sharjah"
@@ -249,7 +250,7 @@
                </div>
             </div>
             <div class="col-sm-6">
-               <div class="panel panel-default panel-hover 
+               <div class="panel panel-default panel-hover
                   ">
                   <a href="../saudi-arabia/jobs/city/yanbu.html"
                      title="Yanbu"
@@ -276,7 +277,7 @@
          </div>
          <div class="row">
             <div class="col-sm-6">
-               <div class="panel panel-default panel-hover 
+               <div class="panel panel-default panel-hover
                   ">
                   <a href="../uae/jobs/city/al-ain.html"
                      title="Al Ain"
@@ -301,7 +302,7 @@
                </div>
             </div>
             <div class="col-sm-6">
-               <div class="panel panel-default panel-hover 
+               <div class="panel panel-default panel-hover
                   ">
                   <a href="../kuwait/jobs/city/kuwait-city.html"
                      title="Kuwait City"

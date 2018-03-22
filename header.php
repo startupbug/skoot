@@ -1,4 +1,4 @@
-<?php $base_url = 'http://localhost/skoot/skootjob/';?>
+<?php $base_url = 'http://localhost/skoot/01/';?>
 <!DOCTYPE html>
 
 <html class="no-js ie ng-app:GT.app " ng-app="GT.app" id="ng-app">
@@ -8,7 +8,7 @@
 <head>
 
    <link href="<?php echo $base_url; ?>assets/css/gt-common.mina95c.css" type="text/css" rel="stylesheet" />
-
+   <link href="<?php echo $base_url; ?>assets/css/s_css.css" type="text/css" rel="stylesheet" />
    <title>Skoot job</title>
    <meta charset="utf-8" />
    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
@@ -190,4 +190,3 @@
                         </div>
                      </div>
                   </header>
-                  
