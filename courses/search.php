@@ -559,11 +559,11 @@
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-2x hover-expand">
-                                       <i class="flag flag-AE"></i>
+                                       <i class="flag flag-KL"></i>
                                     </div>
                                  </div>
                                  <div class="media-body col-xs-height col-middle">
-                                    <h4 class="space-bottom-none text-link">UAE</h4>
+                                    <h4 class="space-bottom-none text-link">Kuala Lumpur</h4>
                                     <span class="text-sm text-supermuted ">
                                     (1,300)
                                     </span>
@@ -578,11 +578,11 @@
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-2x hover-expand">
-                                       <i class="flag flag-SA"></i>
+                                       <i class="flag flag-SE"></i>
                                     </div>
                                  </div>
                                  <div class="media-body col-xs-height col-middle">
-                                    <h4 class="space-bottom-none text-link">Saudi Arabia</h4>
+                                    <h4 class="space-bottom-none text-link">Selonger</h4>
                                     <span class="text-sm text-supermuted ">
                                     (37)
                                     </span>
@@ -597,11 +597,11 @@
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-2x hover-expand">
-                                       <i class="flag flag-GB"></i>
+                                       <i class="flag flag-PE"></i>
                                     </div>
                                  </div>
                                  <div class="media-body col-xs-height col-middle">
-                                    <h4 class="space-bottom-none text-link">United Kingdom</h4>
+                                    <h4 class="space-bottom-none text-link">Penang</h4>
                                     <span class="text-sm text-supermuted ">
                                     (26)
                                     </span>
@@ -616,11 +616,11 @@
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-2x hover-expand">
-                                       <i class="flag flag-QA"></i>
+                                       <i class="flag flag-JO"></i>
                                     </div>
                                  </div>
                                  <div class="media-body col-xs-height col-middle">
-                                    <h4 class="space-bottom-none text-link">Qatar</h4>
+                                    <h4 class="space-bottom-none text-link">Johar</h4>
                                     <span class="text-sm text-supermuted ">
                                     (12)
                                     </span>
@@ -637,11 +637,11 @@
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-2x hover-expand">
-                                       <i class="flag flag-OM"></i>
+                                       <i class="flag flag-SA"></i>
                                     </div>
                                  </div>
                                  <div class="media-body col-xs-height col-middle">
-                                    <h4 class="space-bottom-none text-link">Oman</h4>
+                                    <h4 class="space-bottom-none text-link">Sarawak</h4>
                                     <span class="text-sm text-supermuted ">
                                     (9)
                                     </span>
@@ -656,11 +656,11 @@
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-2x hover-expand">
-                                       <i class="flag flag-KW"></i>
+                                       <i class="flag flag-ME"></i>
                                     </div>
                                  </div>
                                  <div class="media-body col-xs-height col-middle">
-                                    <h4 class="space-bottom-none text-link">Kuwait</h4>
+                                    <h4 class="space-bottom-none text-link">Melaka</h4>
                                     <span class="text-sm text-supermuted">
                                     (9)
                                     </span>
@@ -675,11 +675,11 @@
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-2x hover-expand">
-                                       <i class="flag flag-BH"></i>
+                                       <i class="flag flag-LA"></i>
                                     </div>
                                  </div>
                                  <div class="media-body col-xs-height col-middle">
-                                    <h4 class="space-bottom-none text-link">Bahrain</h4>
+                                    <h4 class="space-bottom-none text-link">Labuan</h4>
                                     <span class="text-sm text-supermuted">
                                     (3)
                                     </span>
@@ -692,37 +692,9 @@
                         <div class="panel panel-default panel-hover panel-bordered">
                            <a href="#" title="Egypt" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
-                                 <div class="media-object pull-left">
-                                    <div class="icon icon-2x hover-expand">
-                                       <i class="flag flag-EG"></i>
-                                    </div>
-                                 </div>
+                                <div class="media-object pull-left"></div>
                                  <div class="media-body col-xs-height col-middle">
-                                    <h4 class="space-bottom-none text-link">Egypt</h4>
-                                    <span class="text-sm text-supermuted ">
-                                    (1)
-                                    </span>
-                                 </div>
-                              </div>
-                           </a>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="row">
-                     <div class="col-sm-6">
-                        <div class="panel panel-default panel-hover panel-bordered ">
-                           <a href="#" title="Canada" class="panel-body">
-                              <div class="media container-xs-height media-height-sm">
-                                 <div class="media-object pull-left">
-                                    <div class="icon icon-2x hover-expand">
-                                       <i class="flag flag-CA"></i>
-                                    </div>
-                                 </div>
-                                 <div class="media-body col-xs-height col-middle">
-                                    <h4 class="space-bottom-none text-link">Canada</h4>
-                                    <span class="text-sm text-supermuted ">
-                                    (1)
-                                    </span>
+                                    <h4 class="space-bottom-none text-link">More countries...</h4>
                                  </div>
                               </div>
                            </a>

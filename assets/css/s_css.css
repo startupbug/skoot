@@ -50,3 +50,69 @@ a.s-list-group-item {
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
     color: #25a8e0;
 }
+.flag-SE{
+  background-image: url(../img/flags/selonger.png);
+  background-size: 48px 30px;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 48px;
+  height: 48px;
+}
+.flag-SA{
+  background-image: url(../img/flags/sarawak.png);
+  background-size: 48px 30px;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 48px;
+  height: 48px;
+}
+.flag-PE{
+  background-image: url(../img/flags/penang.png);
+  background-size: 48px 30px;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 48px;
+  height: 48px;
+}
+.flag-ME{
+  background-image: url(../img/flags/melaka.png);
+  background-size: 48px 30px;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 48px;
+  height: 48px;
+}
+.flag-LA{
+  background-image: url(../img/flags/labaun.png);
+  background-size: 48px 30px;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 48px;
+  height: 48px;
+}
+.flag-KL{
+  background-image: url(../img/flags/kualalampur.png);
+  background-size: 48px 30px;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 48px;
+  height: 48px;
+}
+.flag-JO{
+  background-image: url(../img/flags/johar.png);
+  background-size: 48px 30px;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 48px;
+  height: 48px;
+}
+
+.s_headingjobs_lg{
+    font-size: 19px !important;
+}
+.s_bg-project {
+    background-color: #28306c;
+}
+.s_text_color_white{
+  color: #fff;
+}
