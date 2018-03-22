@@ -1,4 +1,4 @@
-<?php $base_url = 'http://localhost/skoot/01/';?>
+<?php $base_url = 'http://localhost/skoot/skootjob/';?>
 <!DOCTYPE html>
 
 <html class="no-js ie ng-app:GT.app " ng-app="GT.app" id="ng-app">

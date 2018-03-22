@@ -16,7 +16,7 @@
 h3.s_headingjobs {
   margin: 0;
   padding: 0;
-  font-size: 12px;
+  font-size: 13px;
   color: #fff;
 }
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
@@ -40,5 +40,13 @@ a.s-list-group-item {
     color: #1c2870 !important;
 }
 .s-panel-title, .s-panel-title a:hover {
+    color: #25a8e0;
+}
+
+.media-object>.icon.icon-circle {
+    border: 1px solid #28306c;
+    border-radius: 50%;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
     color: #25a8e0;
 }
