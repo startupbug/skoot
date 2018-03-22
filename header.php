@@ -1,6 +1,7 @@
 <?php $base_url = 'http://localhost/skoot/skootjob/';?>
 <!DOCTYPE html>
 
+
 <html class="no-js ie ng-app:GT.app " ng-app="GT.app" id="ng-app">
 
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
@@ -78,15 +79,15 @@
                   <i class="fa fa-angle-down text-primary text_color text-lg"></i>
                </a>
                <ul class="dropdown-menu">
-                  <li><a href="#">Search Jobs</a></li>
-                  <li><a href="#">Jobs by Country</a></li>
-                  <li><a href="#">Jobs by City</a></li>
-                  <li><a href="#">Jobs by Category</a></li>
-                  <li><a href="#">Jobs by Industry</a></li>
+                  <li><a href="<?php echo $base_url; ?>jobs/search_job.php">Search Jobs</a></li>
+                  <!--<li><a href="#">Jobs by Country</a></li>-->
+                  <li><a href="<?php echo $base_url; ?>jobs/city.php">Jobs by City</a></li>
+                  <li><a href="<?php echo $base_url; ?>jobs/category.php">Jobs by Category</a></li>
+                  <li><a href="<?php echo $base_url; ?>jobs/industry.php">Jobs by Industry</a></li>
                   <li>
-                     <a href="#">Executive jobs</a>
+                     <a href="<?php echo $base_url; ?>jobs/executive.php">Executive jobs</a>
                   </li>
-                  <li><a href="#">Top Companies</a></li>
+                  <li><a href="<?php echo $base_url; ?>jobs/company.php">Top Companies</a></li>
 
                                         <!-- <li><a href="jobs.html">Search Jobs</a></li>
                                        <li><a href="jobs/country.html">Jobs by Country</a></li>
@@ -105,9 +106,9 @@
                                        <i class="fa fa-angle-down text-primary text-lg"></i>
                                     </a>
                                     <ul class="dropdown-menu">
-                                       <li><a href="#">Search Courses</a></li>
-                                       <li><a href="#">Courses by Field</a></li>
-                                       <li><a href="#">Courses by Country</a></li>
+                                       <li><a href="<?php echo $base_url; ?>courses/search.php">Search Courses</a></li>
+                                       <li><a href="<?php echo $base_url; ?>courses/byFeild.php">Courses by Field</a></li>
+                                       <!--<li><a href="#">Courses by Country</a></li>-->
 
                                         <!--<li><a href="courses.html">Search Courses</a></li>
                                        <li><a href="courses/category.html">Courses by Field</a></li>
@@ -121,15 +122,15 @@
                                     </a>
                                     <ul class="dropdown-menu">
                                        <li>
-                                          <a href="#">Evaluate Salaries</a>
+                                          <a href="<?php echo $base_url; ?>salaries/evaluate.php">Evaluate Salaries</a>
                                        </li>
                                        <li>
-                                          <a href="#">
+                                         <a href="<?php echo $base_url; ?>salaries/salaryTrend.php">
                                              Salary Trends Report
                                           </a>
                                        </li>
                                        <li>
-                                          <a href="#">
+                                          <a href="<?php echo $base_url; ?>salaries/cost.php">
                                              Cost of Living Reports
                                           </a>
                                        </li>
