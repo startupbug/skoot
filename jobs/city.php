@@ -6,7 +6,7 @@
                     <div class="row">
                       <div class="col-sm-24">
                          <h1>Jobs By City</h1>
-                         <h3 class="s_headingjobs">Find jobs in different cities in the Middle East & Gulf region</h3>
+                         <h3 class="s_headingjobs">Find jobs in different cities of Malaysia</h3>
 
                       </div>
                     </div>
@@ -75,22 +75,18 @@
             <div class="col-sm-6">
                <div class="panel panel-default panel-hover
                   ">
-                  <a href="../uae/jobs/city/dubai.html"
-                     title="Dubai"
-                     class="panel-body">
-                     <div class="media container-xs-height
-                        media-height-sm">
-                        <div class="media-object pull-left">
-                           <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
-                              <i class="fa  fa-building-o  fa-AE"></i>
-                           </div>
-                        </div>
+                  <!--<a href="../uae/jobs/city/dubai.html" title="Dubai" class="panel-body">-->
+                    <a href="#" title="Dubai" class="panel-body">
+                     <div class="media container-xs-height media-height-sm">
+                       <div class="media-object pull-left">
+                                    <div class="icon icon-2x hover-expand">
+                                       <i class="flag flag-KL"></i>
+                                    </div>
+                                 </div>
                         <div class="media-body col-xs-height col-middle">
-                           <h4 class="space-bottom-none text-link">Dubai</h4>
-                           <span class="text-sm
-                              text-muted
-                              ">
-                           (986)
+                           <h4 class="space-bottom-none text-link">Kuala Lampur</h4>
+                           <span class="text-sm text-muted">
+                           (1,653)
                            </span>
                         </div>
                      </div>
@@ -98,24 +94,19 @@
                </div>
             </div>
             <div class="col-sm-6">
-               <div class="panel panel-default panel-hover
-                  ">
-                  <a href="../uae/jobs/city/abu-dhabi.html"
-                     title="Abu Dhabi"
-                     class="panel-body">
-                     <div class="media container-xs-height
-                        media-height-sm">
-                        <div class="media-object pull-left">
-                           <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
-                              <i class="fa  fa-building-o  fa-AE"></i>
-                           </div>
-                        </div>
+               <div class="panel panel-default panel-hover">
+                  <!--<a href="../uae/jobs/city/abu-dhabi.html" title="Abu Dhabi" class="panel-body">-->
+                    <a href="#" title="Abu Dhabi" class="panel-body">
+                     <div class="media container-xs-height media-height-sm">
+                         <div class="media-object pull-left">
+                                    <div class="icon icon-2x hover-expand">
+                                       <i class="flag flag-SE"></i>
+                                    </div>
+                                 </div>
                         <div class="media-body col-xs-height col-middle">
-                           <h4 class="space-bottom-none text-link">Abu Dhabi</h4>
-                           <span class="text-sm
-                              text-muted
-                              ">
-                           (274)
+                           <h4 class="space-bottom-none text-link">Selongar</h4>
+                           <span class="text-sm text-muted">
+                           (1,653)
                            </span>
                         </div>
                      </div>
@@ -123,24 +114,20 @@
                </div>
             </div>
             <div class="col-sm-6">
-               <div class="panel panel-default panel-hover
-                  ">
-                  <a href="../saudi-arabia/jobs/city/riyadh.html"
-                     title="Riyadh"
-                     class="panel-body">
-                     <div class="media container-xs-height
-                        media-height-sm">
+               <div class="panel panel-default panel-hover">
+                  <!--<a href="../saudi-arabia/jobs/city/riyadh.html" title="Riyadh" class="panel-body">-->
+                    <a href="#" title="Riyadh" class="panel-body">
+                     <div class="media container-xs-height media-height-sm">
                         <div class="media-object pull-left">
-                           <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
-                              <i class="fa  fa-building-o  fa-SA"></i>
-                           </div>
-                        </div>
+                                    <div class="icon icon-2x hover-expand">
+                                       <i class="flag flag-PE"></i>
+                                    </div>
+                                 </div>
+
                         <div class="media-body col-xs-height col-middle">
-                           <h4 class="space-bottom-none text-link">Riyadh</h4>
-                           <span class="text-sm
-                              text-muted
-                              ">
-                           (139)
+                           <h4 class="space-bottom-none text-link">penang</h4>
+                           <span class="text-sm text-muted">
+                           (1,653)
                            </span>
                         </div>
                      </div>
@@ -148,24 +135,19 @@
                </div>
             </div>
             <div class="col-sm-6">
-               <div class="panel panel-default panel-hover
-                  ">
-                  <a href="../qatar/jobs/city/doha.html"
-                     title="Doha"
-                     class="panel-body">
-                     <div class="media container-xs-height
-                        media-height-sm">
+               <div class="panel panel-default panel-hover">
+                  <!--<a href="../qatar/jobs/city/doha.html" title="Doha" class="panel-body">-->
+                    <a href="#" title="Doha" class="panel-body">
+                     <div class="media container-xs-height media-height-sm">
                         <div class="media-object pull-left">
-                           <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
-                              <i class="fa  fa-building-o  fa-QA"></i>
-                           </div>
-                        </div>
+                                    <div class="icon icon-2x hover-expand">
+                                       <i class="flag flag-JO"></i>
+                                    </div>
+                                 </div>
                         <div class="media-body col-xs-height col-middle">
-                           <h4 class="space-bottom-none text-link">Doha</h4>
-                           <span class="text-sm
-                              text-muted
-                              ">
-                           (81)
+                           <h4 class="space-bottom-none text-link">Johar</h4>
+                           <span class="text-sm text-muted">
+                           (1,653)
                            </span>
                         </div>
                      </div>
@@ -175,24 +157,19 @@
          </div>
          <div class="row">
             <div class="col-sm-6">
-               <div class="panel panel-default panel-hover
-                  ">
-                  <a href="../saudi-arabia/jobs/city/jeddah.html"
-                     title="Jeddah"
-                     class="panel-body">
-                     <div class="media container-xs-height
-                        media-height-sm">
-                        <div class="media-object pull-left">
-                           <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
-                              <i class="fa  fa-building-o  fa-SA"></i>
-                           </div>
-                        </div>
+               <div class="panel panel-default panel-hover">
+                  <!--<a href="../saudi-arabia/jobs/city/jeddah.html" title="Jeddah" class="panel-body">-->
+                    <a href="#" title="Jeddah" class="panel-body">
+                     <div class="media container-xs-height media-height-sm">
+                         <div class="media-object pull-left">
+                                    <div class="icon icon-2x hover-expand">
+                                       <i class="flag flag-SA"></i>
+                                    </div>
+                                 </div>
                         <div class="media-body col-xs-height col-middle">
-                           <h4 class="space-bottom-none text-link">Jeddah</h4>
-                           <span class="text-sm
-                              text-muted
-                              ">
-                           (53)
+                           <h4 class="space-bottom-none text-link">Sarawak</h4>
+                           <span class="text-sm text-muted">
+                           (1,653)
                            </span>
                         </div>
                      </div>
@@ -200,24 +177,19 @@
                </div>
             </div>
             <div class="col-sm-6">
-               <div class="panel panel-default panel-hover
-                  ">
-                  <a href="../oman/jobs/city/muscat.html"
-                     title="Muscat"
-                     class="panel-body">
-                     <div class="media container-xs-height
-                        media-height-sm">
-                        <div class="media-object pull-left">
-                           <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
-                              <i class="fa  fa-building-o  fa-OM"></i>
-                           </div>
-                        </div>
+               <div class="panel panel-default panel-hover">
+                  <!--<a href="../oman/jobs/city/muscat.html" title="Muscat" class="panel-body">-->
+                    <a href="#" title="Muscat" class="panel-body">
+                     <div class="media container-xs-height media-height-sm">
+                      <div class="media-object pull-left">
+                                    <div class="icon icon-2x hover-expand">
+                                       <i class="flag flag-ME"></i>
+                                    </div>
+                                 </div>
                         <div class="media-body col-xs-height col-middle">
-                           <h4 class="space-bottom-none text-link">Muscat</h4>
-                           <span class="text-sm
-                              text-muted
-                              ">
-                           (31)
+                           <h4 class="space-bottom-none text-link">Melaka</h4>
+                           <span class="text-sm text-muted">
+                           (1,653)
                            </span>
                         </div>
                      </div>
@@ -225,24 +197,19 @@
                </div>
             </div>
             <div class="col-sm-6">
-               <div class="panel panel-default panel-hover
-                  ">
-                  <a href="../uae/jobs/city/sharjah.html"
-                     title="Sharjah"
-                     class="panel-body">
-                     <div class="media container-xs-height
-                        media-height-sm">
-                        <div class="media-object pull-left">
-                           <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
-                              <i class="fa  fa-building-o  fa-AE"></i>
-                           </div>
-                        </div>
+               <div class="panel panel-default panel-hover">
+                  <!--<a href="../uae/jobs/city/sharjah.html" title="Sharjah" class="panel-body">-->
+                    <a href="#" title="Sharjah" class="panel-body">
+                     <div class="media container-xs-height media-height-sm">
+                         <div class="media-object pull-left">
+                                    <div class="icon icon-2x hover-expand">
+                                       <i class="flag flag-LA"></i>
+                                    </div>
+                                 </div>
                         <div class="media-body col-xs-height col-middle">
-                           <h4 class="space-bottom-none text-link">Sharjah</h4>
-                           <span class="text-sm
-                              text-muted
-                              ">
-                           (27)
+                           <h4 class="space-bottom-none text-link">Labaun</h4>
+                           <span class="text-sm text-muted">
+                           (1,653)
                            </span>
                         </div>
                      </div>
@@ -250,24 +217,19 @@
                </div>
             </div>
             <div class="col-sm-6">
-               <div class="panel panel-default panel-hover
-                  ">
-                  <a href="../saudi-arabia/jobs/city/yanbu.html"
-                     title="Yanbu"
-                     class="panel-body">
-                     <div class="media container-xs-height
-                        media-height-sm">
+               <div class="panel panel-default panel-hover">
+                  <!--<a href="../saudi-arabia/jobs/city/yanbu.html" title="Yanbu" class="panel-body">-->
+                    <a href="#" title="Yanbu" class="panel-body">
+                     <div class="media container-xs-height media-height-sm">
                         <div class="media-object pull-left">
-                           <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
-                              <i class="fa  fa-building-o  fa-SA"></i>
-                           </div>
-                        </div>
+                                    <div class="icon icon-2x hover-expand">
+                                       <i class="flag flag-sabah"></i>
+                                    </div>
+                                 </div>
                         <div class="media-body col-xs-height col-middle">
-                           <h4 class="space-bottom-none text-link">Yanbu</h4>
-                           <span class="text-sm
-                              text-muted
-                              ">
-                           (19)
+                           <h4 class="space-bottom-none text-link">Sabah</h4>
+                           <span class="text-sm text-muted">
+                           (1,653)
                            </span>
                         </div>
                      </div>
@@ -277,24 +239,18 @@
          </div>
          <div class="row">
             <div class="col-sm-6">
-               <div class="panel panel-default panel-hover
-                  ">
-                  <a href="../uae/jobs/city/al-ain.html"
-                     title="Al Ain"
-                     class="panel-body">
-                     <div class="media container-xs-height
-                        media-height-sm">
-                        <div class="media-object pull-left">
-                           <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
-                              <i class="fa  fa-building-o  fa-AE"></i>
-                           </div>
-                        </div>
+               <div class="panel panel-default panel-hover">
+                  <a href="../uae/jobs/city/al-ain.html" title="Al Ain" class="panel-body">
+                     <div class="media container-xs-height media-height-sm">
+                         <div class="media-object pull-left">
+                                    <div class="icon icon-2x hover-expand">
+                                       <i class="flag flag-perag"></i>
+                                    </div>
+                                 </div>
                         <div class="media-body col-xs-height col-middle">
-                           <h4 class="space-bottom-none text-link">Al Ain</h4>
-                           <span class="text-sm
-                              text-muted
-                              ">
-                           (19)
+                           <h4 class="space-bottom-none text-link">Perak</h4>
+                           <span class="text-sm text-muted">
+                           (1,653)
                            </span>
                         </div>
                      </div>
@@ -302,24 +258,141 @@
                </div>
             </div>
             <div class="col-sm-6">
-               <div class="panel panel-default panel-hover
-                  ">
-                  <a href="../kuwait/jobs/city/kuwait-city.html"
-                     title="Kuwait City"
-                     class="panel-body">
-                     <div class="media container-xs-height
-                        media-height-sm">
-                        <div class="media-object pull-left">
-                           <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
-                              <i class="fa  fa-building-o  fa-KW"></i>
-                           </div>
-                        </div>
+               <div class="panel panel-default panel-hover">
+                 <!--<a href="../kuwait/jobs/city/kuwait-city.html" title="Kuwait City" class="panel-body">-->
+                  <a href="#" title="Kuwait City" class="panel-body">
+                     <div class="media container-xs-height media-height-sm">
+                       <div class="media-object pull-left">
+                                    <div class="icon icon-2x hover-expand">
+                                       <i class="flag flag-pehang"></i>
+                                    </div>
+                                 </div>
                         <div class="media-body col-xs-height col-middle">
-                           <h4 class="space-bottom-none text-link">Kuwait City</h4>
-                           <span class="text-sm
-                              text-muted
-                              ">
-                           (16)
+                           <h4 class="space-bottom-none text-link">Pehang</h4>
+                           <span class="text-sm text-muted">
+                           (1,653)
+                           </span>
+                        </div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="col-sm-6">
+               <div class="panel panel-default panel-hover">
+                  <!--<a href="../uae/jobs/city/sharjah.html" title="Sharjah" class="panel-body">-->
+                    <a href="#" title="Sharjah" class="panel-body">
+                     <div class="media container-xs-height media-height-sm">
+                         <div class="media-object pull-left">
+                                    <div class="icon icon-2x hover-expand">
+                                       <i class="flag flag-negeri"></i>
+                                    </div>
+                                 </div>
+                        <div class="media-body col-xs-height col-middle">
+                           <h4 class="space-bottom-none text-link">Negeri Sembilan</h4>
+                           <span class="text-sm text-muted">
+                           (1,653)
+                           </span>
+                        </div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <div class="col-sm-6">
+               <div class="panel panel-default panel-hover">
+                  <!--<a href="../uae/jobs/city/sharjah.html" title="Sharjah" class="panel-body">-->
+                    <a href="#" title="Sharjah" class="panel-body">
+                     <div class="media container-xs-height media-height-sm">
+                       <div class="media-object pull-left">
+                                    <div class="icon icon-2x hover-expand">
+                                       <i class="flag flag-kedah"></i>
+                                    </div>
+                                 </div>
+                        <div class="media-body col-xs-height col-middle">
+                           <h4 class="space-bottom-none text-link">Kedah</h4>
+                           <span class="text-sm text-muted">
+                           (1,653)
+                           </span>
+                        </div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+
+               <div class="col-sm-6">
+               <div class="panel panel-default panel-hover">
+                  <!--<a href="../uae/jobs/city/sharjah.html" title="Sharjah" class="panel-body">-->
+                    <a href="#" title="Sharjah" class="panel-body">
+                     <div class="media container-xs-height media-height-sm">
+                      <div class="media-object pull-left">
+                                    <div class="icon icon-2x hover-expand">
+                                       <i class="flag flag-ME"></i>
+                                    </div>
+                                 </div>
+                        <div class="media-body col-xs-height col-middle">
+                           <h4 class="space-bottom-none text-link">Melaka</h4>
+                           <span class="text-sm text-muted">
+                           (1,653)
+                           </span>
+                        </div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+
+               <div class="col-sm-6">
+               <div class="panel panel-default panel-hover">
+                  <!--<a href="../uae/jobs/city/sharjah.html" title="Sharjah" class="panel-body">-->
+                    <a href="#" title="Sharjah" class="panel-body">
+                     <div class="media container-xs-height media-height-sm">
+                       <div class="media-object pull-left">
+                                    <div class="icon icon-2x hover-expand">
+                                       <i class="flag flag-kedah"></i>
+                                    </div>
+                                 </div>
+                        <div class="media-body col-xs-height col-middle">
+                           <h4 class="space-bottom-none text-link">Terenggano</h4>
+                           <span class="text-sm text-muted">
+                           (1,653)
+                           </span>
+                        </div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+               <div class="col-sm-6">
+               <div class="panel panel-default panel-hover">
+                  <!--<a href="../uae/jobs/city/sharjah.html" title="Sharjah" class="panel-body">-->
+                    <a href="#" title="Sharjah" class="panel-body">
+                     <div class="media container-xs-height media-height-sm">
+                        <div class="media-object pull-left">
+                                    <div class="icon icon-2x hover-expand">
+                                       <i class="flag flag-kelentan"></i>
+                                    </div>
+                                 </div>
+                        <div class="media-body col-xs-height col-middle">
+                           <h4 class="space-bottom-none text-link">Kelantan</h4>
+                           <span class="text-sm text-muted">
+                           (1,653)
+                           </span>
+                        </div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+               <div class="col-sm-6">
+               <div class="panel panel-default panel-hover">
+                  <!--<a href="../uae/jobs/city/sharjah.html" title="Sharjah" class="panel-body">-->
+                    <a href="#" title="Sharjah" class="panel-body">
+                     <div class="media container-xs-height media-height-sm">
+                          <div class="media-object pull-left">
+                                    <div class="icon icon-2x hover-expand">
+                                       <i class="flag flag-kelentan"></i>
+                                    </div>
+                                 </div>
+                        <div class="media-body col-xs-height col-middle">
+                           <h4 class="space-bottom-none text-link">Perlis</h4>
+                           <span class="text-sm text-muted">
+                           (1,653)
                            </span>
                         </div>
                      </div>
@@ -331,7 +404,7 @@
    </div>
 </div>
 </div>
-<section ng-controller="widgetFeedbackController">
+<!--<section ng-controller="widgetFeedbackController">
    <div class="fade"
       ng-class="{'modal-backdrop in': !isWidgetCollapsed}"
       ng-click="isWidgetCollapsed=true"
@@ -463,7 +536,7 @@
          </a>
       </li>
    </ul>
-</section>
+</section>-->
 </main>
 <!-- Google Code for Remarketing Tag -->
 <?php include('../footer.php'); ?>

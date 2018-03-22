@@ -90,6 +90,7 @@ a.s-list-group-item {
   width: 48px;
   height: 48px;
 }
+
 .flag-KL{
   background-image: url(../img/flags/kualalampur.png);
   background-size: 48px 30px;
@@ -107,6 +108,74 @@ a.s-list-group-item {
   height: 48px;
 }
 
+.flag-sabah{
+  background-image: url(../img/flags/sabah.png);
+  background-size: 48px 30px;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 48px;
+  height: 48px;
+}
+
+.flag-perag{
+  background-image: url(../img/flags/perak.png);
+  background-size: 48px 30px;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 48px;
+  height: 48px;
+}
+
+.flag-pehang{
+  background-image: url(../img/flags/pehang.png);
+  background-size: 48px 30px;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 48px;
+  height: 48px;
+}
+.flag-negeri{
+  background-image: url(../img/flags/negeri.png);
+  background-size: 48px 30px;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 48px;
+  height: 48px;
+}
+
+.flag-kedah{
+  background-image: url(../img/flags/kedah.png);
+  background-size: 48px 30px;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 48px;
+  height: 48px;
+}
+.flag-tereng{
+  background-image: url(../img/flags/tereng.png);
+  background-size: 48px 30px;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 48px;
+  height: 48px;
+}
+.flag-kelentan{
+  background-image: url(../img/flags/kelentan.png);
+  background-size: 48px 30px;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 48px;
+  height: 48px;
+}
+
+.flag-perlis{
+  background-image: url(../img/flags/perlis.png);
+  background-size: 48px 30px;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 48px;
+  height: 48px;
+}
 .s_headingjobs_lg{
     font-size: 19px !important;
 }
