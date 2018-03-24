@@ -6,7 +6,7 @@
   font-weight: normal;
   font-style: normal;
 }
-.header-ribbon, .media-object>.media-title, .page-header, .section-courses .header-ribbon, .section-courses .media-object>.media-title, .section-events .header-ribbon, .section-events .media-object>.media-title, .section-jobs .header-ribbon, .section-jobs .media-object>.media-title, .section-premium .header-ribbon, .section-premium .media-object>.media-title, .section-resources .header-ribbon, .section-resources .media-object>.media-title, .section-salaries .header-ribbon, .section-salaries .media-object>.media-title, .section-theme .section-courses .header-ribbon, .section-theme .section-courses .media-object>.media-title, .section-theme .section-events .header-ribbon, .section-theme .section-events .media-object>.media-title, .section-theme .section-jobs .header-ribbon, .section-theme .section-jobs .media-object>.media-title, .section-theme .section-premium .header-ribbon, .section-theme .section-premium .media-object>.media-title, .section-theme .section-resources .header-ribbon, .section-theme .section-resources .media-object>.media-title, .section-theme .section-salaries .header-ribbon, .section-theme .section-salaries .media-object>.media-title {
+.media-object>.media-title, .page-header, .section-courses .header-ribbon, .section-courses .media-object>.media-title, .section-events .header-ribbon, .section-events .media-object>.media-title, .section-jobs .header-ribbon, .section-jobs .media-object>.media-title, .section-premium .header-ribbon, .section-premium .media-object>.media-title, .section-resources .header-ribbon, .section-resources .media-object>.media-title, .section-salaries .header-ribbon, .section-salaries .media-object>.media-title, .section-theme .section-courses .header-ribbon, .section-theme .section-courses .media-object>.media-title, .section-theme .section-events .header-ribbon, .section-theme .section-events .media-object>.media-title, .section-theme .section-jobs .header-ribbon, .section-theme .section-jobs .media-object>.media-title, .section-theme .section-premium .header-ribbon, .section-theme .section-premium .media-object>.media-title, .section-theme .section-resources .header-ribbon, .section-theme .section-resources .media-object>.media-title, .section-theme .section-salaries .header-ribbon, .section-theme .section-salaries .media-object>.media-title {
   background-color: #1c2870;
   padding: 50px 0px;
 }
@@ -245,7 +245,7 @@ h3.s_heading_bottom {
     padding-left: 10px;
     font-weight: 100 !important;
     color: #858585 ;
-    font-family: "AVANTGA";
+    /* font-family: "AVANTGA"; */
 }
 .s_par_color{
   color: #858585 !important;
@@ -295,4 +295,10 @@ h3.s_heading_bottom {
 .find-top-talent-p p i
 {
   color: #858585 !important;
+}
+.s-header-ribbon:after{
+  border-width: 26px 0 26px 10px;
+}
+.s-header-ribbon{
+  padding: 15px 10px 15px 20px;
 }
