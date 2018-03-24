@@ -86,8 +86,8 @@
 .s-input-lg::placeholder {
     color: #1c2870 !important;
 }
-.inner-addon { 
-    position: relative; 
+.inner-addon {
+    position: relative;
 }
 
 /* style icon */
@@ -101,7 +101,7 @@
 }
 
 /* align icon */
-.left-addon .fa  {     
+.left-addon .fa  {
     left: 0px;
     top: 7px;
     font-size: 15px;
@@ -8463,7 +8463,7 @@ a.panel-body:hover,a.panel:hover{
     border-bottom:0
 }
 .panel-title{
-    font-size:24px;
+    font-size:20px;
     margin-bottom:20px
 }
 .panel-bordered{
@@ -9929,7 +9929,7 @@ a.text-section:hover{
     color:#65a95a!important
 }
 .section-salaries a.text-section:hover,.section-theme .section-salaries a.text-section:hover{
-    
+
     color: #ff8500 !important;
 }
 }
@@ -11902,7 +11902,7 @@ a.text-section:hover{
     height:48px
 }
 
- 
+
  .kualalampur img.img-responsive {
     width: 64px;
   }

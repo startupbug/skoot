@@ -4,20 +4,19 @@
       <div class="container">
          <div class="row">
             <div class="col-sm-24">
-               <h1>Jobs By City</h1>
-               <h3 class="s_headingjobs">Find jobs in different cities of Malaysia</h3>
+               <h1>Labour Laws</h1>
+               <h3 class="s_headingjobs">Up to date information on labour laws in the Malaysia</h3>
             </div>
          </div>
       </div>
    </div>
    <div class="page-content">
-      <div class="container">
+      <div class="container s_margin_30">
          <div class="row">
             <div class="col-sm-24">
                <div class="row">
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <!--<a href="../uae/jobs/city/dubai.html" title="Dubai" class="panel-body">-->
                         <a href="#" title="Dubai" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
@@ -26,10 +25,7 @@
                                  </div>
                               </div>
                               <div class="media-body col-xs-height col-middle">
-                                 <h4 class="space-bottom-none text-link">Kuala Lampur</h4>
-                                 <span class="text-sm text-muted">
-                                 (1,653)
-                                 </span>
+                                 <h5 class="space-bottom-none text-link">Kuala Lampur Labour Law</h5>
                               </div>
                            </div>
                         </a>
@@ -37,7 +33,6 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <!--<a href="../uae/jobs/city/abu-dhabi.html" title="Abu Dhabi" class="panel-body">-->
                         <a href="#" title="Abu Dhabi" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
@@ -46,10 +41,7 @@
                                  </div>
                               </div>
                               <div class="media-body col-xs-height col-middle">
-                                 <h4 class="space-bottom-none text-link">Selongar</h4>
-                                 <span class="text-sm text-muted">
-                                 (1,653)
-                                 </span>
+                                 <h5 class="space-bottom-none text-link">Selongar Labour Law</h5>
                               </div>
                            </div>
                         </a>
@@ -57,7 +49,6 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <!--<a href="../saudi-arabia/jobs/city/riyadh.html" title="Riyadh" class="panel-body">-->
                         <a href="#" title="Riyadh" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
@@ -66,10 +57,7 @@
                                  </div>
                               </div>
                               <div class="media-body col-xs-height col-middle">
-                                 <h4 class="space-bottom-none text-link">penang</h4>
-                                 <span class="text-sm text-muted">
-                                 (1,653)
-                                 </span>
+                                 <h5 class="space-bottom-none text-link">penang Labour Law</h5>
                               </div>
                            </div>
                         </a>
@@ -77,7 +65,6 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <!--<a href="../qatar/jobs/city/doha.html" title="Doha" class="panel-body">-->
                         <a href="#" title="Doha" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
@@ -86,10 +73,7 @@
                                  </div>
                               </div>
                               <div class="media-body col-xs-height col-middle">
-                                 <h4 class="space-bottom-none text-link">Johar</h4>
-                                 <span class="text-sm text-muted">
-                                 (1,653)
-                                 </span>
+                                 <h5 class="space-bottom-none text-link">Johar Labour Law</h5>
                               </div>
                            </div>
                         </a>
@@ -99,7 +83,6 @@
                <div class="row">
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <!--<a href="../saudi-arabia/jobs/city/jeddah.html" title="Jeddah" class="panel-body">-->
                         <a href="#" title="Jeddah" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
@@ -108,10 +91,7 @@
                                  </div>
                               </div>
                               <div class="media-body col-xs-height col-middle">
-                                 <h4 class="space-bottom-none text-link">Sarawak</h4>
-                                 <span class="text-sm text-muted">
-                                 (1,653)
-                                 </span>
+                                 <h5 class="space-bottom-none text-link">Sarawak Labour Law</h5>
                               </div>
                            </div>
                         </a>
@@ -119,7 +99,6 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <!--<a href="../oman/jobs/city/muscat.html" title="Muscat" class="panel-body">-->
                         <a href="#" title="Muscat" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
@@ -128,10 +107,7 @@
                                  </div>
                               </div>
                               <div class="media-body col-xs-height col-middle">
-                                 <h4 class="space-bottom-none text-link">Melaka</h4>
-                                 <span class="text-sm text-muted">
-                                 (1,653)
-                                 </span>
+                                 <h5 class="space-bottom-none text-link">Melaka Labour Law</h5>
                               </div>
                            </div>
                         </a>
@@ -139,7 +115,6 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <!--<a href="../uae/jobs/city/sharjah.html" title="Sharjah" class="panel-body">-->
                         <a href="#" title="Sharjah" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
@@ -148,10 +123,7 @@
                                  </div>
                               </div>
                               <div class="media-body col-xs-height col-middle">
-                                 <h4 class="space-bottom-none text-link">Labaun</h4>
-                                 <span class="text-sm text-muted">
-                                 (1,653)
-                                 </span>
+                                 <h5 class="space-bottom-none text-link">Labaun Labour Law</h5>
                               </div>
                            </div>
                         </a>
@@ -159,7 +131,6 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <!--<a href="../saudi-arabia/jobs/city/yanbu.html" title="Yanbu" class="panel-body">-->
                         <a href="#" title="Yanbu" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
@@ -168,10 +139,7 @@
                                  </div>
                               </div>
                               <div class="media-body col-xs-height col-middle">
-                                 <h4 class="space-bottom-none text-link">Sabah</h4>
-                                 <span class="text-sm text-muted">
-                                 (1,653)
-                                 </span>
+                                 <h5 class="space-bottom-none text-link">Sabah Labour Law</h5>
                               </div>
                            </div>
                         </a>
@@ -189,10 +157,7 @@
                                  </div>
                               </div>
                               <div class="media-body col-xs-height col-middle">
-                                 <h4 class="space-bottom-none text-link">Perak</h4>
-                                 <span class="text-sm text-muted">
-                                 (1,653)
-                                 </span>
+                                 <h5 class="space-bottom-none text-link">Perak Labour Law</h5>
                               </div>
                            </div>
                         </a>
@@ -200,7 +165,6 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <!--<a href="../kuwait/jobs/city/kuwait-city.html" title="Kuwait City" class="panel-body">-->
                         <a href="#" title="Kuwait City" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
@@ -209,10 +173,7 @@
                                  </div>
                               </div>
                               <div class="media-body col-xs-height col-middle">
-                                 <h4 class="space-bottom-none text-link">Pehang</h4>
-                                 <span class="text-sm text-muted">
-                                 (1,653)
-                                 </span>
+                                 <h5 class="space-bottom-none text-link">Pehang Labour Law</h5>
                               </div>
                            </div>
                         </a>
@@ -220,7 +181,6 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <!--<a href="../uae/jobs/city/sharjah.html" title="Sharjah" class="panel-body">-->
                         <a href="#" title="Sharjah" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
@@ -229,10 +189,7 @@
                                  </div>
                               </div>
                               <div class="media-body col-xs-height col-middle">
-                                 <h4 class="space-bottom-none text-link">Negeri Sembilan</h4>
-                                 <span class="text-sm text-muted">
-                                 (1,653)
-                                 </span>
+                                 <h5 class="space-bottom-none text-link">Negeri Labour Law</h5>
                               </div>
                            </div>
                         </a>
@@ -240,7 +197,6 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <!--<a href="../uae/jobs/city/sharjah.html" title="Sharjah" class="panel-body">-->
                         <a href="#" title="Sharjah" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
@@ -249,10 +205,7 @@
                                  </div>
                               </div>
                               <div class="media-body col-xs-height col-middle">
-                                 <h4 class="space-bottom-none text-link">Kedah</h4>
-                                 <span class="text-sm text-muted">
-                                 (1,653)
-                                 </span>
+                                 <h5 class="space-bottom-none text-link">Kedah Labour Law</h5>
                               </div>
                            </div>
                         </a>
@@ -260,7 +213,6 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <!--<a href="../uae/jobs/city/sharjah.html" title="Sharjah" class="panel-body">-->
                         <a href="#" title="Sharjah" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
@@ -269,10 +221,7 @@
                                  </div>
                               </div>
                               <div class="media-body col-xs-height col-middle">
-                                 <h4 class="space-bottom-none text-link">Melaka</h4>
-                                 <span class="text-sm text-muted">
-                                 (1,653)
-                                 </span>
+                                 <h5 class="space-bottom-none text-link">Melaka Labour Law</h5>
                               </div>
                            </div>
                         </a>
@@ -280,7 +229,6 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <!--<a href="../uae/jobs/city/sharjah.html" title="Sharjah" class="panel-body">-->
                         <a href="#" title="Sharjah" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
@@ -289,10 +237,7 @@
                                  </div>
                               </div>
                               <div class="media-body col-xs-height col-middle">
-                                 <h4 class="space-bottom-none text-link">Terenggano</h4>
-                                 <span class="text-sm text-muted">
-                                 (1,653)
-                                 </span>
+                                 <h5 class="space-bottom-none text-link">Terenggano Labour Law</h5>
                               </div>
                            </div>
                         </a>
@@ -300,7 +245,6 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <!--<a href="../uae/jobs/city/sharjah.html" title="Sharjah" class="panel-body">-->
                         <a href="#" title="Sharjah" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
@@ -309,10 +253,7 @@
                                  </div>
                               </div>
                               <div class="media-body col-xs-height col-middle">
-                                 <h4 class="space-bottom-none text-link">Kelantan</h4>
-                                 <span class="text-sm text-muted">
-                                 (1,653)
-                                 </span>
+                                 <h5 class="space-bottom-none text-link">Kelantan Labour Law</h5>
                               </div>
                            </div>
                         </a>
@@ -320,7 +261,6 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <!--<a href="../uae/jobs/city/sharjah.html" title="Sharjah" class="panel-body">-->
                         <a href="#" title="Sharjah" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
@@ -329,10 +269,7 @@
                                  </div>
                               </div>
                               <div class="media-body col-xs-height col-middle">
-                                 <h4 class="space-bottom-none text-link">Perlis</h4>
-                                 <span class="text-sm text-muted">
-                                 (1,653)
-                                 </span>
+                                 <h5 class="space-bottom-none text-link">Perlis Labour Law</h5>
                               </div>
                            </div>
                         </a>
@@ -344,5 +281,4 @@
       </div>
    </div>
 </main>
-<!-- Google Code for Remarketing Tag -->
 <?php include('../footer.php'); ?>

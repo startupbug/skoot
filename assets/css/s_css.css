@@ -176,6 +176,16 @@ a.s-list-group-item {
   width: 48px;
   height: 48px;
 }
+
+.flag-malaysia{
+  background-image: url(../img/flags/malaysia.jpg);
+  background-size: 62px 40px;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 65px;
+  height: 50px;
+}
+
 .s_headingjobs_lg{
     font-size: 19px !important;
 }
@@ -247,7 +257,6 @@ h3.s_heading_bottom {
     color: #858585 !important;
     font-size: 16px;
     font-weight: 100 !important;
-    font-family: "AVANTGA";
 }
 
 .s_par_lists>li:before {
@@ -255,6 +264,35 @@ h3.s_heading_bottom {
 }
 .s_par_lists li {
     color: #858585 !important;
-    font-size: 16px;
     font-weight: 500;
+}
+.bg-dark {
+    background-color: #e1e1e1;
+}
+.list-symbol-section>li:before {
+    color: #858585 !important;
+}
+.s_padding_70
+{
+  padding-top: 70px;
+}
+.s_margin_30 {
+    margin-top: 30px;
+}
+
+.heading_malaysia
+{
+  display: inline;
+  color: #1c276c;
+  margin-left: 4px;
+  font-size: 21px;
+}
+.find-top-talent-p p
+{
+  color: #858585 !important;
+  padding-left: 21px;
+}
+.find-top-talent-p p i
+{
+  color: #858585 !important;
 }
