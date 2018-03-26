@@ -1,17 +1,15 @@
 <?php include('../header.php'); ?>
-
-
 <main id="main-block">
    <div class="page-header">
       <div class="container">
          <div class="row">
             <div class="col-sm-24">
                <h1>
-                  Jobs for Fresh Graduates
+                  Personal Development Courses
                </h1>
                <form class="form-inline space-bottom-xs hidden-print">
                   <div class="form-group form-group-xl">
-                     <input type="text" autocomplete="off" placeholder="Enter keywords (e.g. Finance Manager, Architect )" name="pos_ref" class="form-control input-lg input-blk" />
+                     <input type="text" autocomplete="off" placeholder="Enter keywords (e.g. CFA, Leadership )" name="pos_ref" class="form-control input-lg input-blk" />
                   </div>
                   <button type="submit" class="btn btn-lg btn-primary btn-corner">
                     Search
@@ -30,7 +28,7 @@
                      Filtered by
                   </h3>
                   <span class="label label-default space-top-xs ng-binding">
-                    Seniority
+                    Field
                   </span>
                </div>
             </div>
@@ -49,6 +47,115 @@
                      </h4>
                   </div>
                   <form role="form" action="#" class="form-filters" method="post">
+                     <div class="filter-group">
+                       <div>
+                          <h5 class="filter-group-toggle filter-group-heading text-regular">
+                             <i class="fa fa-fw text-section fa-caret-down"></i>By Study Method
+                          </h5>
+                          <ul collapse="group.collapsed" class="filter-group-list speedy collapse in" style="height: auto;">
+                             <li class="filter-group-list-item selected">
+                                <div class="checkbox">
+                                   <label><input type="checkbox">All</label>
+                                </div>
+                             </li>
+                             <li class="filter-group-list-item">
+                                <div class="checkbox">
+                                   <label title="Online"><input type="checkbox">Online</label>
+                                   <div class="pull-right ng-binding">(8)</div>
+                                </div>
+                             </li>
+                             <li class="filter-group-list-item">
+                                <div class="checkbox">
+                                   <label title="In Class"><input type="checkbox">In Class</label>
+                                   <div class="pull-right ng-binding">(7)</div>
+                                </div>
+                             </li>
+                             <li class="filter-group-list-item">
+                                <div class="checkbox">
+                                   <label title="Distance Learning"><input type="checkbox">Distance Learning</label>
+                                   <div class="pull-right ng-binding">(87)</div>
+                                </div>
+                             </li>
+                          </ul>
+                       </div>
+                     </div>
+                     <div class="filter-group">
+                       <div>
+                          <h5 class="filter-group-toggle filter-group-heading text-regular">
+                             <i class="fa fa-fw text-section fa-caret-down"></i>By Course Type
+                          </h5>
+                          <ul collapse="group.collapsed" class="filter-group-list speedy collapse in" style="height: auto;">
+                             <li class="filter-group-list-item selected">
+                                <div class="checkbox">
+                                   <label><input type="checkbox">All</label>
+                                </div>
+                             </li>
+                             <li class="filter-group-list-item">
+                                <div class="checkbox">
+                                   <label title="Professional Training"><input type="checkbox">Professional Training</label>
+                                   <div class="pull-right ng-binding">(8)</div>
+                                </div>
+                             </li>
+                             <li class="filter-group-list-item">
+                                <div class="checkbox">
+                                   <label title="Language"><input type="checkbox">Language</label>
+                                   <div class="pull-right ng-binding">(7)</div>
+                                </div>
+                             </li>
+                             <li class="filter-group-list-item">
+                                <div class="checkbox">
+                                   <label title="Post Graduate"><input type="checkbox">Post Graduate</label>
+                                   <div class="pull-right ng-binding">(87)</div>
+                                </div>
+                             </li>
+                          </ul>
+                       </div>
+                     </div>
+                     <div class="filter-group">
+                       <div>
+                          <h5 class="filter-group-toggle filter-group-heading text-regular">
+                             <i class="fa fa-fw text-section fa-caret-down"></i>By Certification
+                          </h5>
+                          <ul collapse="group.collapsed" class="filter-group-list speedy collapse in" style="height: auto;">
+                             <li class="filter-group-list-item selected">
+                                <div class="checkbox">
+                                   <label><input type="checkbox">Certificate Courses</label>
+                                </div>
+                             </li>
+                          </ul>
+                       </div>
+                     </div>
+                     <div class="filter-group">
+                       <div>
+                          <h5 class="filter-group-toggle filter-group-heading text-regular">
+                             <i class="fa fa-fw text-section fa-caret-down"></i>By Date
+                          </h5>
+                          <ul collapse="group.collapsed" class="filter-group-list speedy collapse in" style="height: auto;">
+                             <li class="filter-group-list-item selected">
+                                <div class="checkbox">
+                                   <label><input type="checkbox">Starting soon</label>
+                                </div>
+                             </li>
+                          </ul>
+                       </div>
+                     </div>
+                     <div class="filter-group">
+                       <div>
+                          <h5 class="filter-group-toggle filter-group-heading text-regular">
+                             <i class="fa fa-fw text-section fa-caret-down"></i>By Fee (in USD)
+                          </h5>
+                          <ul collapse="group.collapsed" class="filter-group-list collapse in" style="height: auto;">
+                             <li class="form-group filter-group-list-item">
+                               <div class="select">
+                                   <label title="Min Fee (in USD)" class="control-label col-sm-6 _margintop">Min.</label>
+                                   <div class="col-sm-18">
+                                       <select class="form-control ng-pristine ng-valid" ng-options="minItem.id as minItem.id for minItem in group.items" name="filters[fees][]" ng-model="minValue" ng-change="change(group, minValue, 'min')"><option value="" ng-model="group.allFilter.selected" class="ng-pristine ng-valid">Any</option><option value="0">500</option><option value="1">1000</option><option value="2">5000</option><option value="3">10000</option><option value="4">50000</option></select>
+                                   </div>
+                               </div>
+                             </li>
+                          </ul>
+                       </div>
+                     </div>
                      <div class="filter-group">
                         <div>
                            <h5 class="filter-group-toggle filter-group-heading text-regular">

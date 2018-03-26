@@ -1,16 +1,5 @@
 
 <?php include('../header.php') ;?>
-<div class="visible-print-block">
-   <div class="container">
-      <div class="underline">
-         <div class="row">
-            <div class="col-sm-24">
-               <img src="assets/img/logoa95c.png?v2_68_0" alt="GulfTalent" title="GulfTalent" width="160" class="pull-right img-logo" />
-            </div>
-         </div>
-      </div>
-   </div>
-</div>
 <main id="main-block">
    <div class="page-header">
       <div class="container">
@@ -193,7 +182,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item hidden-print" href="#">
+                           <a class="list-group-item s-list-group-item hidden-print" href="city.php">
                            <i class="fa fa-fw fa-chevron-right"></i>
                            View all Cities
                            </a>
@@ -369,7 +358,7 @@
                            <a class="list-group-item s-list-group-item" href="#" title="Techlogix">
                               <div class="media">
                                  <div class="media-object pull-left">
-                                    <img src="images1/logos/listing/RE214-9270_logoa95c.png?v2_68_0" width="55px" />
+                                    <img src="<?php echo $base_url; ?>assets/images1/logos/listing/RE214-9270_logoa95c.png?v2_68_0" width="55px" />
                                  </div>
                                  <div class="media-body">
                                     <div class="text-med text-overflow">Techlogix</div>
@@ -383,7 +372,7 @@
                            <a class="list-group-item s-list-group-item" href="#" title="Careem">
                               <div class="media">
                                  <div class="media-object pull-left">
-                                    <img src="images1/logos/listing/OE782-6838_logoa95c.png?v2_68_0" width="55px" />
+                                    <img src="<?php echo $base_url; ?>assets/images1/logos/listing/OE782-6838_logoa95c.png?v2_68_0" width="55px" />
                                  </div>
                                  <div class="media-body">
                                     <div class="text-med text-overflow">Careem</div>
@@ -397,7 +386,7 @@
                            <a class="list-group-item s-list-group-item" href="#" title="Azadea Group - UAE">
                               <div class="media">
                                  <div class="media-object pull-left">
-                                    <img src="images1/logos/listing/GE643-702_logoa95c.png?v2_68_0" width="55px" />
+                                    <img src="<?php echo $base_url; ?>assets/images1/logos/listing/GE643-702_logoa95c.png?v2_68_0" width="55px" />
                                  </div>
                                  <div class="media-body">
                                     <div class="text-med text-overflow">Azadea Group - UAE</div>
@@ -411,7 +400,7 @@
                            <a class="list-group-item s-list-group-item" href="#" title="DarkMatter">
                               <div class="media">
                                  <div class="media-object pull-left">
-                                    <img src="images1/logos/listing/RE962-9018_logoa95c.png?v2_68_0" width="55px" />
+                                    <img src="<?php echo $base_url; ?>assets/images1/logos/listing/RE962-9018_logoa95c.png?v2_68_0" width="55px" />
                                  </div>
                                  <div class="media-body">
                                     <div class="text-med text-overflow">DarkMatter</div>
@@ -438,7 +427,7 @@
                            <a class="list-group-item s-list-group-item" href="#" title="Engage Selection">
                               <div class="media">
                                  <div class="media-object pull-left">
-                                    <img src="images1/logos/listing/KE074-2134_logoa95c.png?v2_68_0" width="55px" />
+                                    <img src="<?php echo $base_url; ?>assets/images1/logos/listing/KE074-2134_logoa95c.png?v2_68_0" width="55px" />
                                  </div>
                                  <div class="media-body">
                                     <div class="text-med text-overflow">Engage Selection</div>
@@ -452,7 +441,7 @@
                            <a class="list-group-item s-list-group-item" href="#" title="Charterhouse">
                               <div class="media">
                                  <div class="media-object pull-left">
-                                    <img src="images1/logos/listing/GE186-244_logoa95c.png?v2_68_0" width="55px" />
+                                    <img src="<?php echo $base_url; ?>assets/images1/logos/listing/GE186-244_logoa95c.png?v2_68_0" width="55px" />
                                  </div>
                                  <div class="media-body">
                                     <div class="text-med text-overflow">Charterhouse</div>
@@ -466,7 +455,7 @@
                            <a class="list-group-item s-list-group-item" href="#" title="Ignite Search &amp; Selection">
                               <div class="media">
                                  <div class="media-object pull-left">
-                                    <img src="images1/logos/listing/OE555-6611_logoa95c.png?v2_68_0" width="55px" />
+                                    <img src="<?php echo $base_url; ?>assets/images1/logos/listing/OE555-6611_logoa95c.png?v2_68_0" width="55px" />
                                  </div>
                                  <div class="media-body">
                                     <div class="text-med text-overflow">Ignite Search &amp; Selection</div>
@@ -480,7 +469,7 @@
                            <a class="list-group-item s-list-group-item" href="#" title="Black Pearl - UAE">
                               <div class="media">
                                  <div class="media-object pull-left">
-                                    <img src="images1/logos/listing/RE174-8230_logoa95c.png?v2_68_0" width="55px" />
+                                    <img src="<?php echo $base_url; ?>assets/images1/logos/listing/RE174-8230_logoa95c.png?v2_68_0" width="55px" />
                                  </div>
                                  <div class="media-body">
                                     <div class="text-med text-overflow">Black Pearl - UAE</div>
@@ -509,7 +498,7 @@
                               href="#">
                               <div class="media">
                                  <div class="media-object pull-left">
-                                    <img src="images1/logos/listing/RE410-8466_logoa95c.png?v2_68_0" width="55px">
+                                    <img src="<?php echo $base_url; ?>assets/images1/logos/listing/RE410-8466_logoa95c.png?v2_68_0" width="55px">
                                  </div>
                                  <div class="media-body">
                                     <div class="text-med text-overflow">Van Sales (Dubai)</div>
@@ -525,7 +514,7 @@
                               href="#">
                               <div class="media">
                                  <div class="media-object pull-left">
-                                    <img src="images1/logos/listing/OE555-6611_logoa95c.png?v2_68_0" width="55px">
+                                    <img src="<?php echo $base_url; ?>assets/images1/logos/listing/OE555-6611_logoa95c.png?v2_68_0" width="55px">
                                  </div>
                                  <div class="media-body">
                                     <div class="text-med text-overflow">Business Development Manager</div>
@@ -541,7 +530,7 @@
                               href="#">
                               <div class="media">
                                  <div class="media-object pull-left">
-                                    <img src="images1/logos/listing/QE307-7362_logoa95c.png?v2_68_0" width="55px">
+                                    <img src="<?php echo $base_url; ?>assets/images1/logos/listing/QE307-7362_logoa95c.png?v2_68_0" width="55px">
                                  </div>
                                  <div class="media-body">
                                     <div class="text-med text-overflow">Destination Marketing Manager</div>

@@ -503,9 +503,7 @@
                     </div>
                      <div class="panel panel-default">
                         <div class="list-group">
-                           <a class="list-group-item s-list-group-item"
-                              title="Van Sales (Dubai)"
-                              href="#">
+                           <a class="list-group-item s-list-group-item" title="Van Sales (Dubai)" href="#">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <img src="images1/logos/listing/RE410-8466_logoa95c.png?v2_68_0" width="55px">

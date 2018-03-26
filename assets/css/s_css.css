@@ -6,7 +6,7 @@
   font-weight: normal;
   font-style: normal;
 }
-.header-ribbon, .media-object>.media-title, .page-header, .section-courses .header-ribbon, .section-courses .media-object>.media-title, .section-events .header-ribbon, .section-events .media-object>.media-title, .section-jobs .header-ribbon, .section-jobs .media-object>.media-title, .section-premium .header-ribbon, .section-premium .media-object>.media-title, .section-resources .header-ribbon, .section-resources .media-object>.media-title, .section-salaries .header-ribbon, .section-salaries .media-object>.media-title, .section-theme .section-courses .header-ribbon, .section-theme .section-courses .media-object>.media-title, .section-theme .section-events .header-ribbon, .section-theme .section-events .media-object>.media-title, .section-theme .section-jobs .header-ribbon, .section-theme .section-jobs .media-object>.media-title, .section-theme .section-premium .header-ribbon, .section-theme .section-premium .media-object>.media-title, .section-theme .section-resources .header-ribbon, .section-theme .section-resources .media-object>.media-title, .section-theme .section-salaries .header-ribbon, .section-theme .section-salaries .media-object>.media-title {
+.media-object>.media-title, .page-header, .section-courses .header-ribbon, .section-courses .media-object>.media-title, .section-events .header-ribbon, .section-events .media-object>.media-title, .section-jobs .header-ribbon, .section-jobs .media-object>.media-title, .section-premium .header-ribbon, .section-premium .media-object>.media-title, .section-resources .header-ribbon, .section-resources .media-object>.media-title, .section-salaries .header-ribbon, .section-salaries .media-object>.media-title, .section-theme .section-courses .header-ribbon, .section-theme .section-courses .media-object>.media-title, .section-theme .section-events .header-ribbon, .section-theme .section-events .media-object>.media-title, .section-theme .section-jobs .header-ribbon, .section-theme .section-jobs .media-object>.media-title, .section-theme .section-premium .header-ribbon, .section-theme .section-premium .media-object>.media-title, .section-theme .section-resources .header-ribbon, .section-theme .section-resources .media-object>.media-title, .section-theme .section-salaries .header-ribbon, .section-theme .section-salaries .media-object>.media-title {
   background-color: #1c2870;
   padding: 50px 0px;
 }
@@ -35,6 +35,11 @@ h3.s_headingjobs {
 }
 .s-color-white .fa {
     color: #ffffff;
+}
+
+.s-color-white{
+
+      color: #ffffff;
 }
 a.s-list-group-item {
     color: #1c2870 !important;
@@ -176,6 +181,16 @@ a.s-list-group-item {
   width: 48px;
   height: 48px;
 }
+
+.flag-malaysia{
+  background-image: url(../img/flags/malaysia.jpg);
+  background-size: 62px 40px;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 65px;
+  height: 50px;
+}
+
 .s_headingjobs_lg{
     font-size: 19px !important;
 }
@@ -235,7 +250,7 @@ h3.s_heading_bottom {
     padding-left: 10px;
     font-weight: 100 !important;
     color: #858585 ;
-    font-family: "AVANTGA";
+    /* font-family: "AVANTGA"; */
 }
 .s_par_color{
   color: #858585 !important;
@@ -247,7 +262,6 @@ h3.s_heading_bottom {
     color: #858585 !important;
     font-size: 16px;
     font-weight: 100 !important;
-   
 }
 
 .s_par_lists>li:before {
@@ -255,6 +269,48 @@ h3.s_heading_bottom {
 }
 .s_par_lists li {
     color: #858585 !important;
-    font-size: 16px;
     font-weight: 500;
+}
+.bg-dark {
+    background-color: #e1e1e1;
+}
+.list-symbol-section>li:before {
+    color: #858585 !important;
+}
+.s_padding_70
+{
+  padding-top: 70px;
+}
+.s_margin_30 {
+    margin-top: 30px;
+}
+
+.heading_malaysia
+{
+  display: inline;
+  color: #1c276c;
+  margin-left: 4px;
+  font-size: 21px;
+}
+.find-top-talent-p p
+{
+  color: #858585 !important;
+  padding-left: 21px;
+}
+.find-top-talent-p p i
+{
+  color: #858585 !important;
+}
+.s-header-ribbon:after{
+  border-width: 26px 0 26px 10px;
+}
+.s-header-ribbon{
+  padding: 15px 10px 15px 20px;
+}
+._col_sm_18{
+  width: 75%;
+  display: inline-block;
+}
+._margintop{
+
 }
