@@ -8463,7 +8463,7 @@ a.panel-body:hover,a.panel:hover{
     border-bottom:0
 }
 .panel-title{
-    font-size:24px;
+    font-size:20px;
     margin-bottom:20px
 }
 .panel-bordered{
@@ -9782,8 +9782,8 @@ a.text-section:hover{
 }
 .btn-section{
     color:#fff;
-    background-color:#28306c;
-    border-color:#28306c
+    background-color:#0077b5;
+    border-color:#0077b5;
 }
 .btn-section.active,.btn-section:active,.btn-section:focus,.btn-section:hover,.open>.btn-section.dropdown-toggle{
     color:#fff;
@@ -11928,4 +11928,28 @@ section.backgroud_color {
 
 .bg_banner {
     height: 623px;
+}
+
+h3.courses {
+    color: white;
+    margin-left: 167px !important;
+    font-size: 16px;
+}
+.f_font_21{
+    font-size: 21px;
+}
+a.f_item {
+    color: #1c2870;
+}
+
+.f_right {
+    color: #1c2870 !important;
+}
+
+a.f_item:hover {
+    color: #1c2870;
+}
+
+.f_panel {
+    margin-top: 65px;
 }

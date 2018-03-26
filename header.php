@@ -157,10 +157,10 @@
                                        <i class="fa fa-angle-down text-primary text-lg"></i>
                                     </a>
                                     <ul class="dropdown-menu">
-                                       <li><a href="#">Resources Home</a></li>
-                                       <li><a href="#">Employment News</a></li>
-                                       <li><a href="#">Market Research Reports</a></li>
-                                       <li><a href="#">Professional Events</a></li>
+                                       <li><a href="<?php echo $base_url; ?>resources/resources_home.php">Resources Home</a></li>
+                                       <li><a href="<?php echo $base_url; ?>resources/employment_news.php">Employment News</a></li>
+                                       <li><a href="<?php echo $base_url; ?>resources/market_research_report.php">Market Research Reports</a></li>
+                                       <li><a href="<?php echo $base_url; ?>resources/event.php">Professional Events</a></li>
                                        <li><a href="#">Job Search Support</a></li>
                                        <li><a href="#">Labour Laws</a></li>
                                        <li><a href="#">Public Holidays</a></li>

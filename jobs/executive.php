@@ -1,6 +1,6 @@
 
 <?php include('../header.php'); ?>
-<main id="main-block"
+<!--<main id="main-block"
    gt-scroll-on="facetedSearch.pagination:changed"
    gt-scroll-speed="50"
    >
@@ -1859,6 +1859,6 @@
          </li>
       </ul>
    </section>
-</main>
+</main>-->
 
 <?php include('../footer.php'); ?>
