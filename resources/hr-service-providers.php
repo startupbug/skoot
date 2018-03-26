@@ -4,8 +4,8 @@
       <div class="container">
          <div class="row">
             <div class="col-sm-24">
-               <h1>Labour Laws</h1>
-               <h3 class="s_headingjobs">Up to date information on labour laws in the Malaysia</h3>
+               <h1>HR Service Providers</h1>
+               <h4 class="s-color-white">HR Service Providers in the Malaysia</h4>
             </div>
          </div>
       </div>

@@ -161,11 +161,11 @@
                                        <li><a href="#">Employment News</a></li>
                                        <li><a href="#">Market Research Reports</a></li>
                                        <li><a href="#">Professional Events</a></li>
-                                       <li><a href="#">Job Search Support</a></li>
-                                       <li><a href="#">Labour Laws</a></li>
-                                       <li><a href="#">Public Holidays</a></li>
-                                       <li><a href="#">HR Service Providers</a></li>
-                                       <li><a href="#">Guides to Hiring</a></li>
+                                       <li><a href="<?php echo $base_url; ?>resources/job-search-support.php">Job Search Support</a></li>
+                                       <li><a href="<?php echo $base_url; ?>resources/labour-laws.php">Labour Laws</a></li>
+                                       <li><a href="<?php echo $base_url; ?>resources/public-holidays.php">Public Holidays</a></li>
+                                       <li><a href="<?php echo $base_url; ?>resources/hr-service-providers.php">HR Service Providers</a></li>
+                                       <li><a href="<?php echo $base_url; ?>resources/guides-to-hiring.php">Guides to Hiring</a></li>
 
 
                                        <!-- <li><a href="resources.html">Resources Home</a></li>

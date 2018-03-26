@@ -36,6 +36,11 @@ h3.s_headingjobs {
 .s-color-white .fa {
     color: #ffffff;
 }
+
+.s-color-white{
+
+      color: #ffffff;
+}
 a.s-list-group-item {
     color: #1c2870 !important;
 }
@@ -301,4 +306,11 @@ h3.s_heading_bottom {
 }
 .s-header-ribbon{
   padding: 15px 10px 15px 20px;
+}
+._col_sm_18{
+  width: 75%;
+  display: inline-block;
+}
+._margintop{
+
 }
