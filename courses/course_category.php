@@ -148,13 +148,85 @@
                              <li class="form-group filter-group-list-item">
                                <div class="select">
                                    <label title="Min Fee (in USD)" class="control-label col-sm-6 _margintop">Min.</label>
-                                   <div class="col-sm-18">
-                                       <select class="form-control ng-pristine ng-valid" ng-options="minItem.id as minItem.id for minItem in group.items" name="filters[fees][]" ng-model="minValue" ng-change="change(group, minValue, 'min')"><option value="" ng-model="group.allFilter.selected" class="ng-pristine ng-valid">Any</option><option value="0">500</option><option value="1">1000</option><option value="2">5000</option><option value="3">10000</option><option value="4">50000</option></select>
+                                   <div class="_col_sm_18">
+                                       <select class="form-control"  name="filters[fees][]">
+                                         <option value="">Any</option>
+                                         <option value="0">500</option>
+                                         <option value="1">1000</option>
+                                         <option value="2">5000</option>
+                                         <option value="3">10000</option>
+                                         <option value="4">50000</option>
+                                       </select>
+                                   </div>
+                               </div>
+                             </li>
+                             <li class="form-group filter-group-list-item">
+                               <div class="select">
+                                   <label title="Min Fee (in USD)" class="control-label col-sm-6 _margintop">Max.</label>
+                                   <div class="_col_sm_18">
+                                       <select class="form-control"  name="filters[fees][]">
+                                         <option value="">Any</option>
+                                         <option value="0">500</option>
+                                         <option value="1">1000</option>
+                                         <option value="2">5000</option>
+                                         <option value="3">10000</option>
+                                         <option value="4">50000</option>
+                                       </select>
                                    </div>
                                </div>
                              </li>
                           </ul>
                        </div>
+                     </div>
+                     <div class="filter-group">
+                        <div>
+                           <h5 class="filter-group-toggle filter-group-heading text-regular">
+                              <i class="fa fa-fw text-section fa-caret-down"></i>By Field
+                           </h5>
+                           <ul collapse="group.collapsed" class="filter-group-list speedy collapse in" style="height: auto;">
+                              <li class="filter-group-list-item selected">
+                                 <div class="checkbox">
+                                    <label><input type="checkbox">All</label>
+                                 </div>
+                              </li>
+                              <li class="filter-group-list-item">
+                                 <div class="checkbox">
+                                    <label title="IT & Telecom"><input type="checkbox">IT & Telecomr</label>
+                                    <div class="pull-right ng-binding">(8)</div>
+                                 </div>
+                              </li>
+                              <li class="filter-group-list-item">
+                                 <div class="checkbox">
+                                    <label title="Personal Development"><input type="checkbox">Personal Development</label>
+                                    <div class="pull-right ng-binding">(7)</div>
+                                 </div>
+                              </li>
+                              <li class="filter-group-list-item">
+                                 <div class="checkbox">
+                                    <label title="Business & MBA"><input type="checkbox">Business & MBA</label>
+                                    <div class="pull-right ng-binding">(87)</div>
+                                 </div>
+                              </li>
+                              <li class="filter-group-list-item">
+                                 <div class="checkbox">
+                                    <label title="Finance & Banking"><input type="checkbox">Finance & Banking</label>
+                                    <div class="pull-right ng-binding">(187)</div>
+                                 </div>
+                              </li>
+                              <li class="filter-group-list-item">
+                                 <div class="checkbox">
+                                    <label title="HR"><input type="checkbox">HR</label>
+                                    <div class="pull-right ng-binding">(87)</div>
+                                 </div>
+                              </li>
+                              <li>
+                                 <div class="filter-group-toggle filter-group-expand">
+                                    <i class="fa fa-fw fa-plus-square text-section"></i>
+                                    <span class="text-sm text-muted">Show all</span>
+                                 </div>
+                              </li>
+                           </ul>
+                        </div>
                      </div>
                      <div class="filter-group">
                         <div>
@@ -209,7 +281,7 @@
                      <div class="filter-group">
                         <div>
                            <h5 class="filter-group-toggle filter-group-heading text-regular">
-                              <i class="fa fa-fw text-section fa-caret-down"></i>By Job Role
+                              <i class="fa fa-fw text-section fa-caret-down"></i>By Course Language
                            </h5>
                            <ul collapse="group.collapsed" class="filter-group-list speedy collapse in" style="height: auto;">
                               <li class="filter-group-list-item selected">
@@ -219,38 +291,14 @@
                               </li>
                               <li class="filter-group-list-item">
                                  <div class="checkbox">
-                                    <label title="Civil Engineering"><input type="checkbox">Civil Engineering</label>
-                                    <div class="pull-right ng-binding">(8)</div>
-                                 </div>
-                              </li>
-                              <li class="filter-group-list-item">
-                                 <div class="checkbox">
-                                    <label title="Management"><input type="checkbox">Management</label>
+                                    <label title="English"><input type="checkbox">English</label>
                                     <div class="pull-right ng-binding">(7)</div>
                                  </div>
                               </li>
                               <li class="filter-group-list-item">
                                  <div class="checkbox">
-                                    <label title="Finance & Consulting"><input type="checkbox">Finance & Consulting</label>
-                                    <div class="pull-right ng-binding">(87)</div>
-                                 </div>
-                              </li>
-                              <li class="filter-group-list-item">
-                                 <div class="checkbox">
-                                    <label title="Legal"><input type="checkbox">Legal</label>
+                                    <label title="Arabic"><input type="checkbox">Arabic</label>
                                     <div class="pull-right ng-binding">(187)</div>
-                                 </div>
-                              </li>
-                              <li class="filter-group-list-item">
-                                 <div class="checkbox">
-                                    <label title="Software"><input type="checkbox">Software</label>
-                                    <div class="pull-right ng-binding">(87)</div>
-                                 </div>
-                              </li>
-                              <li>
-                                 <div class="filter-group-toggle filter-group-expand">
-                                    <i class="fa fa-fw fa-plus-square text-section"></i>
-                                    <span class="text-sm text-muted">Show all</span>
                                  </div>
                               </li>
                            </ul>
@@ -259,7 +307,7 @@
                      <div class="filter-group">
                         <div>
                            <h5 class="filter-group-toggle filter-group-heading text-regular">
-                              <i class="fa fa-fw text-section fa-caret-down"></i>By Seniority
+                              <i class="fa fa-fw text-section fa-caret-down"></i>By Student Gender
                            </h5>
                            <ul collapse="group.collapsed" class="filter-group-list speedy collapse in" style="height: auto;">
                               <li class="filter-group-list-item selected">
@@ -269,88 +317,20 @@
                               </li>
                               <li class="filter-group-list-item">
                                  <div class="checkbox">
-                                    <label title="Top Management / Director"><input type="checkbox">Top Management / Director</label>
+                                    <label title="Mixed"><input type="checkbox">Mixed</label>
                                     <div class="pull-right ng-binding">(8)</div>
                                  </div>
                               </li>
                               <li class="filter-group-list-item">
                                  <div class="checkbox">
-                                    <label title="Experienced professional"><input type="checkbox">Experienced professional</label>
+                                    <label title="Female only"><input type="checkbox">Female only</label>
                                     <div class="pull-right ng-binding">(7)</div>
                                  </div>
                               </li>
                               <li class="filter-group-list-item">
                                  <div class="checkbox">
-                                    <label title="Supervisor / Manager"><input type="checkbox">Supervisor / Manager</label>
+                                    <label title="Male only"><input type="checkbox">Male only</label>
                                     <div class="pull-right ng-binding">(87)</div>
-                                 </div>
-                              </li>
-                              <li class="filter-group-list-item">
-                                 <div class="checkbox">
-                                    <label title="Junior Professional"><input type="checkbox">Junior Professional</label>
-                                    <div class="pull-right ng-binding">(187)</div>
-                                 </div>
-                              </li>
-                              <li class="filter-group-list-item">
-                                 <div class="checkbox">
-                                    <label title="Student/ Fresh graduate"><input type="checkbox">Student/ Fresh graduate</label>
-                                    <div class="pull-right ng-binding">(87)</div>
-                                 </div>
-                              </li>
-                              <li>
-                                 <div class="filter-group-toggle filter-group-expand">
-                                    <i class="fa fa-fw fa-plus-square text-section"></i>
-                                    <span class="text-sm text-muted">Show all</span>
-                                 </div>
-                              </li>
-                           </ul>
-                        </div>
-                     </div>
-                     <div class="filter-group">
-                        <div>
-                           <h5 class="filter-group-toggle filter-group-heading text-regular">
-                              <i class="fa fa-fw text-section fa-caret-down"></i>By Industry
-                           </h5>
-                           <ul collapse="group.collapsed" class="filter-group-list speedy collapse in" style="height: auto;">
-                              <li class="filter-group-list-item selected">
-                                 <div class="checkbox">
-                                    <label><input type="checkbox">All</label>
-                                 </div>
-                              </li>
-                              <li class="filter-group-list-item">
-                                 <div class="checkbox">
-                                    <label title="Construction"><input type="checkbox">Construction</label>
-                                    <div class="pull-right ng-binding">(8)</div>
-                                 </div>
-                              </li>
-                              <li class="filter-group-list-item">
-                                 <div class="checkbox">
-                                    <label title="Consulting"><input type="checkbox">Consulting</label>
-                                    <div class="pull-right ng-binding">(7)</div>
-                                 </div>
-                              </li>
-                              <li class="filter-group-list-item">
-                                 <div class="checkbox">
-                                    <label title="Engineering"><input type="checkbox">Engineering</label>
-                                    <div class="pull-right ng-binding">(87)</div>
-                                 </div>
-                              </li>
-                              <li class="filter-group-list-item">
-                                 <div class="checkbox">
-                                    <label title="IT"><input type="checkbox">IT</label>
-                                    <div class="pull-right ng-binding">(187)</div>
-                                 </div>
-                              </li>
-                              <li class="filter-group-list-item">
-                                 <div class="checkbox">
-                                    <label title="FMCG"><input type="checkbox">FMCG</label>
-                                    <div class="pull-right ng-binding">(87)</div>
-                                 </div>
-                              </li>
-                              <li>
-                                 <div class="filter-group-toggle filter-group-expand">
-                                    <i class="fa fa-fw fa-plus-square text-section"></i>
-                                    <span class="text-sm text-muted">Show all</span>
                                  </div>
                               </li>
                            </ul>
@@ -363,18 +343,46 @@
                <div class="spinner-container clearfix">
                   <div class="panel panel-default">
                      <div class="panel-body">
+                        <span class="text-muted"> <strong> Popular searches: </strong></span>
+                        <span class="text-muted">
+                          <a href="#" class="text-link">
+                            communication
+                          </a>
+                          |
+                        </span>
+                        <span class="text-muted">
+                          <a href="#" class="text-link">
+                             business writing
+                          </a>
+                          |
+                        </span>
+                        <span class="text-muted">
+                          <a href="#" class="text-link">
+                             leadership
+                          </a>
+                          |
+                        </span>
+                        <span class="text-muted">
+                          <a href="#" class="text-link">
+                              problem solving
+                          </a>
+                        </span>
                         <h5 class="text-muted">
                            194 Jobs found:
                            <span class="text-supermuted text-sm text-body">Showing 1 - 25</span>
+                           <a href="#" class="pull-right text-muted">
+                              List Your Courses
+                              <i class="fa fa-fw fa-angle-right text-primary"></i>
+                          </a>
                         </h5>
                         <table class="table table-section table-condensed table-hover table-fixed">
                            <thead>
                               <tr>
                                  <th class="col-sm-1-5"></th>
-                                 <th class="col-sm-13">Position</th>
+                                 <th class="col-sm-9">	Training Course</th>
                                  <th class="col-sm-4">Location</th>
-                                 <th class="col-sm-2-5">Date</th>
-                                 <th class="text-center col-sm-3">Company</th>
+                                 <th class="col-sm-3">Date</th>
+                                 <th class="text-center col-sm-3">Organiser</th>
                               </tr>
                            </thead>
                            <tbody>
