@@ -17,7 +17,7 @@
               <div class="row">
                 <div class="col-sm-8">
                    <div class="panel panel-default panel-hover">
-                      <a href="#" title="Recruitment Agencies" class="panel-body">
+                      <a href="<?php echo $base_url; ?>resources\hr_recruitment_agencies.php" title="Recruitment Agencies" class="panel-body">
                          <div class="media container-xs-height media-height-sm">
                             <div class="media-object pull-left">
                                <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -36,7 +36,7 @@
                 </div>
                 <div class="col-sm-8">
                    <div class="panel panel-default panel-hover">
-                      <a href="#" title="Training Providers" class="panel-body">
+                      <a href="<?php echo $base_url; ?>resources\hr_training_providers.php" title="Training Providers" class="panel-body">
                          <div class="media container-xs-height media-height-sm">
                             <div class="media-object pull-left">
                                <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -55,7 +55,7 @@
                 </div>
                 <div class="col-sm-8">
                    <div class="panel panel-default panel-hover">
-                      <a href="#" title="Compensation Consultancies &amp; Data Providers" class="panel-body">
+                      <a href="<?php echo $base_url; ?>resources\hr_compensation_consultancies.php" title="Compensation Consultancies &amp; Data Providers" class="panel-body">
                          <div class="media container-xs-height media-height-sm">
                             <div class="media-object pull-left">
                                <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -76,7 +76,7 @@
               <div class="row">
                  <div class="col-sm-8">
                     <div class="panel panel-default panel-hover">
-                       <a href="#" title="Employment Testing Providers" class="panel-body">
+                       <a href="<?php echo $base_url; ?>resources\hr_employment_testing_providers.php" title="Employment Testing Providers" class="panel-body">
                           <div class="media container-xs-height media-height-sm">
                              <div class="media-object pull-left">
                                 <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -95,7 +95,7 @@
                  </div>
                  <div class="col-sm-8">
                     <div class="panel panel-default panel-hover">
-                       <a href="#" title="Employment Law Firms" class="panel-body">
+                       <a href="<?php echo $base_url; ?>resources\hr_employment_law_firms.php" title="Employment Law Firms" class="panel-body">
                           <div class="media container-xs-height media-height-sm">
                              <div class="media-object pull-left">
                                 <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -114,7 +114,7 @@
                  </div>
                  <div class="col-sm-8">
                     <div class="panel panel-default panel-hover">
-                       <a href="#" title="Relocation Firms" class="panel-body">
+                       <a href="<?php echo $base_url; ?>resources\hr_relocation_firms.php" title="Relocation Firms" class="panel-body">
                           <div class="media container-xs-height media-height-sm">
                              <div class="media-object pull-left">
                                 <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -135,7 +135,7 @@
               <div class="row">
                  <div class="col-sm-8">
                     <div class="panel panel-default panel-hover">
-                       <a href="#" title="Employee Background Checking Firms" class="panel-body">
+                       <a href="<?php echo $base_url; ?>resources\hr_background_checking.php" title="Employee Background Checking Firms" class="panel-body">
                           <div class="media container-xs-height media-height-sm">
                              <div class="media-object pull-left">
                                 <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -154,7 +154,7 @@
                  </div>
                  <div class="col-sm-8">
                     <div class="panel panel-default panel-hover">
-                       <a href="#" title="HR Professional Associations" class="panel-body">
+                       <a href="<?php echo $base_url; ?>resources\hr_professional_associations.php" title="HR Professional Associations" class="panel-body">
                           <div class="media container-xs-height media-height-sm">
                              <div class="media-object pull-left">
                                 <div class="icon icon-circle icon-2x icon-circle-section hover-expand">

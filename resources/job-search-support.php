@@ -89,7 +89,7 @@
                        </a>
                     </div>
                     <div class="col-sm-8">
-                       <a class="panel panel-default panel-hover" href="#">
+                       <a class="panel panel-default panel-hover" href="<?php echo $base_url; ?>resources\graduate_guides.php">
                           <div class="panel-heading">
                              <h3 class="panel-title">Graduate Resources</h3>
                           </div>
