@@ -30,7 +30,7 @@
                         <a class="list-group-item" href="#">
                            <div class="media">
                               <div class="media-object pull-left">
-                                 <img src="<?php echo $base_url; ?>assets\images1\1Cost_of_Livinga95c.png" width="205px">
+                                 <img src="<?php echo $base_url; ?>assets\img\market_report.png" width="205px">
                               </div>
                               <div class="media-body">
                                  <span class="text-med">Mobile growth and cyber-attacks force new hiring in UAE</span>
@@ -106,7 +106,7 @@
                            <a class="list-group-item" href="#">
                               <div class="media">
                                  <div class="media-object pull-left">
-                                    <img src="../images/articles/thumbnail-it-employment-uae-2017a95c.png?v2_68_0" height="50px" width="70px">
+                                    <img src="<?php echo $base_url; ?>assets\img\employment_news.png" height="50px" width="70px">
                                  </div>
                                  <div class="media-body">
                                     <span class="text-med">Mobile growth and cyber-attacks force new hiring in UAE</span>
@@ -123,10 +123,10 @@
                            <a class="list-group-item" href="#">
                               <div class="media">
                                  <div class="media-object pull-left">
-                                    <img src="../images/articles/thumbnail-gcc-employment-2017a95c.png?v2_68_0" height="50px" width="70px">
+                                     <img src="<?php echo $base_url; ?>assets\img\employment_news.png" height="50px" width="70px">
                                  </div>
                                  <div class="media-body">
-                                    <span class="text-med">GCC jobs set to recover in 2017, led by manufacturing and healthcare</span>
+                                    <span class="text-med">Aramco and SABIC top the list of most popular employers for Saudi graduates</span>
                                     <p class="text-sm text-supermuted">
                                        Jan 2017
                                        <span class="pull-right">
@@ -152,10 +152,10 @@
                            <a class="list-group-item" href="#">
                               <div class="media">
                                  <div class="media-object pull-left">
-                                    <img src="../images/articles/thumbnail-saudi-graduates-2016a95c.png?v2_68_0" height="50px" width="70px">
+                                     <img src="<?php echo $base_url; ?>assets\img\employment_news.png" height="50px" width="70px">
                                  </div>
                                  <div class="media-body">
-                                    <span class="text-med">Aramco and SABIC top the list of most popular employers for Saudi graduates</span>
+                                    <span class="text-med">Mobile growth and cyber-attacks force new hiring in UAE</span>
                                     <p class="text-sm text-supermuted">
                                        Nov 2016
                                        <span class="pull-right">
@@ -169,7 +169,7 @@
                            <a class="list-group-item" href="#">
                               <div class="media">
                                  <div class="media-object pull-left">
-                                    <img src="../images/articles/thumbnail-uae-graduates-2016a95c.png?v2_68_0" height="50px" width="70px">
+                                    <img src="<?php echo $base_url; ?>assets\img\employment_news.png" height="50px" width="70px">
                                  </div>
                                  <div class="media-body">
                                     <span class="text-med">Emirates Group and Unilever top the list of most popular graduate employers in the UAE</span>
@@ -201,7 +201,7 @@
                               href="#">
                               <div class="media">
                                  <div class="media-object pull-left">
-                                    <img src="../images/articles/salary2016a95c.jpg?v2_68_0" height="50px" width="70px">
+                                   <img src="<?php echo $base_url; ?>assets\img\employment_news.png" height="50px" width="70px">
                                  </div>
                                  <div class="media-body">
                                     <span class="text-med">2016 Gulf pay rises lowest in a decade, despite rising costs</span>
@@ -218,10 +218,10 @@
                            <a class="list-group-item" href="#">
                               <div class="media">
                                  <div class="media-object pull-left">
-                                    <img src="../images/articles/graph-salary-trends-englisha95c.png?v2_68_0" height="50px" width="70px">
+                                    <img src="<?php echo $base_url; ?>assets\img\employment_news.png" height="50px" width="70px">
                                  </div>
                                  <div class="media-body">
-                                    <span class="text-med">Gulf countries set to create more jobs in 2015, despite oil price fall</span>
+                                    <span class="text-med">Staff productivity to drop during World Cup 2014</span>
                                     <p class="text-sm text-supermuted">
                                        May 2015
                                        <span class="pull-right">
@@ -239,7 +239,7 @@
                      </div>
                   </div>
                   <div class="col-sm-12">
-                     <div class="panel panel-default">
+                     <div class="panel panel-default fa_default">
                         <div class="panel-heading">
                            <h3 class="panel-title">Workplace</h3>
                         </div>
@@ -247,7 +247,7 @@
                            <a class="list-group-item" href="#">
                               <div class="media">
                                  <div class="media-object pull-left">
-                                    <img src="../images/articles/graph-worldcup-englisha95c.png?v2_68_0" height="50px" width="70px">
+                                     <img src="<?php echo $base_url; ?>assets\img\employment_news.png" height="50px" width="70px">
                                  </div>
                                  <div class="media-body">
                                     <span class="text-med">Staff productivity to drop during World Cup 2014</span>
@@ -264,7 +264,7 @@
                            <a class="list-group-item" href="#">
                               <div class="media">
                                  <div class="media-object pull-left">
-                                    <img src="../images/articles/iStock_000002716985_ExtraSmalla95c.jpg?v2_68_0" height="50px" width="70px">
+                                    <img src="<?php echo $base_url; ?>assets\img\employment_news.png" height="50px" width="70px">
                                  </div>
                                  <div class="media-body">
                                     <span class="text-med">Pressure Grows on Companies to Ban Smoking in the Workplace</span>
@@ -288,7 +288,7 @@
             </div>
             <div class="col-sm-8
                hidden-print">
-               <div class="panel panel-default">
+               <div class="panel panel-default f_popular">
                   <div class="panel-heading">
                      <div class="text-heading panel-title"> Popular News </div>
                   </div>
@@ -342,7 +342,7 @@
                                     <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
                                  </div>
                            </div>
-                           <div class="media-body">
+                           <div class="">
                               <div class="text-medium text-overflow">Kuala Lampur </div>
                               <p class="text-sm text-supermuted">(1,653)</p>
                            </div>
@@ -357,7 +357,7 @@
                                     <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
                                  </div>
                            </div>
-                           <div class="media-body">
+                           <div class="">
                               <div class="text-medium text-overflow">Selongar</div>
                               <p class="text-sm text-supermuted">(1,653)</p>
                            </div>
@@ -372,32 +372,32 @@
                                     <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
                                  </div>
                            </div>
-                           <div class="media-body">
+                           <div class="">
                               <div class="text-medium text-overflow">Penang </div>
                               <p class="text-sm text-supermuted">(1,653)</p>
                            </div>
                         </div>
                      </a>
 
-                     <a class="list-group-item" href="#">
+                     <!--<a class="list-group-item" href="#">
                         <div class="media">
                            <div class="media-object pull-left">
                               <!--<i class="flag flag-base flag-SA"></i>-->
-                               <div class="media-object pull-left">
+                               <!--<div class="media-object pull-left">
                                     <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
                                  </div>
                            </div>
-                           <div class="media-body">
+                           <div class="">
                               <div class="text-medium text-overflow">Johar </div>
                               <p class="text-sm text-supermuted">(1,653)</p>
                            </div>
                         </div>
                      </a>
                      <!--<a class="list-group-item hidden-print" href="../jobs.html">-->
-                        <a class="list-group-item hidden-print" href="#">
+                        <!--<a class="list-group-item hidden-print" href="#">
                      <i class="fa fa-fw fa-chevron-right"></i>
                      Browse all jobs
-                     </a>
+                     </a>-->
                   </div>
                </div>
             </div>
