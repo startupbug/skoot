@@ -127,8 +127,8 @@ span.next {
 
 .section-courses .btn-section, .section-theme .section-courses .btn-section {
     color: #fff;
-    background-color: #d00c1a !important;
-    border-color: #d00c1a !important;
+    background-color: #ee7c00 !important;
+    border-color: #ee7c00 !important;
 }
 .section-salaries .btn-section, .section-theme .section-salaries .btn-section {
     color: #fff;
@@ -137,11 +137,11 @@ span.next {
 }
 .section-resources .btn-section, .section-theme .section-resources .btn-section {
     color: #fff;
-    background-color: #197b30 !important;
-    border-color: #197b30 !important;
+    background-color: #882485 !important;
+    border-color: #882485 !important;
 }
 .section-courses .media-object>.icon-circle-section, .section-theme .section-courses .media-object>.icon-circle-section {
-    border-color: #d00c1a !important;
+    border-color: #ee7c00 !important;
 }
 .section-salaries .media-object>.icon-circle-section, .section-theme .section-salaries .media-object>.icon-circle-section {
     border-color: #ff8500 !important;
@@ -4914,7 +4914,7 @@ pre code{
     display:table-cell!important
 }
 .col-xs-height:first-of-type{
-    padding-left:0
+    padding-left:242px;
 }
 .col-xs-height:last-of-type{
     padding-right:0
@@ -6157,7 +6157,7 @@ label .label-description{
 }
 .btn-block{
     display:block;
-    width:100%
+    
 }
 input[type=button].btn-block,input[type=reset].btn-block,input[type=submit].btn-block{
     width:100%
@@ -7954,9 +7954,9 @@ body,footer{
     margin-top:-10px;
     margin-bottom:-10px
 }
-.media-body>:first-child,.panel-title{
+/*.media-body>:first-child,.panel-title{
     margin-top:68px
-}
+}*/
 .media-body:last-child>:last-child{
     margin-bottom:0
 }
@@ -10050,7 +10050,7 @@ a.text-section:hover{
     border-color:#804a96
 }
 .section-courses .media-object>.icon-circle-section .fa,.section-theme .section-courses .media-object>.icon-circle-section .fa{
-    color:#d00c1a;
+    color:#ee7c00;
 }
 .section-courses .nav-pills>li.active,.section-theme .section-courses .nav-pills>li.active{
     border-top-color:#804a96;
@@ -10135,11 +10135,11 @@ a.text-section:hover{
     border-left-color:#d9aa35
 }
 .section-resources .media-object>.icon-circle-section,.section-theme .section-resources .media-object>.icon-circle-section{
-        border-color: red;
-    background-color: red;
+        border-color: #882485;
+   
 }
 .section-resources .media-object>.icon-circle-section .fa,.section-theme .section-resources .media-object>.icon-circle-section .fa{
-    color:white;
+    color:#882485;
 }
 .section-resources .nav-pills>li.active,.section-theme .section-resources .nav-pills>li.active{
     border-top-color:#d25625;
@@ -10184,10 +10184,15 @@ a.text-section:hover{
 .section-events .list-symbol-section>li:before,.section-theme .section-events .list-symbol-section>li:before{
     color:#d9aa35!important
 }
-.section-events .btn-section,.section-theme .section-events .btn-section{
-    color:#fff;
-    background-color:#d9aa35;
-    border-color:#d9aa35
+.section-events .btn-section, .section-theme .section-events .btn-section {
+    color: #fff;
+    background-color: #177332;
+    border-color: #177332;
+}
+.section-events .btn-section, .section-theme .section-events .btn-section:hover {
+    color: #fff;
+    background-color: #177332 !important;
+    border-color: #177332 !important;
 }
 .open>.section-events .btn-section.dropdown-toggle,.open>.section-theme .section-events .btn-section.dropdown-toggle,.section-events .btn-section.active,.section-events .btn-section:active,.section-events .btn-section:focus,.section-events .btn-section:hover,.section-theme .section-events .btn-section.active,.section-theme .section-events .btn-section:active,.section-theme .section-events .btn-section:focus,.section-theme .section-events .btn-section:hover{
     color:#fff;
@@ -10209,10 +10214,10 @@ a.text-section:hover{
     background-color:#d9aa35
 }
 .section-events .media-object>.icon-circle-section,.section-theme .section-events .media-object>.icon-circle-section{
-    border-color:#d9aa35
+    border-color:#177332;
 }
 .section-events .media-object>.icon-circle-section .fa,.section-theme .section-events .media-object>.icon-circle-section .fa{
-    color:#d9aa35
+    color:#177332;
 }
 .section-events .nav-pills>li.active,.section-theme .section-events .nav-pills>li.active{
     border-top-color:#d9aa35;
@@ -11981,11 +11986,11 @@ a.f_item:hover {
     right: -117px;
 }
 
-h4.space-bottom-none.text-link {
+/*h4.space-bottom-none.text-link {
     border: 1px solid;
     padding: 4px 5px 4px 5px;
     font-size: 12px;
-}
+}*/
 .f_candidates {
     color: black;
     font-size: 20px;
@@ -11998,7 +12003,116 @@ h4.space-bottom-none.text-link {
     color: #28306c;
 }
 
+h1.f_affiliate {
+    color: #1c2870;
+    text-align: left;
+}
 .f_circle {
     background-color: #28306c;
     color: white;
+}
+
+.f_content {
+    color: #666666;
+    text-align: left;
+}
+
+.f_buttonmore {
+    background-color: #0077b5;
+    border: 1px solid #0077b5;
+}
+.f_buttonmore:hover {
+    background-color: #1c2870;
+    border: 1px solid #1c2870;
+}
+
+.f_btn:hover {
+    color: #25a8e0;
+}
+
+.f_media {
+    border: 1px solid;
+    border-radius: 50%;
+    padding: 9px;
+}
+.f_icon_media {
+    border: 1px solid #28306c;
+    border-radius: 50%;
+    background-color: #1c2870;
+    color: white;
+}
+
+.f_web {
+    color: #333333;
+}
+
+
+
+.f_btn_call {
+    background-color: #1c2870;
+    border: 1px solid #1c2870;
+    color: white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+h1.f_join {
+    font-size: 50px;
+}
+h3.f_call {
+    font-size: 19px !important;
+}
+
+.content_f {
+    color: #1c2870;
+}
+.f_no {
+    color: red !important;
+}
+.f_btn_call:hover {
+    background-color: #1c2870;
+    border: 1px solid #1c2870;
+    color: white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.f_btn_call:hover {
+    background-color: #1c2870 !important;
+    border: 1px solid #1c2870 !important;
+    color: white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+hr.space-top-sm.f_line {
+   
+    border: 1px solid #ee7c00;
+}
+hr.f_border {
+    border: 1px solid #177332;
+}
+hr.f_bottom {
+    border: 1px solid #882485;
+}
+
+/*main#main-block {
+    background-image: url(../img/featured/For-Journalists.png);
+}*/
+.f_section{
+ background-image: url(../img/featured/For-Journalists.png);
+}
+.f_latest {
+    color: red;
+}
+
+.f_market {
+    color: white !important;
+}
+
+.f_space img.space-left-xs {
+    width: 97px;
+}
+
+.f_submit {
+    width: 100%;
+    background-color: #d72214;
+    border: 1px solid #d72214;
 }

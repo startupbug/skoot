@@ -219,7 +219,7 @@
             </div>
          </div>
       </section>
-      <section class="bg-dark">
+     <!-- <section class="bg-dark">
          <div class="container">
             <div class="row space-top-lg">
                <h1 class="text-center space-bottom-xl">Why JobLane?</h1>
@@ -309,7 +309,7 @@
                </div>
             </div>
          </div>
-      </section>
+      </section>-->
       <section class="bg-light">
          <div class="container">
             <div class="row space-top-lg space-bottom-lg">

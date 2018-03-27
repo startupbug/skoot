@@ -1,4 +1,5 @@
 <!-- Footer Section -->
+
 <footer class="hidden-print">
     <section class="sitemap">
         <div class="container hidden-print">
@@ -6,7 +7,7 @@
                 <div class="col-sm-4">
                     <h4>Jobs</h4>
                     <ul class="list-unstyled">
-                        <li><a href="#">Find jobs</a></li>
+                        <li><a href="<?php echo $base_url; ?>jobs/search_job.php">Find jobs</a></li>
                         <li>
                             <a gt-modal-static="'registrationOptionsModal'"
                                 gt-modal-class="modal-fixed-top"
@@ -20,18 +21,18 @@
                             </a>
                         </li>
                         <li><a href="#">Jobs by Title</a></li>
-                        <li><a href="#">Sign up for job alerts</a></li>
-                        <li><a href="#">Build online CV</a></li>
-                        <li><a href="#">Career resources</a></li>
-                        <li><a href="#">Help for Candidates</a></li>
+                        <li><a href="<?php echo $base_url; ?>register/jobalert.php">Sign up for job alerts</a></li>
+                        <li><a href="<?php echo $base_url; ?>register/online_cv.php">Build online CV</a></li>
+                        <li><a href="<?php echo $base_url; ?>resources/job-search-support.php">Career resources</a></li>
+                        <li><a href="<?php echo $base_url; ?>register/faqs.php"">Help for Candidates</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-4">
                     <h4>For Employers</h4>
                     <ul class="list-unstyled">
-                        <li><a href="#">Post a job</a></li>
-                        <li><a href="#">Search CV database</a></li>
-                        <li><a href="#">Advertise &amp; Brand</a></li>
+                        <li><a href="<?php echo $base_url; ?>employeer/employer_job.php"">Post a job</a></li>
+                        <li><a href="<?php echo $base_url; ?>employeer/employer_cv.php"">Search CV database</a></li>
+                        <li><a href="<?php echo $base_url; ?>employeer/advertise_brand.php">Advertise &amp; Brand</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-4">
@@ -48,8 +49,8 @@
                 <div class="col-sm-4">
                     <h4>Other Services</h4>
                     <ul class="list-unstyled">
-                        <li><a href="#">For affiliates</a></li>
-                        <li><a href="#">For HR professionals</a></li>
+                        <li><a href="<?php echo $base_url; ?>otherservices/affiliates.php"">For affiliates</a></li>
+                        <li><a href="<?php echo $base_url; ?>otherservices/hr_professionals.php"">For HR professionals</a></li>
                         <li><a href="#">For advertising agencies</a></li>
                         <li>
                             <a href="#">
@@ -57,7 +58,7 @@
                             </a>
                         </li>
                         <li><a href="#">For course organisers</a></li>
-                        <li><a href="#">For journalists</a></li>
+                        <li><a href="<?php echo $base_url; ?>otherservices/journalist.php"">For journalists</a></li>
                         <li>
                             <a href="#">
                             For universities

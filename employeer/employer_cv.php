@@ -365,7 +365,7 @@
             </div>
          </div>
       </section>
-      <section class="bg-dark">
+     <!-- <section class="bg-dark">
          <div class="container">
             <h1 class="text-center trigger-slides">What our clients say</h1>
             <div>
@@ -516,7 +516,7 @@
                </carousel>
             </div>
          </div>
-      </section>
+      </section>-->
       <section class="bg-light">
          <div class="container">
             <div class="row space-top-lg space-bottom-lg">
