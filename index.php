@@ -95,14 +95,10 @@
                            <i class="fa fa-map-marker"></i>
                            <select class="form-control input-lg s-input-lg" name="frmPositionCountry">
                               <option selected disabled="disabled">Location</option>
-                              <option value="" >Kuala Lumpur</option>
-                              <option value="" >Selongar</option>
-                              <option value="" >Penang</option>
-                              <option value="" >Johar</option>
-                              <option value="" >Sarawak</option>
-                              <option value="" >Melaka</option>
-                              <option value="" >Labuan</option>
-                             
+                              <option value="" >Malaysia</option>
+                              <option value="" >Singapore</option>
+                              <option value="" >Hongkong</option>
+                              <option value="" >China</option>
                            </select>
                         </div>
                         <button type="submit" class="btn btn-lg btn-primary btn-corner">
@@ -393,7 +389,7 @@
                            </div>
                         </div>
                         <div class="col-sm-6">
-                           <div class="panel panel-default panel-hover 
+                           <div class="panel panel-default panel-hover
                               panel-bordered">
                               <!-- <a href="jobs/country.html" title="View all countries" class="panel-body"> -->
                               <a href="#" title="View all countries" class="panel-body">
@@ -422,8 +418,8 @@
                   <div class="space-bottom-lg">
                      <div class="row">
                         <div class="col-sm-6">
-                           <div class="panel panel-default panel-hover 
-                              panel-bordered"> 
+                           <div class="panel panel-default panel-hover
+                              panel-bordered">
                               <!-- <a href="jobs/category/civil-engineering.html" title="Engineering - Civil &amp; Construction jobs" class="panel-body"> -->
                               <a href="#" title="Engineering - Civil &amp; Construction jobs" class="panel-body">
                                  <div class="media container-xs-height media-height-sm">
@@ -447,7 +443,7 @@
                            </div>
                         </div>
                         <div class="col-sm-6">
-                           <div class="panel panel-default panel-hover 
+                           <div class="panel panel-default panel-hover
                               panel-bordered">
                               <!-- <a href="jobs/category/software.html" title="IT - Software &amp; Web Development jobs"
                                  class="panel-body"> -->
@@ -473,7 +469,7 @@
                            </div>
                         </div>
                         <div class="col-sm-6">
-                           <div class="panel panel-default panel-hover 
+                           <div class="panel panel-default panel-hover
                               panel-bordered">
                               <!-- <a href="jobs/category/management.html" title="General Management jobs" class="panel-body"> -->
                               <a href="#" title="General Management jobs" class="panel-body">
@@ -497,7 +493,7 @@
                            </div>
                         </div>
                         <div class="col-sm-6">
-                           <div class="panel panel-default panel-hover 
+                           <div class="panel panel-default panel-hover
                               panel-bordered">
                               <!-- <a href="jobs/category/finance-consulting.html" title="Finance, Business Analysis &amp; Consulting jobs" class="panel-body"> -->
                               <a href="#" title="Finance, Business Analysis &amp; Consulting jobs" class="panel-body">
@@ -523,7 +519,7 @@
                      </div>
                      <div class="row">
                         <div class="col-sm-6">
-                           <div class="panel panel-default panel-hover 
+                           <div class="panel panel-default panel-hover
                               panel-bordered">
                               <!-- <a href="jobs/category/sales.html" title="Sales - Wholesale / Corporate jobs" class="panel-body"> -->
                               <a href="#" title="Sales - Wholesale / Corporate jobs" class="panel-body">
@@ -547,7 +543,7 @@
                            </div>
                         </div>
                         <div class="col-sm-6">
-                           <div class="panel panel-default panel-hover 
+                           <div class="panel panel-default panel-hover
                               panel-bordered">
                               <!-- <a href="jobs/category/accounting.html" title="Accounting &amp; Audit jobs" class="panel-body"> -->
                               <a href="#" title="Accounting &amp; Audit jobs" class="panel-body">
@@ -572,7 +568,7 @@
                            </div>
                         </div>
                         <div class="col-sm-6">
-                           <div class="panel panel-default panel-hover 
+                           <div class="panel panel-default panel-hover
                               panel-bordered">
                               <!-- <a href="jobs/category/catering.html" title="Catering, Food Services &amp; Restaurants jobs" class="panel-body"> -->
                               <a href="#" title="Catering, Food Services &amp; Restaurants jobs" class="panel-body">
@@ -720,7 +716,7 @@
       <div class="fade"></div>
       <div class="feedback-btn-container affix-bottom affix-right space-right-base">
          <div class="text-right">
-            <button 
+            <button
                class="btn btn-default btn-secondary"
                id="feedback">
             Feedback

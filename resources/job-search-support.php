@@ -41,7 +41,7 @@
                        </a>
                     </div>
                     <div class="col-sm-8">
-                       <a class="panel panel-default panel-hover" href="#">
+                       <a class="panel panel-default panel-hover" href="<?php echo $base_url; ?>resources\cv_review.php">
                           <div class="panel-heading">
                              <h3 class="panel-title">Free CV Review</h3>
                           </div>
@@ -65,7 +65,7 @@
                        </a>
                     </div>
                     <div class="col-sm-8">
-                       <a class="panel panel-default panel-hover" href="#">
+                       <a class="panel panel-default panel-hover" href="<?php echo $base_url; ?>resources\cv_writing.php">
                           <div class="panel-heading">
                              <h3 class="panel-title">CV Writing Services</h3>
                           </div>

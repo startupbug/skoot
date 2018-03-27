@@ -104,7 +104,7 @@
                   <div class="row">
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" title="IT &amp; Telecom" class="panel-body">
+                           <a href="<?php echo $base_url; ?>courses/course_category.php" title="IT &amp; Telecom" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -123,7 +123,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" title="Personal Development" class="panel-body">
+                           <a href="<?php echo $base_url; ?>courses/course_category.php" title="Personal Development" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -142,7 +142,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered ">
-                           <a href="#" title="Business &amp; MBA" class="panel-body">
+                           <a href="<?php echo $base_url; ?>courses/course_category.php" title="Business &amp; MBA" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -163,7 +163,7 @@
                         <div class="panel panel-default panel-hover
                            panel-bordered
                            ">
-                           <a href="#" title="Finance &amp; Banking" class="panel-body">
+                           <a href="<?php echo $base_url; ?>courses/course_category.php" title="Finance &amp; Banking" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -184,7 +184,7 @@
                   <div class="row">
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" title="HR" class="panel-body">
+                           <a href="<?php echo $base_url; ?>courses/course_category.php" title="HR" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -203,7 +203,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" title="Project Management" class="panel-body">
+                           <a href="<?php echo $base_url; ?>courses/course_category.php" title="Project Management" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -224,7 +224,7 @@
                         <div class="panel panel-default panel-hover
                            panel-bordered
                            ">
-                           <a href="#" title="Marketing &amp; PR" class="panel-body">
+                           <a href="<?php echo $base_url; ?>courses/course_category.php" title="Marketing &amp; PR" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -243,7 +243,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" title="Healthcare" class="panel-body">
+                           <a href="<?php echo $base_url; ?>courses/course_category.php" title="Healthcare" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -264,7 +264,7 @@
                   <div class="row">
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" title="Logistics" class="panel-body">
+                           <a href="<?php echo $base_url; ?>courses/course_category.php" title="Logistics" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -283,7 +283,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" title="Customer Service" class="panel-body">
+                           <a href="<?php echo $base_url; ?>courses/course_category.php" title="Customer Service" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -302,7 +302,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered ">
-                           <a href="#" title="Administration" class="panel-body">
+                           <a href="<?php echo $base_url; ?>courses/course_category.php" title="Administration" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -321,7 +321,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" title="Education" class="panel-body">
+                           <a href="<?php echo $base_url; ?>courses/course_category.php" title="Education" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -342,7 +342,7 @@
                   <div class="row">
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered ">
-                           <a href="#" title="Engineering" class="panel-body">
+                           <a href="<?php echo $base_url; ?>courses/course_category.php" title="Engineering" class="panel-body">
                               <div class="media container-xs-height
                                  media-height-sm">
                                  <div class="media-object pull-left">
@@ -362,7 +362,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered ">
-                           <a href="#" title="Quality Management" class="panel-body">
+                           <a href="<?php echo $base_url; ?>courses/course_category.php" title="Quality Management" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -381,7 +381,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered ">
-                           <a href="#" title="Sales" class="panel-body">
+                           <a href="<?php echo $base_url; ?>courses/course_category.php" title="Sales" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -400,7 +400,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered ">
-                           <a href="#" title="Contracts Management" class="panel-body">
+                           <a href="<?php echo $base_url; ?>courses/course_category.php" title="Contracts Management" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -421,7 +421,7 @@
                   <div class="row">
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered ">
-                           <a href="#" title="Media" class="panel-body">
+                           <a href="<?php echo $base_url; ?>courses/course_category.php" title="Media" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -440,7 +440,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered ">
-                           <a href="#" title="HSE" class="panel-body">
+                           <a href="<?php echo $base_url; ?>courses/course_category.php" title="HSE" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -459,7 +459,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered ">
-                           <a href="#" title="Oil &amp; Gas" class="panel-body">
+                           <a href="<?php echo $base_url; ?>courses/course_category.php" title="Oil &amp; Gas" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -478,7 +478,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered ">
-                           <a href="#" title="Real Estate" class="panel-body">
+                           <a href="<?php echo $base_url; ?>courses/course_category.php" title="Real Estate" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -499,7 +499,7 @@
                   <div class="row">
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered ">
-                           <a href="#" title="Language" class="panel-body">
+                           <a href="<?php echo $base_url; ?>courses/course_category.php" title="Language" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
