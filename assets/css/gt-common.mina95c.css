@@ -7954,9 +7954,6 @@ body,footer{
     margin-top:-10px;
     margin-bottom:-10px
 }
-.media-body>:first-child,.panel-title{
-    margin-top:68px
-}
 .media-body:last-child>:last-child{
     margin-bottom:0
 }
@@ -11953,7 +11950,7 @@ a.f_item:hover {
 }
 
 .f_panel {
-   
+
     padding-bottom: 22px;
 }
 
@@ -11981,11 +11978,6 @@ a.f_item:hover {
     right: -117px;
 }
 
-h4.space-bottom-none.text-link {
-    border: 1px solid;
-    padding: 4px 5px 4px 5px;
-    font-size: 12px;
-}
 .f_candidates {
     color: black;
     font-size: 20px;
