@@ -113,7 +113,7 @@
                   <div class="row">
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" class="panel-body">
+                           <a href="<?php echo $base_url; ?>salaries\job_category.php" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -129,7 +129,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" class="panel-body">
+                           <a href="<?php echo $base_url; ?>salaries\job_category.php" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -145,7 +145,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" class="panel-body">
+                           <a href="<?php echo $base_url; ?>salaries\job_category.php" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -161,7 +161,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" class="panel-body">
+                           <a href="<?php echo $base_url; ?>salaries\job_category.php" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -179,7 +179,7 @@
                   <div class="row">
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" class="panel-body">
+                           <a href="<?php echo $base_url; ?>salaries\job_category.php" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -195,7 +195,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" class="panel-body">
+                           <a href="<?php echo $base_url; ?>salaries\job_category.php" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -211,7 +211,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" class="panel-body">
+                           <a href="<?php echo $base_url; ?>salaries\job_category.php" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -227,7 +227,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" class="panel-body">
+                           <a href="<?php echo $base_url; ?>salaries\job_category.php" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -245,7 +245,7 @@
                   <div class="row">
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" class="panel-body">
+                           <a href="<?php echo $base_url; ?>salaries\job_category.php" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -261,7 +261,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" class="panel-body">
+                           <a href="<?php echo $base_url; ?>salaries\job_category.php" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -277,7 +277,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" class="panel-body">
+                           <a href="<?php echo $base_url; ?>salaries\job_category.php" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -293,7 +293,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" class="panel-body">
+                           <a href="<?php echo $base_url; ?>salaries\job_category.php" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -311,7 +311,7 @@
                   <div class="row">
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" class="panel-body">
+                           <a href="<?php echo $base_url; ?>salaries\job_category.php" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -327,7 +327,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" class="panel-body">
+                           <a href="<?php echo $base_url; ?>salaries\job_category.php" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -343,7 +343,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" class="panel-body">
+                           <a href="<?php echo $base_url; ?>salaries\job_category.php" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -359,7 +359,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" class="panel-body">
+                           <a href="<?php echo $base_url; ?>salaries\job_category.php" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -377,7 +377,7 @@
                   <div class="row">
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" class="panel-body">
+                           <a href="<?php echo $base_url; ?>salaries\job_category.php" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -393,7 +393,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" class="panel-body">
+                           <a href="<?php echo $base_url; ?>salaries\job_category.php" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -409,7 +409,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" class="panel-body">
+                           <a href="<?php echo $base_url; ?>salaries\job_category.php" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -425,7 +425,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" class="panel-body">
+                           <a href="<?php echo $base_url; ?>salaries\job_category.php" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -443,7 +443,7 @@
                   <div class="row">
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" class="panel-body">
+                           <a href="<?php echo $base_url; ?>salaries\job_category.php" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -459,7 +459,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" class="panel-body">
+                           <a href="<?php echo $base_url; ?>salaries\job_category.php" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -475,7 +475,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" class="panel-body">
+                           <a href="<?php echo $base_url; ?>salaries\job_category.php" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
@@ -491,7 +491,7 @@
                      </div>
                      <div class="col-sm-6">
                         <div class="panel panel-default panel-hover panel-bordered">
-                           <a href="#" class="panel-body">
+                           <a href="<?php echo $base_url; ?>salaries\job_category.php" class="panel-body">
                               <div class="media container-xs-height media-height-sm">
                                  <div class="media-object pull-left">
                                     <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
