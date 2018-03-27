@@ -219,7 +219,7 @@
                                     <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
                                  </div>
                            </div>
-                           <div class="media-body">
+                           <div class="">
                               <div class="text-medium text-overflow">Kuala lampur </div>
                               <p class="text-sm text-supermuted">(1,653)</p>
                            </div>
@@ -234,7 +234,7 @@
                                     <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
                                  </div>
                            </div>
-                           <div class="media-body">
+                           <div class="">
                               <div class="text-medium text-overflow">Selongar </div>
                               <p class="text-sm text-supermuted">(1,653)</p>
                            </div>
@@ -249,7 +249,7 @@
                                     <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
                                  </div>
                            </div>
-                           <div class="media-body">
+                           <div class="">
                               <div class="text-medium text-overflow">Penang </div>
                               <p class="text-sm text-supermuted">(1,653)</p>
                            </div>
@@ -263,7 +263,7 @@
                                     <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
                                  </div>
                            </div>
-                           <div class="media-body">
+                           <div class="">
                               <div class="text-medium text-overflow">Johar </div>
                               <p class="text-sm text-supermuted">(1,653)</p>
                            </div>

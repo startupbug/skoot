@@ -1,3 +1,4 @@
+
 /*
  * This file should only be used to override bootstrap default variables,
  * set in bootstrap/_variables.scss.
@@ -7954,7 +7955,7 @@ body,footer{
     margin-bottom:-10px
 }
 .media-body>:first-child,.panel-title{
-    margin-top:0
+    margin-top:68px
 }
 .media-body:last-child>:last-child{
     margin-bottom:0
@@ -10134,10 +10135,11 @@ a.text-section:hover{
     border-left-color:#d9aa35
 }
 .section-resources .media-object>.icon-circle-section,.section-theme .section-resources .media-object>.icon-circle-section{
-    border-color: #197b30
+        border-color: red;
+    background-color: red;
 }
 .section-resources .media-object>.icon-circle-section .fa,.section-theme .section-resources .media-object>.icon-circle-section .fa{
-    color:#197b30;
+    color:white;
 }
 .section-resources .nav-pills>li.active,.section-theme .section-resources .nav-pills>li.active{
     border-top-color:#d25625;
@@ -10501,7 +10503,7 @@ a.text-section:hover{
     cursor:pointer!important
 }
 .text-success-dark{
-    color:#3e6936
+    color:red
 }
 .ribbon-orange{
     background-image:url(../../images/ribbon-orange.png);
@@ -11951,6 +11953,52 @@ a.f_item:hover {
 }
 
 .f_panel {
-    margin-top: 65px;
+   
+    padding-bottom: 22px;
 }
 
+.f_employer {
+    font-size: 32px !important;
+}
+.f_inverted {
+    color: white !important;
+}
+.f_or {
+    color: #28306c;
+    font-weight: 800 !important;
+}
+.f_color {
+    color: #fff;
+    background-color: #0077b5;
+    border-color: #0077b5;
+}
+
+
+.f_popular {
+    padding-bottom: 52px;
+}
+.f_right {
+    right: -117px;
+}
+
+h4.space-bottom-none.text-link {
+    border: 1px solid;
+    padding: 4px 5px 4px 5px;
+    font-size: 12px;
+}
+.f_candidates {
+    color: black;
+    font-size: 20px;
+}
+.f_img {
+    border-radius: 50%;
+}
+
+.f_posting {
+    color: #28306c;
+}
+
+.f_circle {
+    background-color: #28306c;
+    color: white;
+}
