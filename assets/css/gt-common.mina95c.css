@@ -61,6 +61,7 @@
 }
 
 
+
 .s-search-model{
       background: #ffffff9e;
       border: 6px solid #ffffff8a;
@@ -3250,6 +3251,8 @@ address{
 a.text-link:hover{
     color:#005582
 }
+
+
 .text-muted{
     color:#1c2870!important
 }
@@ -3267,6 +3270,9 @@ a.text-supermuted:hover{
 }
 a.text-regular:hover{
     color:#000
+}
+.text-gray {
+    color: #86878a!important;
 }
 .text-inverted{
     color:#fff;
@@ -6157,7 +6163,7 @@ label .label-description{
 }
 .btn-block{
     display:block;
-    
+
 }
 input[type=button].btn-block,input[type=reset].btn-block,input[type=submit].btn-block{
     width:100%
@@ -7954,12 +7960,7 @@ body,footer{
     margin-top:-10px;
     margin-bottom:-10px
 }
-<<<<<<< HEAD
-/*.media-body>:first-child,.panel-title{
-    margin-top:68px
-}*/
-=======
->>>>>>> 07e61aee8c12dd25293a9bf1502fdf3fb95993a8
+
 .media-body:last-child>:last-child{
     margin-bottom:0
 }
@@ -10139,7 +10140,7 @@ a.text-section:hover{
 }
 .section-resources .media-object>.icon-circle-section,.section-theme .section-resources .media-object>.icon-circle-section{
         border-color: #882485;
-   
+
 }
 .section-resources .media-object>.icon-circle-section .fa,.section-theme .section-resources .media-object>.icon-circle-section .fa{
     color:#882485;
@@ -11989,14 +11990,7 @@ a.f_item:hover {
     right: -117px;
 }
 
-<<<<<<< HEAD
-/*h4.space-bottom-none.text-link {
-    border: 1px solid;
-    padding: 4px 5px 4px 5px;
-    font-size: 12px;
-}*/
-=======
->>>>>>> 07e61aee8c12dd25293a9bf1502fdf3fb95993a8
+
 .f_candidates {
     color: black;
     font-size: 20px;
@@ -12018,7 +12012,10 @@ h1.f_affiliate {
     color: white;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c36b37e98013109eff67b2ff6812321c7e0a2218
 
 .f_content {
     color: #666666;
@@ -12091,7 +12088,7 @@ h3.f_call {
     padding-bottom: 8px;
 }
 hr.space-top-sm.f_line {
-   
+
     border: 1px solid #ee7c00;
 }
 hr.f_border {
@@ -12124,6 +12121,7 @@ hr.f_bottom {
     background-color: #d72214;
     border: 1px solid #d72214;
 }
+<<<<<<< HEAD
 
 .f_million {
     color: red !important;
@@ -12213,3 +12211,4 @@ a.pull-right.space-top-xs {
 .icon_f {
     color: #25a8e0 !important;
 }
+
