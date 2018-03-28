@@ -104,6 +104,7 @@
             </div>
          </div>
          </section>-->
+         
       <div style="background-image: url(<?php echo $base_url;?>assets/img/featured/affiliate_img.png)"
          class="jumbotron bg-cover">
          <div class="container space-top-xxl space-bottom-xxl">

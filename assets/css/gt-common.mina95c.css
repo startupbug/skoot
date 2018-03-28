@@ -3251,7 +3251,7 @@ a.text-link:hover{
     color:#005582
 }
 .text-muted{
-    color:#636464!important
+    color:#1c2870!important
 }
 a.text-muted:hover{
     color:#4a4a4a
@@ -4913,8 +4913,8 @@ pre code{
 .col-xs-height{
     display:table-cell!important
 }
-.col-xs-height:first-of-type{
-    padding-left:242px;
+/*.col-xs-height:first-of-type{
+    padding-left:242px;*/
 }
 .col-xs-height:last-of-type{
     padding-right:0
@@ -10185,7 +10185,7 @@ a.text-section:hover{
     color:#b88d23
 }
 .section-events .list-symbol-section>li:before,.section-theme .section-events .list-symbol-section>li:before{
-    color:#d9aa35!important
+    color:#858585!important;
 }
 .section-events .btn-section, .section-theme .section-events .btn-section {
     color: #fff;
@@ -12017,7 +12017,8 @@ h1.f_affiliate {
     background-color: #28306c;
     color: white;
 }
-<<<<<<< HEAD
+
+
 
 .f_content {
     color: #666666;
@@ -12038,7 +12039,7 @@ h1.f_affiliate {
 }
 
 .f_media {
-    border: 1px solid;
+    border: 1px solid #1c2870;
     border-radius: 50%;
     padding: 9px;
 }
@@ -12066,7 +12067,7 @@ h1.f_join {
     font-size: 50px;
 }
 h3.f_call {
-    font-size: 19px !important;
+    font-size: 18px !important;
 }
 
 .content_f {
@@ -12124,3 +12125,91 @@ hr.f_bottom {
     border: 1px solid #d72214;
 }
 
+.f_million {
+    color: red !important;
+}
+
+span.f_prof {
+    color: #1c2870 !important;
+    font-weight: 800;
+}
+
+.f_num {
+    color: #1c2870;
+}
+
+.f_nation {
+    color: #25a8e0 !important;
+    font-weight: 800;
+}
+
+.f_curved {
+    color: white !important;
+}
+.informa_f {
+    margin-top: 42px;
+}
+
+.featured_img {
+    position: absolute;
+    top: 14px;
+    right: 75%;
+}
+.user {
+    position: absolute;
+    top: 22px;
+    right: 82%;
+    font-size: 31px;
+    color: #1c2870;
+}
+
+.f_reach {
+    color: #1c2870 !important;
+    font-weight: 800;
+}
+
+p.f_entry {
+    color: #858585 !important;
+}
+.f_bg {
+    background-color: #1c2870;
+}
+h2.f_look {
+    color: white;
+}
+
+.f_check {
+    color: white;
+}
+
+.f_muted {
+    font-size: 37px;
+}
+
+h3.f_event {
+    margin-left: 198px;
+}
+
+.f_cima {
+    margin-top: 23px !important;
+}
+
+.f_about {
+    color: #1c2870;
+}
+
+p.f_about_content {
+    color: #636464;
+}
+
+.f_btn_about:hover {
+    color: #0077b5;
+}
+a.pull-right.space-top-xs {
+    color: #1c2870;
+    font-weight: 600;
+}
+
+.icon_f {
+    color: #25a8e0 !important;
+}

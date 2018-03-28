@@ -38,30 +38,29 @@
                 <div class="col-sm-4">
                     <h4>Discover</h4>
                     <ul class="list-unstyled">
-                        <li><a href="#">Salaries</a></li>
-                        <li><a href="#">Courses</a></li>
-                        <li><a href="#">Events</a></li>
-                        <li><a href="#">Research Reports</a></li>
-                        <li><a href="#">Articles</a></li>
-                        <li><a href="#">Public Holidays</a></li>
+                        <li><a href="<?php echo $base_url; ?>salaries/evaluate.php">Salaries</a></li>
+                        <li><a href="<?php echo $base_url; ?>courses/search.php">Courses</a></li>
+                        <li><a href="<?php echo $base_url; ?>resources/event.php">Events</a></li>
+                        <li><a href="<?php echo $base_url; ?>resources/market_research_report.php">Research Reports</a></li>
+                        <li><a href="<?php echo $base_url; ?>resources/employment_news.php">Articles</a></li>
+                        <li><a href="<?php echo $base_url; ?>resources/public-holidays.php">Public Holidays</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-4">
                     <h4>Other Services</h4>
                     <ul class="list-unstyled">
-                        <li><a href="<?php echo $base_url; ?>otherservices/affiliates.php"">For affiliates</a></li>
-                        <li><a href="<?php echo $base_url; ?>otherservices/hr_professionals.php"">For HR professionals</a></li>
+                        <li><a href="<?php echo $base_url; ?>otherservices/affiliates.php">For affiliates</a></li>
+                        <li><a href="<?php echo $base_url; ?>otherservices/hr_professionals.php">For HR professionals</a></li>
                         <li><a href="#">For advertising agencies</a></li>
                         <li>
-                            <a href="#">
+                            <a href="<?php echo $base_url; ?>otherservices/event_organizer.php">
                             For event organisers
                             </a>
                         </li>
-                        <li><a href="#">For course organisers</a></li>
-                        <li><a href="<?php echo $base_url; ?>otherservices/journalist.php"">For journalists</a></li>
+                        <li><a href="<?php echo $base_url; ?>otherservices/course_organizer.php">For course organisers</a></li>
+                        <li><a href="<?php echo $base_url; ?>otherservices/journalist.php">For journalists</a></li>
                         <li>
-                            <a href="#">
-                            For universities
+                            <a href="<?php echo $base_url; ?>otherservices/universities.php">For universities
                             </a>
                         </li>
                     </ul>
@@ -69,11 +68,11 @@
                 <div class="col-sm-4">
                     <h4>JobLaneTalent</h4>
                     <ul class="list-unstyled">
-                        <li><a href="#">About us</a></li>
+                        <li><a href="<?php echo $base_url; ?>joblane/aboutus.php"">About us</a></li>
                         <li><a href="#">TV coverage</a></li>
                         <li><a href="#">Print &amp; online coverage</a></li>
                         <li><a href="#">Contact us</a></li>
-                        <li><a href="#">Sitemap</a></li>
+                        <li><a href="<?php echo $base_url; ?>joblane/sitemap.php"">Sitemap</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-4">
@@ -107,11 +106,11 @@
             <div class="row">
                 <div class="col-sm-24">
                     <ul class="list-inline">
-                        <li><a href="#" class="first">Terms</a> |</li>
+                        <li><a href="<?php echo $base_url; ?>terms_condition/terms.php"" class="first">Terms</a> |</li>
                         <li>
-                            <a href="#">Privacy Policy</a> |
+                            <a href="<?php echo $base_url; ?>terms_condition/privacy_policy.php"">Privacy Policy</a> |
                         </li>
-                        <li><a href="#">RSS</a> |</li>
+                        <li><a href="<?php echo $base_url; ?>terms_condition/rss.php"">RSS</a> |</li>
                         <li>
                             <span>&copy; JobLane 2018. All Rights Reserved.</span>
                         </li>
