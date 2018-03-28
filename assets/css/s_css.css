@@ -317,3 +317,14 @@ h3.s_heading_bottom {
 .page-header{
   padding: 25px 0px;
 }
+.s_font_18{
+  font-weight: 600;
+      font-size: 18px !important;
+}
+
+.text-red {
+    color: #b71515 !important;
+}
+.s_padding_height{
+    padding-left: 0px !important;
+}

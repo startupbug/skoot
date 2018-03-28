@@ -229,7 +229,7 @@
                                  </div>
                               </div>
                               <div class="media-body col-xs-height col-middle">
-                                 <h4 class="space-bottom-none text-link">Negeri Sembilan</h4>
+                                 <h6 class="space-bottom-none text-link">Negeri Sembilan</h6>
                                  <span class="text-sm text-muted">
                                  (1,653)
                                  </span>
