@@ -53,12 +53,6 @@
                             <a href="<?php echo $base_url; ?>otherservices/universities.php">For universities
                             </a>
                         </li>
-
-                        <li><a href="#">For event organisers</a></li>
-                        <li><a href="#">For course organisers</a></li>
-                        <li><a href="<?php echo $base_url; ?>otherservices/journalist.php">For journalists</a></li>
-                        <li><a href="#">For universities</a></li>
-
                     </ul>
                 </div>
                 <div class="col-sm-4">
@@ -66,17 +60,12 @@
                     <ul class="list-unstyled">
 
                         <li><a href="<?php echo $base_url; ?>joblane/aboutus.php"">About us</a></li>
-                        <li><a href="#">TV coverage</a></li>
-                        <li><a href="#">Print &amp; online coverage</a></li>
-                        <li><a href="#">Contact us</a></li>
-                        <li><a href="<?php echo $base_url; ?>joblane/sitemap.php"">Sitemap</a></li>
-                        <li><a href="#">About us</a></li>
                         <li><a href="<?php echo $base_url; ?>register/advertising_agencies.php">Advertise with us</a></li>
                         <li><a href="<?php echo $base_url; ?>register/tv_coverage.php">TV coverage</a></li>
                         <li><a href="<?php echo $base_url; ?>register/online_media_coverage.php">Print &amp; online coverage</a></li>
                         <li><a href="<?php echo $base_url; ?>register/contact_candidates.php">Contact us</a></li>
-                        <li><a href="#">Sitemap</a></li>
-
+                        <li><a href="<?php echo $base_url; ?>joblane/sitemap.php">Sitemap</a></li>
+                    
                     </ul>
                 </div>
                 <div class="col-sm-4">
