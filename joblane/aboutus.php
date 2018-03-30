@@ -4,7 +4,7 @@
    <div class="">
      
      <div style="background-image: url(<?php echo $base_url;?>assets/img/featured/aboutus_img.png)" class="jumbotron bg-cover">
-         class="jumbotron bg-cover">
+       
          <div class="container space-top-xxl space-bottom-xxl">
             <div class="row">
                <div class="col-sm-24">
@@ -22,17 +22,20 @@
                   <i class="fa fa-fw fa-chevron-right text-primary icon_f"></i>
                   </a>
                   <div class="btn-group text-muted" ng-init="activeTemplate='overview.html'">
-                     <label class="btn f_btn_about">
-                     Overview
+                     <label class="btn f_btn_about f_overview">
+                        <a href="aboutus.php">Overview</a>
+                     
                      </label>
-                     <label class="btn f_btn_about">
-                     What We Do
+                     <label class="btn f_btn_about f_overview">
+                        <a href="whatwedo.php"> What We Do</a>
+                   
                      </label>
-                     <label class="btn f_btn_about">
+                     <label class="btn f_btn_about f_overview">
                      Our Users
                      </label>
-                     <label class="btn f_btn_about">
-                     Media Coverage
+                     <label class="btn f_btn_about f_overview">
+                        <a href="media_coverage.php"> Media Coverage</a>
+                  
                      </label>
                   </div>
                </div>
@@ -61,13 +64,12 @@
          </div>
          </div>
          </section>    
-      </script>
-      <script type="text/ng-template" id="what-we-do.html">
-         <section class="bg-light">
+    
+         <!--<section class="bg-light">
          <div class="container">
          <div class="row">
              <div class="col-sm-24">
-                 <h1 class="text-center space-top-xl space-bottom-xl">Key services</h1>
+                 <h1 class="text-center space-top-xl space-bottom-xl f_key">Key services</h1>
                  <div class="row space-top-lg space-bottom-lg">
                      <div class="col-sm-8 section-jobs">
                          <div class="panel panel-default panel-bordered">
@@ -148,7 +150,7 @@
                          </div>
                      </div>
                  </div>
-                 <h1 class="text-center space-bottom-xl">Further Resources</h1>
+                 <h1 class="text-center space-bottom-xl f_key">Further Resources</h1>
                  <div class="row space-bottom-lg">
                      <div class="col-sm-8 col-sm-offset-4 section-salaries">
                          <div class="panel panel-default panel-bordered">
@@ -206,10 +208,10 @@
              </div>
          </div>
          </div>
-         </section>    
+         </section> -->   
      
-      <script type="text/ng-template" id="our-users.html">
-         <section class="bg-light">
+      
+         <!--<section class="bg-light">
          <div class="container">
          <div class="row">
              <div class="col-sm-24">
@@ -409,10 +411,11 @@
              </div>
          </div>
          </div>
-         </section>    
-      </script>
-      <script type="text/ng-template" id="media-coverage.html">
-         <section class="bg-light">
+         </section>  -->  
+     
+      
+    
+         <!--<section class="bg-light">
          <div class="container space-bottom-lg">
          <div class="row">
              <div class="col-sm-24">
@@ -517,8 +520,8 @@
              </div>
          </div>
          </div>
-         </section>
-      </script>
+         </section>-->
+      
    </div>
    <section ng-controller="widgetFeedbackController">
       <div class="fade"

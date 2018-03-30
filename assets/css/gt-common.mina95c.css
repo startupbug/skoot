@@ -145,7 +145,7 @@ span.next {
     border-color: #ee7c00 !important;
 }
 .section-salaries .media-object>.icon-circle-section, .section-theme .section-salaries .media-object>.icon-circle-section {
-    border-color: #ff8500 !important;
+    border-color: #00719b !important;
 }
 .section-resources .media-object>.icon-circle-section, .section-theme .section-resources .media-object>.icon-circle-section {
     border-color: #197b30;
@@ -3050,7 +3050,7 @@ cite{
     text-transform:capitalize
 }
 .text-success{
-    color:#65a95a!important
+    color:#1c2870;
 }
 a.text-success:hover{
     color:#508947
@@ -3284,7 +3284,7 @@ a.text-primary:hover{
     color:#af0621
 }
 .text-secondary{
-    color:#28306c!important
+    color:#25a8e0
 }
 a.text-secondary:hover{
     color:#1a1f47
@@ -4059,7 +4059,7 @@ pre code{
     width:70.83333%
 }
 .col-sm-18{
-    width:75%
+    width:87%
 }
 .col-sm-19{
     width:79.16667%
@@ -9777,13 +9777,13 @@ html.splash-page body{
     padding-top:20px
 }
 .text-section{
-    color:#28306c!important
+    color:#25a8e0;
 }
 a.text-section:hover{
     color:#1a1f47
 }
 .list-symbol-section>li:before{
-    color: #ff8500 !important
+    color: #858585 !important;
 }
 .btn-section{
     color:#fff;
@@ -9849,13 +9849,13 @@ a.text-section:hover{
     color:#d9aa35!important
 }
 .section-jobs .text-section,.section-theme .section-jobs .text-section{
-    color:#409cb7!important
+    color:#28306c!important;
 }
 .section-jobs a.text-section:hover,.section-theme .section-jobs a.text-section:hover{
     color:#337c91
 }
 .section-jobs .list-symbol-section>li:before,.section-theme .section-jobs .list-symbol-section>li:before{
-    color:#409cb7!important
+    color:#858585 !important;
 }
 .section-jobs .btn-section,.section-theme .section-jobs .btn-section{
     color:#fff;
@@ -9888,10 +9888,10 @@ a.text-section:hover{
     border-left-color:#409cb7
 }
 .section-jobs .media-object>.icon-circle-section,.section-theme .section-jobs .media-object>.icon-circle-section{
-    border-color:#409cb7
+    border-color:#c20b18;
 }
 .section-jobs .media-object>.icon-circle-section .fa,.section-theme .section-jobs .media-object>.icon-circle-section .fa{
-    color:#409cb7
+    color:#c20b18;
 }
 .section-jobs .nav-pills>li.active,.section-theme .section-jobs .nav-pills>li.active{
     border-top-color:#409cb7;
@@ -9975,7 +9975,7 @@ a.text-section:hover{
     border-color:#65a95a
 }
 .section-salaries .media-object>.icon-circle-section .fa,.section-theme .section-salaries .media-object>.icon-circle-section .fa{
-    color:#ff8500;
+    color:#00719b;
 }
 .section-salaries .nav-pills>li.active,.section-theme .section-salaries .nav-pills>li.active{
     border-top-color:#65a95a;
@@ -10018,7 +10018,7 @@ a.text-section:hover{
     color:#633974
 }
 .section-courses .list-symbol-section>li:before,.section-theme .section-courses .list-symbol-section>li:before{
-    color:#d00c1a!important
+    color:#858585 !important
 }
 .section-courses .btn-section,.section-theme .section-courses .btn-section{
     color:#fff;
@@ -10100,7 +10100,7 @@ a.text-section:hover{
     color:#a7441d
 }
 .section-resources .list-symbol-section>li:before,.section-theme .section-resources .list-symbol-section>li:before{
-    color: #197b30 !important
+    color: #858585 !important;
 }
 .section-resources .btn-section,.section-theme .section-resources .btn-section{
     color:#fff;
@@ -12212,3 +12212,21 @@ a.pull-right.space-top-xs {
     color: #25a8e0 !important;
 }
 
+.f_overview a {
+    color: #1c2870 !important;
+}
+h1.f_key {
+    color: #1c2870;
+}
+
+h3.f_recruit {
+    color: #636464;
+}
+
+.f_tv {
+    background-color: #25a8e0;
+    border-color: #25a8e0;
+}
+h2.f-about {
+    color: #1c2870;
+}
