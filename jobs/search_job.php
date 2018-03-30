@@ -116,7 +116,7 @@
                      <div class="panel panel-default">
 
                         <div class="list-group">
-                           <a class="list-group-item s-list-group-item" href="#">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
@@ -127,7 +127,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item" href="#">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
@@ -138,7 +138,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item" href="#">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
@@ -149,7 +149,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item" href="#">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
@@ -160,7 +160,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item" href="#">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
@@ -171,7 +171,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item" href="#">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
@@ -195,7 +195,7 @@
                     </div>
                      <div class="panel panel-default">
                         <div class="list-group">
-                           <a class="list-group-item s-list-group-item" href="#">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <i class="fa fa-fw fa-house-measured text-section fa-2x"></i>
@@ -206,7 +206,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item" href="#">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <i class="fa fa-fw fa-html-tag text-section fa-2x"></i>
@@ -217,7 +217,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item" href="#">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <i class="fa fa-fw fa-test-paper text-section fa-2x"></i>
@@ -228,7 +228,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item" href="#">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <i class="fa fa-fw fa-dollar text-section fa-2x"></i>
@@ -239,7 +239,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item" href="#">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <i class="fa fa-fw fa-warehouse text-section fa-2x"></i>
@@ -250,7 +250,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item" href="#">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <i class="fa fa-fw fa-book-pen text-section fa-2x"></i>
@@ -261,7 +261,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item hidden-print" href="#">
+                           <a class="list-group-item s-list-group-item hidden-print" href="<?php echo $base_url; ?>jobs/executive.php">
                            <i class="fa fa-fw fa-chevron-right"></i>
                            View all Categories
                            </a>
@@ -274,7 +274,7 @@
                     </div>
                      <div class="panel panel-default">
                         <div class="list-group">
-                           <a class="list-group-item s-list-group-item" href="#">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <i class="fa fa-fw fa-crane text-section fa-2x"></i>
@@ -285,7 +285,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item" href="#">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <i class="fa fa-fw fa-pencil-ruler text-section fa-2x"></i>
@@ -296,7 +296,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item" href="#">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <i class="fa fa-fw fa-shopping-bag text-section fa-2x"></i>
@@ -307,7 +307,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item" href="#">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <i class="fa fa-fw fa-computer-network text-section fa-2x"></i>
@@ -318,7 +318,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item" href="#">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <i class="fa fa-fw fa-medical-plus text-section fa-2x"></i>
@@ -329,7 +329,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item" href="#">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <i class="fa fa-fw fa-bottles text-section fa-2x"></i>
@@ -340,7 +340,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item hidden-print" href="#">
+                           <a class="list-group-item s-list-group-item hidden-print" href="<?php echo $base_url; ?>jobs/executive.php">
                            <i class="fa fa-fw fa-chevron-right"></i>
                            View all Industries
                            </a>
@@ -355,7 +355,7 @@
                     </div>
                      <div class="panel panel-default">
                         <div class="list-group">
-                           <a class="list-group-item s-list-group-item" href="#" title="Techlogix">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php" title="Techlogix">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <img src="<?php echo $base_url; ?>assets/images1/logos/listing/RE214-9270_logoa95c.png?v2_68_0" width="55px" />
@@ -369,7 +369,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item" href="#" title="Careem">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php" title="Careem">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <img src="<?php echo $base_url; ?>assets/images1/logos/listing/OE782-6838_logoa95c.png?v2_68_0" width="55px" />
@@ -383,7 +383,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item" href="#" title="Azadea Group - UAE">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php" title="Azadea Group - UAE">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <img src="<?php echo $base_url; ?>assets/images1/logos/listing/GE643-702_logoa95c.png?v2_68_0" width="55px" />
@@ -397,7 +397,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item" href="#" title="DarkMatter">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php" title="DarkMatter">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <img src="<?php echo $base_url; ?>assets/images1/logos/listing/RE962-9018_logoa95c.png?v2_68_0" width="55px" />
@@ -411,7 +411,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item hidden-print" href="#">
+                           <a class="list-group-item s-list-group-item hidden-print" href="<?php echo $base_url; ?>jobs/executive.php">
                            <i class="fa fa-fw fa-chevron-right"></i>
                            View all Companies
                            </a>
@@ -424,7 +424,7 @@
                     </div>
                      <div class="panel panel-default">
                         <div class="list-group">
-                           <a class="list-group-item s-list-group-item" href="#" title="Engage Selection">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php" title="Engage Selection">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <img src="<?php echo $base_url; ?>assets/images1/logos/listing/KE074-2134_logoa95c.png?v2_68_0" width="55px" />
@@ -438,7 +438,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item" href="#" title="Charterhouse">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php" title="Charterhouse">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <img src="<?php echo $base_url; ?>assets/images1/logos/listing/GE186-244_logoa95c.png?v2_68_0" width="55px" />
@@ -452,7 +452,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item" href="#" title="Ignite Search &amp; Selection">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php" title="Ignite Search &amp; Selection">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <img src="<?php echo $base_url; ?>assets/images1/logos/listing/OE555-6611_logoa95c.png?v2_68_0" width="55px" />
@@ -466,7 +466,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item" href="#" title="Black Pearl - UAE">
+                           <a class="list-group-item s-list-group-item" href="<?php echo $base_url; ?>jobs/executive.php" title="Black Pearl - UAE">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <img src="<?php echo $base_url; ?>assets/images1/logos/listing/RE174-8230_logoa95c.png?v2_68_0" width="55px" />
@@ -480,7 +480,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item hidden-print" href="#">
+                           <a class="list-group-item s-list-group-item hidden-print" href="<?php echo $base_url; ?>jobs/executive.php">
                            <i class="fa fa-fw fa-chevron-right"></i>
                            View all Recruitment Agencies
                            </a>
@@ -495,7 +495,7 @@
                         <div class="list-group">
                            <a class="list-group-item s-list-group-item"
                               title="Van Sales (Dubai)"
-                              href="#">
+                              href="<?php echo $base_url; ?>jobs/executive.php">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <img src="<?php echo $base_url; ?>assets/images1/logos/listing/RE410-8466_logoa95c.png?v2_68_0" width="55px">
@@ -511,7 +511,7 @@
                            </a>
                            <a class="list-group-item s-list-group-item"
                               title="Business Development Manager"
-                              href="#">
+                              href="<?php echo $base_url; ?>jobs/executive.php">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <img src="<?php echo $base_url; ?>assets/images1/logos/listing/OE555-6611_logoa95c.png?v2_68_0" width="55px">
@@ -527,7 +527,7 @@
                            </a>
                            <a class="list-group-item"
                               title="Destination Marketing Manager"
-                              href="#">
+                              href="<?php echo $base_url; ?>jobs/executive.php">
                               <div class="media">
                                  <div class="media-object pull-left">
                                     <img src="<?php echo $base_url; ?>assets/images1/logos/listing/QE307-7362_logoa95c.png?v2_68_0" width="55px">
@@ -541,7 +541,7 @@
                                  </div>
                               </div>
                            </a>
-                           <a class="list-group-item s-list-group-item hidden-print" href="#">
+                           <a class="list-group-item s-list-group-item hidden-print" href="<?php echo $base_url; ?>jobs/executive.php">
                            <i class="fa fa-fw fa-chevron-right"></i>
                            View all jobs
                            </a>

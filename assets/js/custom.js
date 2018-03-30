@@ -15,6 +15,35 @@ $(document).ready(function() {
         }
         return false;
     });
+
+    $("#course_overview_text").click(function() {
+      $(this).addClass("active");
+      $('#course_contents_text').removeClass("active");
+      $('#course_provider_text').removeClass("active");
+
+      $('#course_overview').css("display", "block");
+      $('#course_contents').css("display", "none");
+      $('#course_provider').css("display", "none");
+    });
+    $("#course_contents_text").click(function() {
+      $(this).addClass("active");
+      $('#course_overview_text').removeClass("active");
+      $('#course_provider_text').removeClass("active");
+
+      $('#course_contents').css("display", "block");
+      $('#course_overview').css("display", "none");
+      $('#course_provider').css("display", "none");
+    });
+    $("#course_provider_text").click(function() {
+      $(this).addClass("active");
+      $('#course_overview_text').removeClass("active");
+      $('#course_contents_text').removeClass("active");
+
+      $('#course_provider').css("display", "block");
+      $('#course_overview').css("display", "none");
+      $('#course_contents').css("display", "none");
+    });
+
 });
 $('.responsive').slick({
   dots: true,

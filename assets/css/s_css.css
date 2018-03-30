@@ -321,6 +321,9 @@ h3.s_heading_bottom {
   font-weight: 600;
       font-size: 18px !important;
 }
+.s_font_17{
+      font-size: 17px !important;
+}
 
 .text-red {
     color: #b71515 !important;
