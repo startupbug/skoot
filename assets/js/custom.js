@@ -82,3 +82,32 @@ $('.responsive').slick({
     // instead of a settings object
   ]
 });
+
+function tab (id) {
+  if (id == "tab1") {
+    $("#"+id+"_view").css("display", "block");
+    $("#tab2_view").css("display", "none");
+    $("#tab3_view").css("display", "none");
+    $("#tab4_view").css("display", "none");  
+  }
+  else if (id == "tab2") {
+    $("#"+id+"_view").css("display", "block");
+    $("#tab1_view").css("display", "none");
+    $("#tab3_view").css("display", "none");
+    $("#tab4_view").css("display", "none");
+  }
+  else if (id == "tab3") {
+    $("#"+id+"_view").css("display", "block");
+    $("#tab2_view").css("display", "none");
+    $("#tab1_view").css("display", "none");
+    $("#tab4_view").css("display", "none");
+  }
+  else if (id == "tab4") {
+    $("#"+id+"_view").css("display", "block");
+    $("#tab2_view").css("display", "none");
+    $("#tab3_view").css("display", "none");
+    $("#tab1_view").css("display", "none");
+  }
+  
+  console.log(id);
+}
