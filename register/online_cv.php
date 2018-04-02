@@ -5,121 +5,26 @@
    gt-scroll-speed="50"
    >
    <div class="page-content">
-      <section style="background-image: url(<?php echo $base_url;?>assets/img/register/candidate_write.jpg)"
-         class="bg-cover">
+      <section style="background-image: url(<?php echo $base_url;?>assets/img/register/candidate_write.jpg)" class="bg-cover">
          <div class="clearfix">
             <div class="space-top-med">
-               <div class="flashmessage">
-                  <div class="container">
-                     <div class="row">
-                        <div class="col-sm-24">
-                          <!-- <div class="alert alert-{{ flashMessage.type }} fade container-xs-height container-block space-bottom-sm"
-                              ng-class="{ 'in': !flashMessage.hasTransition }">
-                              <div class="col-xs-height col-middle pull-left">
-                                 <div class="media container-xs-height">
-                                    <div class="media-object col-xs-height col-middle">
-                                       <i class="fa fa-fw"
-                                          ng-class="{
-                                          'fa-exclamation-circle': ('error' == flashMessage.type),
-                                          'fa-check': ('success' == flashMessage.type),
-                                          'fa-info-circle': ('info' == flashMessage.type),
-                                          'fa-warning': ('warning' == flashMessage.type)
-                                          }">
-                                       </i>
-                                    </div>
-                                    <div class="media-body col-xs-height col-middle text-xl">
-                                       {{ flashMessage.message }}
-                                       <a ng-hide="flashMessage.hasModal||flashMessage.hasCustomModal"
-                                          ng-href="{{ flashMessage.link }}"
-                                          target="{{ flashMessage.linkTarget }}">
-                                       {{ flashMessage.linkText }}
-                                       </a>
-                                       <a ng-show="flashMessage.hasModal"
-                                          gt-modal-static="flashMessage.link"
-                                          gt-modal-size="flashMessage.modalSize">
-                                       {{ flashMessage.linkText }}
-                                       </a>
-                                       <a ng-show="flashMessage.hasCustomModal&&flashMessage.link=='publicProfileBenefits'"
-                                          gt-modal-recent-public-profiles
-                                          gt-modal-size="flashMessage.modalSize">
-                                       {{ flashMessage.linkText }}
-                                       </a>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="col-xs-height col-middle">
-                                 <button type="button" class="close" ng-click="remove($index)" ng-hide="flashMessage.persistent">
-                                 <span aria-hidden="true">&times;</span>
-                                 <span class="sr-only">Close</span>
-                                 </button>
-                              </div>
-                           </div>-->
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <!--<div ng-controller="flashMessagesController" id="flash-messages-persistent" ng-cloak>
-                  <div class="container" ng-repeat="flashMessage in flashMessages | filter: {persistent: true}">
-                     <div class="row">
-                        <div class="col-sm-24">
-                           <div class="alert alert-{{ flashMessage.type }} fade container-xs-height container-block space-bottom-sm"
-                              ng-class="{ 'in': !flashMessage.hasTransition }">
-                              <div class="col-xs-height col-middle pull-left">
-                                 <div class="media container-xs-height">
-                                    <div class="media-object col-xs-height col-middle">
-                                       <i class="fa fa-fw"
-                                          ng-class="{
-                                          'fa-exclamation-circle': ('error' == flashMessage.type),
-                                          'fa-check': ('success' == flashMessage.type),
-                                          'fa-info-circle': ('info' == flashMessage.type),
-                                          'fa-warning': ('warning' == flashMessage.type)
-                                          }">
-                                       </i>
-                                    </div>
-                                    <div class="media-body col-xs-height col-middle text-xl">
-                                       {{ flashMessage.message }}
-                                       <a ng-hide="flashMessage.hasModal||flashMessage.hasCustomModal"
-                                          ng-href="{{ flashMessage.link }}"
-                                          target="{{ flashMessage.linkTarget }}">
-                                       {{ flashMessage.linkText }}
-                                       </a>
-                                       <a ng-show="flashMessage.hasModal"
-                                          gt-modal-static="flashMessage.link"
-                                          gt-modal-size="flashMessage.modalSize">
-                                       {{ flashMessage.linkText }}
-                                       </a>
-                                       <a ng-show="flashMessage.hasCustomModal&&flashMessage.link=='publicProfileBenefits'"
-                                          gt-modal-recent-public-profiles
-                                          gt-modal-size="flashMessage.modalSize">
-                                       {{ flashMessage.linkText }}
-                                       </a>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="col-xs-height col-middle">
-                                 <button type="button" class="close" ng-click="remove($index)" ng-hide="flashMessage.persistent">
-                                 <span aria-hidden="true">&times;</span>
-                                 <span class="sr-only">Close</span>
-                                 </button>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>-->
             </div>
          </div>
          <div class="container">
             <div class="row">
                <div class="col-sm-24">
                   <h1 class="text-inverted">
-                     Receive job alerts by Email
+                     Build your own professional resume
                      <br />
                   </h1>
                   <ul class="list-symbol-check text-lg list-symbol-primary">
-                     <li class="text-inverted">Get personalized updates on latest career opportunities in your field</li>
-                     <li class="text-inverted">Insights on hiring and employment activity in your industry</li>
+                     <li class="text-inverted">Quickly create your professional CV using GulfTalent CV builder</li>
+                     <li class="text-inverted">Use this professionally formatted CV for your job hunt anywhere</li>
                   </ul>
+                  <a class="text-lg" href="">
+                    <i class="fa fa-fw text_color fa-chevron-right"></i>
+                    See a Sample CV
+                </a>
                </div>
             </div>
             <div class="row">
@@ -128,7 +33,7 @@
                      <div class="panel-heading">
                         <div class="row space-bottom-sm">
                            <div class="col-sm-20 col-sm-offset-2">
-                              <button class="btn btn-block btn-brand-facebook">
+                              <button class="btn btn-block btn-brand-facebook" style="width:100%">
                               <i class="fa fa-fw fa-facebook-square text-left"></i>
                               Sign up with Facebook
                               </button>
@@ -149,10 +54,10 @@
                                     col-xs-height">
                                     <div class="form-group">
                                        <div class="col-sm-12">
-                                          <input type="text" id="candidate_firstname" name="candidate[firstname]" required="required"    ng-model="form.firstname" message="Please enter first name" class="form-control" placeholder="First Name" gt-model-value="" />
+                                          <input type="text" id="candidate_firstname" name="candidate[firstname]" required="required" class="form-control" placeholder="First Name"/>
                                        </div>
                                        <div class="col-sm-12">
-                                          <input type="text" id="candidate_surname" name="candidate[surname]" required="required"    ng-model="form.lastname" message="Please enter Last Name" class="form-control" placeholder="Surname" gt-model-value="" />
+                                          <input type="text" id="candidate_surname" name="candidate[surname]" required="required" class="form-control" placeholder="Surname"/>
                                        </div>
                                     </div>
                                     <div class="form-group">
@@ -406,25 +311,23 @@
                                     </div>
                                     <div class="form-group">
                                        <div class="col-sm-24">
-                                          <input type="email" id="candidate_username" name="candidate[username]" required="required"    ng-model="form.email" message="Please enter your email address." class="form-control" placeholder="Email address" gt-model-value="" />
+                                          <input type="email" id="candidate_username" name="candidate[username]" required="required" class="form-control" placeholder="Email address"/>
                                        </div>
                                     </div>
                                     <div class="form-group">
                                        <div class="col-sm-24">
-                                          <input type="password" id="candidate_password" name="candidate[password]" required="required"    ng-model="form.password" message="Please enter Password!" class="form-control" placeholder="Choose a Password" ng-pattern="/^[a-zA-Z0-9_]+$/" message-pattern="Only alphabets (A-Z and a-z), digits (0-9) and _ (underscore) are accepeted for password" gt-model-value="" />
+                                          <input type="password" id="candidate_password" name="candidate[password]" required="required" class="form-control" placeholder="Choose a Password" />
                                        </div>
                                     </div>
                                     <div class="form-group" ng-hide="isIE">
                                        <div class="space-left-xs text-med">Upload your CV <span class="text-supermuted">(Optional)</span></div>
                                        <div class="col-sm-24 pointer" ng-click="uploadFile()">
                                           <div class="col-sm-24 input-file-upload">
-                                             <div class="col-sm-7 space-left-xxs btn btn-sm btn-section btn-upload">
+                                             <div class="col-sm-7 space-left-xxs btn btn-sm btn-section btn-upload"  style="padding: 5px 4px;">
                                                 <span class="text-med">Choose File</span>
-                                                <!--<input type="file" id="candidate_cv_file" name="candidate[cv_file]"    class="form-control hide" ng-model="form.cv" placeholder="No file chosen">-->
-                                                 <input type="file" name="pic" accept="image/*">
+                                                <input type="file" name="pic" accept="image/*">
                                              </div>
                                              <div class="col-sm-16 space-top-xxs text-med text-supermuted text-overflow">
-                                                {{ form.cv[0].name || 'No File Chosen'}}
                                              </div>
                                           </div>
                                        </div>
@@ -434,52 +337,22 @@
                               </div>
                            </div>
                            <div class="row space-top-xs">
-                              <div class="">
-                                 <input type="hidden"
-                                    name="facebook_id"
-                                    id="facebook_id"
-                                    gt-model-value
-                                    ng-model="form.facebookID" />
-                                 <input type="hidden"
-                                    name="registration_path"
-                                    value="jobalert" />
-                                 <p class="text-muted">
-                                    By clicking Register, you agree to GulfTalent's
-                                    <a href="../terms.html">Terms</a>,
-                                    <a href="../privacy-policy.html">Privacy Policy</a>
-                                    and
-                                    Mailing Permissions
-                                 </p>
-                                 <div gt-collapse="isMailingPermissionCollapsed"
-                                    collapse="isCollapsed"
-                                    ng-cloak>
-                                    <div class="form-group">
-                                       <div class="col-sm-1">
-                                          <input type="checkbox" id="mailing_MailpoolPermissionTypeTwo" name="mailing[MailpoolPermissionTypeTwo]" required="required"    ng-model="form.MailingNewsPermission" ng-required="false" value="YES" />
-                                       </div>
-                                       <span class="text-muted col-sm-22 col-sm-offset-1">
-                                       Please send me selected career-related news and information in my field of interest
-                                       </span>
-                                    </div>
-                                    <div class="form-group">
-                                       <div class="col-sm-1">
-                                          <input type="checkbox" id="mailing_MailpoolPermissionTypeThree" name="mailing[MailpoolPermissionTypeThree]" required="required"    ng-model="form.MailingEventsPermission" ng-required="false" value="YES" />
-                                       </div>
-                                       <span class="text-muted col-sm-22 col-sm-offset-1">
-                                       Please inform me about events, products and services from GulfTalent partners which may be of interest to me.
-                                       </span>
-                                    </div>
-                                    <input type="hidden" id="mailing__token" name="mailing[_token]" value="57f35aff4181d108acab8f691422427171f833c1" />
-                                 </div>
-                                 <div class="form-group">
-                                    <div class="col-sm-24">
-                                       <button class="btn btn-primary btn-block btn-lg"
-                                          type="submit">
-                                       Register
-                                       </button>
-                                    </div>
-                                 </div>
-                              </div>
+                             <div class="">
+                                <p class="text-muted">
+                                   By clicking Register, you agree to Joblane
+                                   <a href="<?php echo $base_url; ?>terms_condition/terms.php">Terms</a>,
+                                   <a href="<?php echo $base_url; ?>terms_condition/privacy_policy.php">Privacy Policy</a>
+                                   and
+                                   Mailing Permissions
+                                </p>
+                                <div class="form-group">
+                                   <div class="col-sm-24">
+                                      <button class="btn btn-primary btn-block btn-lg" type="submit">
+                                        Register
+                                      </button>
+                                   </div>
+                                </div>
+                             </div>
                            </div>
                         </form>
                      </div>
@@ -489,6 +362,6 @@
          </div>
       </section>
    </div>
-   
+
 </main>
 <?php include('../footer.php'); ?>

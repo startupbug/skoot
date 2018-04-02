@@ -54,7 +54,7 @@
                        </div>
                     </div>
                     <div class="list-group">
-                       <a class="list-group-item" href="#">
+                       <a class="list-group-item" href="<?php echo $base_url; ?>resources/job-search-support.php">
                        <i class="fa fa-fw fa-chevron-right"></i>
                        Back to Job Search Support
                        </a>

@@ -153,7 +153,7 @@
                       <div class="col-sm-6">
                          <div class="ellipsis-group">
                             <div class="ellipsis-group-text text-muted">
-                               <a href="#" title="Warehouse Jobs">
+                               <a href="<?php echo $base_url; ?>jobs/executive.php" title="Warehouse Jobs">
                                Warehouse Jobs
                                </a>
                             </div>
@@ -161,7 +161,7 @@
                          <br>
                          <div class="ellipsis-group">
                             <div class="ellipsis-group-text text-muted">
-                               <a href="#" title="Warehouse Assistant Jobs">
+                               <a href="<?php echo $base_url; ?>jobs/executive.php" title="Warehouse Assistant Jobs">
                                Warehouse Assistant Jobs
                                </a>
                             </div>
@@ -169,7 +169,7 @@
                          <br>
                          <div class="ellipsis-group">
                             <div class="ellipsis-group-text text-muted">
-                               <a href="#" title="Warehouse Manager Jobs">
+                               <a href="<?php echo $base_url; ?>jobs/executive.php" title="Warehouse Manager Jobs">
                                Warehouse Manager Jobs
                                </a>
                             </div>
@@ -177,7 +177,7 @@
                          <br>
                          <div class="ellipsis-group">
                             <div class="ellipsis-group-text text-muted">
-                               <a href="#" title="Warehouse Supervisor Jobs">
+                               <a href="<?php echo $base_url; ?>jobs/executive.php" title="Warehouse Supervisor Jobs">
                                Warehouse Supervisor Jobs
                                </a>
                             </div>
@@ -187,7 +187,7 @@
                       <div class="col-sm-6">
                          <div class="ellipsis-group">
                             <div class="ellipsis-group-text text-muted">
-                               <a href="#" title="Water Engineer Jobs">
+                               <a href="<?php echo $base_url; ?>jobs/executive.php" title="Water Engineer Jobs">
                                Water Engineer Jobs
                                </a>
                             </div>
@@ -195,7 +195,7 @@
                          <br>
                          <div class="ellipsis-group">
                             <div class="ellipsis-group-text text-muted">
-                               <a href="#" title="Water Treatment Jobs">
+                               <a href="<?php echo $base_url; ?>jobs/executive.php" title="Water Treatment Jobs">
                                Water Treatment Jobs
                                </a>
                             </div>
@@ -203,7 +203,7 @@
                          <br>
                          <div class="ellipsis-group">
                             <div class="ellipsis-group-text text-muted">
-                               <a href="#" title="Wealth Management Jobs">
+                               <a href="<?php echo $base_url; ?>jobs/executive.php" title="Wealth Management Jobs">
                                Wealth Management Jobs
                                </a>
                             </div>
@@ -211,7 +211,7 @@
                          <br>
                          <div class="ellipsis-group">
                             <div class="ellipsis-group-text text-muted">
-                               <a href="#" title="Wealth Manager Jobs">
+                               <a href="<?php echo $base_url; ?>jobs/executive.php" title="Wealth Manager Jobs">
                                Wealth Manager Jobs
                                </a>
                             </div>
@@ -221,7 +221,7 @@
                       <div class="col-sm-6">
                          <div class="ellipsis-group">
                             <div class="ellipsis-group-text text-muted">
-                               <a href="#" title="Web Jobs">
+                               <a href="<?php echo $base_url; ?>jobs/executive.php" title="Web Jobs">
                                Web Jobs
                                </a>
                             </div>
@@ -229,7 +229,7 @@
                          <br>
                          <div class="ellipsis-group">
                             <div class="ellipsis-group-text text-muted">
-                               <a href="#" title="Web Designer Jobs">
+                               <a href="<?php echo $base_url; ?>jobs/executive.php" title="Web Designer Jobs">
                                Web Designer Jobs
                                </a>
                             </div>
@@ -237,7 +237,7 @@
                          <br>
                          <div class="ellipsis-group">
                             <div class="ellipsis-group-text text-muted">
-                               <a href="#" title="Web Developer Jobs">
+                               <a href="<?php echo $base_url; ?>jobs/executive.php" title="Web Developer Jobs">
                                Web Developer Jobs
                                </a>
                             </div>
@@ -245,7 +245,7 @@
                          <br>
                          <div class="ellipsis-group">
                             <div class="ellipsis-group-text text-muted">
-                               <a href="#" title="Website Jobs">
+                               <a href="<?php echo $base_url; ?>jobs/executive.php" title="Website Jobs">
                                Website Jobs
                                </a>
                             </div>
@@ -255,7 +255,7 @@
                       <div class="col-sm-6">
                          <div class="ellipsis-group">
                             <div class="ellipsis-group-text text-muted">
-                               <a href="#" title="Wholesale Jobs">
+                               <a href="<?php echo $base_url; ?>jobs/executive.php" title="Wholesale Jobs">
                                Wholesale Jobs
                                </a>
                             </div>
@@ -263,7 +263,7 @@
                          <br>
                          <div class="ellipsis-group">
                             <div class="ellipsis-group-text text-muted">
-                               <a href="#" title="Windows Jobs">
+                               <a href="<?php echo $base_url; ?>jobs/executive.php" title="Windows Jobs">
                                Windows Jobs
                                </a>
                             </div>
@@ -271,7 +271,7 @@
                          <br>
                          <div class="ellipsis-group">
                             <div class="ellipsis-group-text text-muted">
-                               <a href="#" title="Works Manager Jobs">
+                               <a href="<?php echo $base_url; ?>jobs/executive.php" title="Works Manager Jobs">
                                Works Manager Jobs
                                </a>
                             </div>

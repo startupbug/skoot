@@ -294,10 +294,10 @@
                         <p class="text-heading text-muted text-lg text-center space-bottom-sm">
                             Can’t find the job you’re looking for?
                         </p>
-                        <a class="list-group-item" href="/uae/jobs">
-                            <i class="fa fa-fw fa-chevron-right"></i>See all jobs in UAE
+                        <a class="list-group-item" href="<?php echo $base_url; ?>jobs/search_job.php">
+                            <i class="fa fa-fw fa-chevron-right"></i>See all jobs in Malaysia
                         </a>
-                        <a class="list-group-item" href="/jobs">
+                        <a class="list-group-item" href="<?php echo $base_url; ?>jobs/search_job.php">
                             <i class="fa fa-fw fa-chevron-right"></i>See all jobs
                         </a>
                     </div>
@@ -356,7 +356,7 @@
                        </ul>
                     </div>
                     <div class="list-group">
-                       <a href="#" class="list-group-item-main">
+                       <a href="<?php echo $base_url; ?>register/jobalert.php" class="list-group-item-main">
                        Sign up for job alerts
                        <i class="fa fa-fw fa-angle-double-right"></i>
                        </a>
