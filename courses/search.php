@@ -40,6 +40,7 @@
 
                  <button type="submit" class="btn btn-lg btn-primary btn-corner"> Job Search </button>
               </form>
+              <a href="#" class="f_list">Training provider? List your courses here</a>
            </div>
 
          </div>
