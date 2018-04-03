@@ -12,16 +12,13 @@
       </div>
    </div>
    <div class="page-content">
-   
+
       <div class="container">
          <div class="row">
             <div class="col-sm-24">
                <div class="row">
                   <div class="col-sm-8">
-                  	
-                     <!--<a class="panel panel-default panel-hover" href="resources/employment-news.html">-->
-                     	 <a class="panel panel-default panel-hover" href="#">
-                     		
+                   	 <a class="panel panel-default panel-hover" href="<?php echo $base_url; ?>resources/employment_news.php">
                         <div class="panel-heading">
                            <h3 class="panel-title">Employment News</h3>
                         </div>
@@ -44,10 +41,9 @@
                         </div>
                      </a>
                   </div>
-                 
+
                   <div class="col-sm-8">
-                     <!--<a class="panel panel-default panel-hover" href="resources/market-research-reports.html">-->
-                     	 <a class="panel panel-default panel-hover" href="#">
+                     	 <a class="panel panel-default panel-hover" href="<?php echo $base_url; ?>resources/market_research_report.php">
                         <div class="panel-heading">
                            <h3 class="panel-title">Market Research Reports</h3>
                         </div>
@@ -71,8 +67,7 @@
                      </a>
                   </div>
                   <div class="col-sm-8">
-                    <!-- <a class="panel panel-default panel-hover" href="cost-of-living-reports.html">-->
-                     	 <a class="panel panel-default panel-hover" href="#">
+                   	 <a class="panel panel-default panel-hover" href="<?php echo $base_url; ?>resources/cost_of_living_reports.php">
                         <div class="panel-heading">
                            <h3 class="panel-title">Cost of Living Reports</h3>
                         </div>
@@ -98,8 +93,7 @@
                </div>
                <div class="row">
                   <div class="col-sm-8">
-                     <!--<a class="panel panel-default panel-hover" href="events.html">-->
-                     	<a class="panel panel-default panel-hover" href="#">
+                   	<a class="panel panel-default panel-hover" href="<?php echo $base_url; ?>resources/event.php">
                         <div class="panel-heading">
                            <h3 class="panel-title">Professional Events</h3>
                         </div>
@@ -123,8 +117,7 @@
                      </a>
                   </div>
                   <div class="col-sm-8">
-                     <!--<a class="panel panel-default panel-hover" href="resources/job-search-support.html">-->
-                     	<a class="panel panel-default panel-hover" href="#">
+                     	<a class="panel panel-default panel-hover" href="<?php echo $base_url; ?>resources/job-search-support.php">
                         <div class="panel-heading">
                            <h3 class="panel-title">Job Search Support</h3>
                         </div>
@@ -148,8 +141,7 @@
                      </a>
                   </div>
                   <div class="col-sm-8">
-                     <!--<a class="panel panel-default panel-hover" href="resources/labour-laws.html">-->
-                     	<a class="panel panel-default panel-hover" href="#">
+                   	<a class="panel panel-default panel-hover" href="<?php echo $base_url; ?>resources/labour-laws.php">
                         <div class="panel-heading">
                            <h3 class="panel-title">Labour Laws</h3>
                         </div>
@@ -175,8 +167,7 @@
                </div>
                <div class="row">
                   <div class="col-sm-8">
-                     <!--<a class="panel panel-default panel-hover" href="resources/public-holidays.html">-->
-                     	 <a class="panel panel-default panel-hover" href="#">
+                   	 <a class="panel panel-default panel-hover" href="<?php echo $base_url; ?>resources/public-holidays.php">
                         <div class="panel-heading">
                            <h3 class="panel-title">Public Holidays</h3>
                         </div>
@@ -209,8 +200,7 @@
                      </a>
                   </div>
                   <div class="col-sm-8">
-                     <!--<a class="panel panel-default panel-hover" href="resources/hr-service-providers.html">-->
-                     	<a class="panel panel-default panel-hover" href="#">
+                     	<a class="panel panel-default panel-hover" href="<?php echo $base_url; ?>resources/hr-service-providers.php">
                         <div class="panel-heading">
                            <h3 class="panel-title">HR Service Providers</h3>
                         </div>
@@ -234,8 +224,7 @@
                      </a>
                   </div>
                   <div class="col-sm-8">
-                    <!-- <a class="panel panel-default panel-hover" href="resources/guides-to-hiring.html">-->
-                     	 <a class="panel panel-default panel-hover" href="#">
+                   	 <a class="panel panel-default panel-hover" href="<?php echo $base_url; ?>resources/guides-to-hiring.php">
                         <div class="panel-heading">
                            <h3 class="panel-title">Guides to Hiring</h3>
                         </div>
@@ -263,7 +252,7 @@
          </div>
       </div>
    </div>
-   
+
 </main>
 
 

@@ -6,7 +6,6 @@
          <div class="row">
             <div class="col-sm-24">
                <h1 class="text-center">Professional Events in the Middle East</h1>
-               <h3 class="courses">Find courses in your field</h3>
                <form class="text-center form-inline space-bottom-xs hidden-print">
                   <div class="form-group form-group-xl">
                      <input type="text"
