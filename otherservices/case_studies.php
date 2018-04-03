@@ -139,24 +139,21 @@
          <div class="container">
             <div class="row">
                <div class="btn-group container-block text-muted" ng-init="activeTemplate='overview.html'">
-                  <label class="btn pull-right"
-                     gt-modal-login="courseOrganiser"
-                     force="true"
-                     modal-title="Course Provider Login">
+                  <label class="btn pull-right">
                   Course Provider Login
                   </label>
                   <label class="btn f_overview"
                      ng-model="activeTemplate"
                      ng-class="{'btn-secondary': activeTemplate == 'overview.html'}"
                      btn-radio="'overview.html'">
-                      <a href="course_organizer.php"> Overview</a>
+                      <a href="#"> Overview</a>
                  
                   </label>
                   <label class="btn f_overview"
                      ng-model="activeTemplate"
                      ng-class="{'btn-secondary': activeTemplate == 'case-studies.html'}"
                      btn-radio="'case-studies.html'">
-                     <a href="case_studies.php">Case Studies</a>
+                     <a href="#">Case Studies</a>
                  
                   </label>
                   <label class="btn" gt-modal-static="'coursesEnquiry'">

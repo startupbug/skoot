@@ -19,8 +19,8 @@
          <div class="container">
             <div class="row">
                <div class="col-sm-24">
-                 <a href="#" class="pull-right space-top-xs">
-                 Contact Us
+                 <a href="<?php echo $base_url; ?>register/contact_candidates.php" class="pull-right space-top-xs">Contact Us 
+                 
                   <i class="fa fa-fw fa-chevron-right text-primary icon_f"></i>
                   </a>
                   <div class="btn-group text-muted" ng-init="activeTemplate='overview.html'">
