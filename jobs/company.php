@@ -1,5 +1,4 @@
 
-
 <?php include('../header.php'); ?>
 <main id="main-block"
    gt-scroll-on="facetedSearch.pagination:changed"
@@ -125,7 +124,7 @@
                      <hr class="ultramuted"/>
                      <div class="row">
                         <div class="col-sm-6">
-                           <a href="#" title="Azadea Group - Lebanon" class="panel-body text-center">
+                           <a href="<?php echo $base_url; ?>jobs/azadea.php" title="Azadea Group - Lebanon" class="panel-body text-center">
                            <img src="<?php echo $base_url;?>assets/img/logo/azadea.jpg" class="hover-expand"/>
                            </a>
                         </div>

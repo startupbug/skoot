@@ -9338,7 +9338,9 @@ button.close{
     -webkit-transform:translateY(50%);
     -ms-transform:translateY(50%);
     -o-transform:translateY(50%);
-    transform:translateY(50%)
+    transform:translateY(50%);
+
+    display: none;
 }
 .affix-bottom{
     bottom:0
@@ -12233,5 +12235,7 @@ h2.f-about {
 
 
 
-
+.f_icon {
+    margin-top: 13px;
+}
 

@@ -154,14 +154,18 @@
                    
                      </label>
                      <label class="btn f_btn_about f_overview">
-                        <a onclick="tab('tab3')" id="tab3"> Request a Call </a>
+                        Request a Call 
                      </label>
                     
                   </div>
+                </div>
+              </div>
+            </div>
+          </section>
 
                   <div id="activeTemplate"></div>
      
-         <section class="bg-light" id="tab1_view" >
+         <section class="bg-light" id="tab1_view">
           <section class="bg-light">
          <div class="container">
          <h2 class="text-hg text-center space-top-xl space-bottom-lg">

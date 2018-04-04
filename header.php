@@ -21,6 +21,7 @@
    <link rel="icon" href="favicona95c.ico" type="image/x-icon" />
    <link rel="shortcut icon" href="favicona95c.ico" type="image/x-icon" />
    <link rel="alternate" media="only screen and (max-width: 640px)" href="mobile/index.html" />
+   
 
 </head>
 <body class="section-theme">
