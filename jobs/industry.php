@@ -12,114 +12,13 @@
       </div>
    </div>
    <div class="page-content">
-      <!--<div ng-controller="flashMessagesController" id="flash-messages-persistent" ng-cloak>
-         <div class="container" ng-repeat="flashMessage in flashMessages | filter: {persistent: true}">
-            <div class="row">
-               <div class="col-sm-24">
-                  <div class="alert alert-{{ flashMessage.type }} fade container-xs-height container-block space-bottom-sm"
-                     ng-class="{ 'in': !flashMessage.hasTransition }">
-                     <div class="col-xs-height col-middle pull-left">
-                        <div class="media container-xs-height">
-                           <div class="media-object col-xs-height col-middle">
-                              <i class="fa fa-fw"
-                                 ng-class="{
-                                 'fa-exclamation-circle': ('error' == flashMessage.type),
-                                 'fa-check': ('success' == flashMessage.type),
-                                 'fa-info-circle': ('info' == flashMessage.type),
-                                 'fa-warning': ('warning' == flashMessage.type)
-                                 }">
-                              </i>
-                           </div>
-                           <div class="media-body col-xs-height col-middle text-xl">
-                              {{ flashMessage.message }}
-                              <a ng-hide="flashMessage.hasModal||flashMessage.hasCustomModal"
-                                 ng-href="{{ flashMessage.link }}"
-                                 target="{{ flashMessage.linkTarget }}">
-                              {{ flashMessage.linkText }}
-                              </a>
-                              <a ng-show="flashMessage.hasModal"
-                                 gt-modal-static="flashMessage.link"
-                                 gt-modal-size="flashMessage.modalSize">
-                              {{ flashMessage.linkText }}
-                              </a>
-                              <a ng-show="flashMessage.hasCustomModal&&flashMessage.link=='publicProfileBenefits'"
-                                 gt-modal-recent-public-profiles
-                                 gt-modal-size="flashMessage.modalSize">
-                              {{ flashMessage.linkText }}
-                              </a>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xs-height col-middle">
-                        <button type="button" class="close" ng-click="remove($index)" ng-hide="flashMessage.persistent">
-                        <span aria-hidden="true">&times;</span>
-                        <span class="sr-only">Close</span>
-                        </button>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>-->
-      <!--<div ng-controller="flashMessagesController"
-         scroll-to-fix
-         class="flashmessage"
-         ng-cloak>
-         <div class="container" ng-repeat="flashMessage in flashMessages | filter: {persistent: false}">
-            <div class="row">
-               <div class="col-sm-24">
-                  <div class="alert alert-{{ flashMessage.type }} fade container-xs-height container-block space-bottom-sm"
-                     ng-class="{ 'in': !flashMessage.hasTransition }">
-                     <div class="col-xs-height col-middle pull-left">
-                        <div class="media container-xs-height">
-                           <div class="media-object col-xs-height col-middle">
-                              <i class="fa fa-fw"
-                                 ng-class="{
-                                 'fa-exclamation-circle': ('error' == flashMessage.type),
-                                 'fa-check': ('success' == flashMessage.type),
-                                 'fa-info-circle': ('info' == flashMessage.type),
-                                 'fa-warning': ('warning' == flashMessage.type)
-                                 }">
-                              </i>
-                           </div>
-                           <div class="media-body col-xs-height col-middle text-xl">
-                              {{ flashMessage.message }}
-                              <a ng-hide="flashMessage.hasModal||flashMessage.hasCustomModal"
-                                 ng-href="{{ flashMessage.link }}"
-                                 target="{{ flashMessage.linkTarget }}">
-                              {{ flashMessage.linkText }}
-                              </a>
-                              <a ng-show="flashMessage.hasModal"
-                                 gt-modal-static="flashMessage.link"
-                                 gt-modal-size="flashMessage.modalSize">
-                              {{ flashMessage.linkText }}
-                              </a>
-                              <a ng-show="flashMessage.hasCustomModal&&flashMessage.link=='publicProfileBenefits'"
-                                 gt-modal-recent-public-profiles
-                                 gt-modal-size="flashMessage.modalSize">
-                              {{ flashMessage.linkText }}
-                              </a>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xs-height col-middle">
-                        <button type="button" class="close" ng-click="remove($index)" ng-hide="flashMessage.persistent">
-                        <span aria-hidden="true">&times;</span>
-                        <span class="sr-only">Close</span>
-                        </button>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>-->
       <div class="container">
          <div class="row">
             <div class="col-sm-24">
                <div class="row">
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Audit &amp; Accountancy" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Audit &amp; Accountancy" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -130,7 +29,7 @@
                               <div class="media-body col-xs-height col-middle">
                                  <h4 class="space-bottom-none text-link">Accountancy</h4>
                                  <span class="text-sm text-muted">
-                                    
+
                                  (48)
                                  </span>
                               </div>
@@ -140,7 +39,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Automotive" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Automotive" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -162,7 +61,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Aviation, Airlines &amp; Aerospace" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Aviation, Airlines &amp; Aerospace" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -184,7 +83,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#"  title="Banking - Corporate" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php"  title="Banking - Corporate" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -208,7 +107,7 @@
                <div class="row">
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Construction" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Construction" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -230,7 +129,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Management Consulting" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Management Consulting" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -252,7 +151,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Cosmetics &amp; Luxury Goods" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Cosmetics &amp; Luxury Goods" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -274,7 +173,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Education" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Education" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -320,7 +219,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Finance, Investment &amp; Asset Management" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Finance, Investment &amp; Asset Management" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -342,7 +241,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="FMCG / Consumer Goods" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="FMCG / Consumer Goods" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -364,7 +263,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="General Trading" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="General Trading" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -388,7 +287,7 @@
                <div class="row">
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Government &amp; Public Sector" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Government &amp; Public Sector" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -410,7 +309,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Healthcare, Hospital &amp; Medical Services" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Healthcare, Hospital &amp; Medical Services" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -432,7 +331,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Travel, Hotel &amp; Tourism" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Travel, Hotel &amp; Tourism" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -454,7 +353,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Recruitment &amp; HR" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Recruitment &amp; HR" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -500,7 +399,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="IT, Software &amp; Internet Services" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="IT, Software &amp; Internet Services" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -522,7 +421,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Legal Profession"  class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Legal Profession"  class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -544,7 +443,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Transport, Distribution &amp; Logistics" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Transport, Distribution &amp; Logistics" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -568,7 +467,7 @@
                <div class="row">
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Manufacturing" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Manufacturing" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -590,7 +489,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Marketing, Advertising &amp; PR" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Marketing, Advertising &amp; PR" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -612,7 +511,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Media &amp; Entertainment" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Media &amp; Entertainment" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -634,7 +533,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Charity / Non-profit / NGO" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Charity / Non-profit / NGO" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -658,7 +557,7 @@
                <div class="row">
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Oil &amp; Gas" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Oil &amp; Gas" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -680,7 +579,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Business Support Services" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Business Support Services" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -702,7 +601,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Printing &amp; Publishing" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Printing &amp; Publishing" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -724,7 +623,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Property &amp; Real Estate" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Property &amp; Real Estate" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -748,7 +647,7 @@
                <div class="row">
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Retail" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Retail" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -770,7 +669,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Banking - Retail" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Banking - Retail" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -792,7 +691,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Security, law &amp; order" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Security, law &amp; order" class="panel-body">
                            <div class="media container-xs-height
                               media-height-sm">
                               <div class="media-object pull-left">
@@ -814,9 +713,8 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Shipping &amp; Freight" class="panel-body">
-                           <div class="media container-xs-height
-                              media-height-sm">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Shipping &amp; Freight" class="panel-body">
+                           <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
                                     <i class="fa  fa-cargo-ship"></i>
@@ -824,9 +722,7 @@
                               </div>
                               <div class="media-body col-xs-height col-middle">
                                  <h4 class="space-bottom-none text-link">Shipping</h4>
-                                 <span class="text-sm
-                                    text-muted
-                                    ">
+                                 <span class="text-sm text-muted">
                                  (17)
                                  </span>
                               </div>
@@ -838,9 +734,8 @@
                <div class="row">
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Telecoms" class="panel-body">
-                           <div class="media container-xs-height
-                              media-height-sm">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Telecoms" class="panel-body">
+                           <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
                                     <i class="fa  fa-cell-tower"></i>
@@ -848,9 +743,7 @@
                               </div>
                               <div class="media-body col-xs-height col-middle">
                                  <h4 class="space-bottom-none text-link">Telecom</h4>
-                                 <span class="text-sm
-                                    text-muted
-                                    ">
+                                 <span class="text-sm text-muted">
                                  (9)
                                  </span>
                               </div>
@@ -860,9 +753,8 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Water, Power &amp; Utilities" class="panel-body">
-                           <div class="media container-xs-height
-                              media-height-sm">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Water, Power &amp; Utilities" class="panel-body">
+                           <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
                                     <i class="fa  fa-factory"></i>
@@ -870,9 +762,7 @@
                               </div>
                               <div class="media-body col-xs-height col-middle">
                                  <h4 class="space-bottom-none text-link">Utilities</h4>
-                                 <span class="text-sm
-                                    text-muted
-                                    ">
+                                 <span class="text-sm text-muted">
                                  (36)
                                  </span>
                               </div>
@@ -885,7 +775,7 @@
          </div>
       </div>
    </div>
-   
+
 </main>
 
 <?php include('../footer.php'); ?>

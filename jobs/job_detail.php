@@ -60,11 +60,11 @@
                        </div>
                     </div>
                     <div class="space-top-sm list-group hidden-print">
-                       <a href="#" target="_blank" class="list-group-item">
+                       <a href="<?php echo $base_url; ?>jobs/about.php" target="_blank" class="list-group-item">
                        <i class="fa fa-fw fa-chevron-right text-primary"></i>
                        Learn more about Headway
                        </a>
-                       <a href="#" class="list-group-item">
+                       <a href="<?php echo $base_url; ?>register/jobalert.php" class="list-group-item">
                        <i class="fa fa-fw fa-chevron-right text-primary"></i>
                        Receive relevant jobs by Email
                        </a>

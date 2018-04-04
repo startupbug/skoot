@@ -4059,7 +4059,7 @@ pre code{
     width:70.83333%
 }
 .col-sm-18{
-    width:87%
+    width:75%
 }
 .col-sm-19{
     width:79.16667%
@@ -12014,11 +12014,6 @@ h1.f_affiliate {
     color: white;
 }
 
-<<<<<<< HEAD
-
-=======
->>>>>>> c36b37e98013109eff67b2ff6812321c7e0a2218
-
 .f_content {
     color: #666666;
     text-align: left;
@@ -12123,7 +12118,6 @@ hr.f_bottom {
     background-color: #d72214;
     border: 1px solid #d72214;
 }
-<<<<<<< HEAD
 
 .f_million {
     color: red !important;
@@ -12221,6 +12215,7 @@ h1.f_key {
     color: #1c2870;
 }
 
+
 h3.f_recruit {
     color: #636464;
 }
@@ -12235,7 +12230,12 @@ h2.f-about {
 
 
 
-.f_icon {
-    margin-top: 13px;
-}
 
+.f_icon {
+    margin-top: 17px;
+}
+.f_bottom {
+    margin-top: -1px;
+    border-bottom: 1px solid #ddd;
+   
+}

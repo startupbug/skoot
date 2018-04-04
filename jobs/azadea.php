@@ -15,6 +15,7 @@
          <div class="container">
          </div>
       </div>
+
    </section>
    <section class="bg-dark">
       <div class="container container-sm-height">
@@ -151,7 +152,7 @@
                <div class="panel-body">
                   <div>
 
-                     <div class="collapse in space-bottom-sm">
+                     <div class="collapse in space-bottom-sm f_bottom">
                       <div class="row collapsible-toggle-title space-bottom-sm custom-collapsible-toggle">
                          <i class="fa fa-fw col-sm-2 fa-caret-right text-color f_icon"></i>
                          <span class="text-base text-link col-sm-22 text-gray">
@@ -168,7 +169,7 @@
                          </span>
                       </div>
 
-                      <hr class="color_grey">
+                    
                       <div class="collapsible-body collapse" style="height: auto;">
                         <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
                            Restaurant Manager
@@ -223,7 +224,7 @@
 
 
 
-                   <div class="collapse in space-bottom-sm">
+                   <div class="collapse in space-bottom-sm f_bottom">
                       <div class="row collapsible-toggle-title space-bottom-sm custom-collapsible-toggle">
                          <i class="fa fa-fw col-sm-2 fa-caret-right text-color f_icon"></i>
                          <span class="text-base text-link col-sm-22 text-gray">
@@ -232,7 +233,7 @@
                               <i 
                                  class="fa fa-fw text-section">
                               </i>
-                              Catering Jobs
+                             Retail Sales Jobs
                               <span class="text-muted text-body text-base">
                               (22)
                               </span>
@@ -241,6 +242,363 @@
                       </div>
 
 
+                      <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+
+                   <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                   </div>
+
+
+                    <div class="collapse in space-bottom-sm f_bottom">
+                      <div class="row collapsible-toggle-title space-bottom-sm custom-collapsible-toggle">
+                         <i class="fa fa-fw col-sm-2 fa-caret-right text-color f_icon"></i>
+                         <span class="text-base text-link col-sm-22 text-gray">
+                           <h5 
+                              class="text-lg text-regular collapsible-toggle-title space-bottom-base">
+                              <i 
+                                 class="fa fa-fw text-section">
+                              </i>
+                              Management Jobs
+                              <span class="text-muted text-body text-base">
+                              (22)
+                              </span>
+                           </h5>
+                         </span>
+                      </div>
+
+                     
+                      <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+
+                   <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                   </div>
+
+
+                   <div class="collapse in space-bottom-sm f_bottom">
+                      <div class="row collapsible-toggle-title space-bottom-sm custom-collapsible-toggle">
+                         <i class="fa fa-fw col-sm-2 fa-caret-right text-color f_icon"></i>
+                         <span class="text-base text-link col-sm-22 text-gray">
+                           <h5 
+                              class="text-lg text-regular collapsible-toggle-title space-bottom-base">
+                              <i 
+                                 class="fa fa-fw text-section">
+                              </i>
+                              Procurement Jobs
+                              <span class="text-muted text-body text-base">
+                              (22)
+                              </span>
+                           </h5>
+                         </span>
+                      </div>
+
+                     
+                      <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+
+                   <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                   </div>
+
+
+                   <div class="collapse in space-bottom-sm f_bottom">
+                      <div class="row collapsible-toggle-title space-bottom-sm custom-collapsible-toggle">
+                         <i class="fa fa-fw col-sm-2 fa-caret-right text-color f_icon"></i>
+                         <span class="text-base text-link col-sm-22 text-gray">
+                           <h5 
+                              class="text-lg text-regular collapsible-toggle-title space-bottom-base">
+                              <i 
+                                 class="fa fa-fw text-section">
+                              </i>
+                             Customer Service Jobs
+                              <span class="text-muted text-body text-base">
+                              (22)
+                              </span>
+                           </h5>
+                         </span>
+                      </div>
+
+                     
+                      <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+
+                   <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                   </div>
+
+
+
+
+                   <div class="collapse in space-bottom-sm f_bottom">
+                      <div class="row collapsible-toggle-title space-bottom-sm custom-collapsible-toggle">
+                         <i class="fa fa-fw col-sm-2 fa-caret-right text-color f_icon"></i>
+                         <span class="text-base text-link col-sm-22 text-gray">
+                           <h5 
+                              class="text-lg text-regular collapsible-toggle-title space-bottom-base">
+                              <i 
+                                 class="fa fa-fw text-section">
+                              </i>
+                            Accounting Jobs
+                              <span class="text-muted text-body text-base">
+                              (22)
+                              </span>
+                           </h5>
+                         </span>
+                      </div>
+
+                     
+                      <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+
+                   <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                   </div>
+
+
+                   <div class="collapse in space-bottom-sm f_bottom">
+                      <div class="row collapsible-toggle-title space-bottom-sm custom-collapsible-toggle">
+                         <i class="fa fa-fw col-sm-2 fa-caret-right text-color f_icon"></i>
+                         <span class="text-base text-link col-sm-22 text-gray">
+                           <h5 
+                              class="text-lg text-regular collapsible-toggle-title space-bottom-base">
+                              <i 
+                                 class="fa fa-fw text-section">
+                              </i>
+                              Design Jobs
+                              <span class="text-muted text-body text-base">
+                              (22)
+                              </span>
+                           </h5>
+                         </span>
+                      </div>
+
+                     
                       <div class="collapsible-body collapse" style="height: auto;">
                         <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
                            Restaurant Manager
@@ -293,6 +651,361 @@
                    </div>
                    </div>
                    
+
+                   <div class="collapse in space-bottom-sm f_bottom">
+                      <div class="row collapsible-toggle-title space-bottom-sm custom-collapsible-toggle">
+                         <i class="fa fa-fw col-sm-2 fa-caret-right text-color f_icon"></i>
+                         <span class="text-base text-link col-sm-22 text-gray">
+                           <h5 
+                              class="text-lg text-regular collapsible-toggle-title space-bottom-base">
+                              <i 
+                                 class="fa fa-fw text-section">
+                              </i>
+                              Logistics Jobs
+                              <span class="text-muted text-body text-base">
+                              (22)
+                              </span>
+                           </h5>
+                         </span>
+                      </div>
+
+                     
+                      <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+
+                   <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                   </div>
+
+
+                   <div class="collapse in space-bottom-sm f_bottom">
+                      <div class="row collapsible-toggle-title space-bottom-sm custom-collapsible-toggle">
+                         <i class="fa fa-fw col-sm-2 fa-caret-right text-color f_icon"></i>
+                         <span class="text-base text-link col-sm-22 text-gray">
+                           <h5 
+                              class="text-lg text-regular collapsible-toggle-title space-bottom-base">
+                              <i 
+                                 class="fa fa-fw text-section">
+                              </i>
+                             HR Jobs
+                              <span class="text-muted text-body text-base">
+                              (22)
+                              </span>
+                           </h5>
+                         </span>
+                      </div>
+
+                     
+                      <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+
+                   <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                   </div>
+
+
+                   <div class="collapse in space-bottom-sm f_bottom">
+                      <div class="row collapsible-toggle-title space-bottom-sm custom-collapsible-toggle">
+                         <i class="fa fa-fw col-sm-2 fa-caret-right text-color f_icon"></i>
+                         <span class="text-base text-link col-sm-22 text-gray">
+                           <h5 
+                              class="text-lg text-regular collapsible-toggle-title space-bottom-base">
+                              <i 
+                                 class="fa fa-fw text-section">
+                              </i>
+                              Admin Jobs
+                              <span class="text-muted text-body text-base">
+                              (22)
+                              </span>
+                           </h5>
+                         </span>
+                      </div>
+
+                     
+                      <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+
+                   <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                   </div>
+
+
+
+                   <div class="collapse in space-bottom-sm f_bottom">
+                      <div class="row collapsible-toggle-title space-bottom-sm custom-collapsible-toggle">
+                         <i class="fa fa-fw col-sm-2 fa-caret-right text-color f_icon"></i>
+                         <span class="text-base text-link col-sm-22 text-gray">
+                           <h5 
+                              class="text-lg text-regular collapsible-toggle-title space-bottom-base">
+                              <i 
+                                 class="fa fa-fw text-section">
+                              </i>
+                              Finance & Consulting Jobs
+                              <span class="text-muted text-body text-base">
+                              (22)
+                              </span>
+                           </h5>
+                         </span>
+                      </div>
+
+                     
+                      <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+
+                   <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                   </div>
+
+
+                   <div class="collapse in space-bottom-sm f_bottom">
+                      <div class="row collapsible-toggle-title space-bottom-sm custom-collapsible-toggle">
+                         <i class="fa fa-fw col-sm-2 fa-caret-right text-color f_icon"></i>
+                         <span class="text-base text-link col-sm-22 text-gray">
+                           <h5 
+                              class="text-lg text-regular collapsible-toggle-title space-bottom-base">
+                              <i 
+                                 class="fa fa-fw text-section">
+                              </i>
+                              Marketing Jobs
+                              <span class="text-muted text-body text-base">
+                              (22)
+                              </span>
+                           </h5>
+                         </span>
+                      </div>
+
+                     
+                      <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+
+                   <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                    <div class="collapsible-body collapse" style="height: auto;">
+                        <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                           Restaurant Manager
+                            <div class="pull-right">
+                           Egypt
+                        </div>
+                        </div>
+                   </div>
+                   </div>
                     <!-- <div class="collapsible space-bottom-base">
                         <div class="collapsible-toggle">
                            <h5 

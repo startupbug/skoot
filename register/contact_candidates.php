@@ -36,7 +36,7 @@
                           Register as a Candidate
                        </a>
                        <h4 class="space-top-base space-bottom-base text-color">Have a question?</h4>
-                       <a href="#" class="list-group-item">
+                       <a href="faqs.php" class="list-group-item">
                          <i class="fa fa-fw fa-chevron-right"></i>
                          Visit Help Center for Candidates
                        </a>
@@ -138,8 +138,8 @@
                              </div>
                           </div>
                        </div>
-                       <a class="list-group-item hidden-print text-section" href="#">
-                         <i class="fa fa-fw fa-chevron-right text-section"></i>
+                       <a class="list-group-item hidden-print text-section" href="<?php echo $base_url; ?>employeer/employer_job.php">
+                          <i class="fa fa-fw fa-chevron-right text-section"></i>
                          Start recruiting now
                        </a>
                     </div>

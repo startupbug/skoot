@@ -84,14 +84,15 @@
                                 <div class="row">
                                   <div class="col-sm-offset-7 col-sm-10">
                                     <div class="panel panel-default panel-bordered">
-                                      <div class="panel-body bg-dark">
+                                      <div class="panel-body">
                                           <h2 class="text-center text-secondary space-top-none space-bottom-none">
                                               Full Report
                                           </h2>
+                                          <hr>
                                           <div class="s_par s_par_color space-bottom-sm space-top-med text-center text-regular">
                                               Granular level data - all charts and tables with commentaries
                                           </div>
-                                          <button type="button" class="btn btn-primary btn-lg btn-block" gt-modal-order-cost-of-living-report="" gt-modal-order-cost-of-living-report-title="Cost of Living UAE Report 2016-17 (Full Report)" gt-modal-order-cost-of-living-report-price="1950">
+                                          <button type="button" class="btn btn-primary btn-lg btn-block col-sm-24" gt-modal-order-cost-of-living-report="" gt-modal-order-cost-of-living-report-title="Cost of Living UAE Report 2016-17 (Full Report)" gt-modal-order-cost-of-living-report-price="1950">
                                               Buy Now
                                           </button>
                                       </div>
@@ -108,24 +109,22 @@
                     <div class="panel-heading">
                        <h3 class="panel-title s_font_20">Industry-wise Salary Reports</h3>
                     </div>
-                    <div class="list-group">
-                       <a href="#" class="list-group-item">
-                          <div class="media">
-                             <div class="media-body">
-                                <p class="text-secondary s_par">At vero eos et accusamus: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur</p>
-                                <p class="s_par s_par_color">Neque porro quisq</p>
-                                <ul class="list-symbol-bullet s_par_list">
-                                   <li>
-                                     Eos et accusamus
-                                   </li>
-                                   <li>
-                                      At vero eos et accusamus
-                                   </li>
-                                </ul>
-                                <p class="s_par s_par_color">Call us on +971 2 345 6789, or email info@joblane.com to know more.</p>
-                             </div>
-                          </div>
-                       </a>
+                    <div class="list-group space-top-sm">
+                      <div class="media">
+                         <div class="media-body">
+                            <p class="text-secondary s_par">At vero eos et accusamus: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur</p>
+                            <p class="s_par s_par_color">Neque porro quisq</p>
+                            <ul class="list-symbol-bullet s_par_list">
+                               <li>
+                                 Eos et accusamus
+                               </li>
+                               <li>
+                                  At vero eos et accusamus
+                               </li>
+                            </ul>
+                            <p class="s_par s_par_color">Call us on +971 2 345 6789, or email info@joblane.com to know more.</p>
+                         </div>
+                      </div><br>
                     </div>
                  </div>
                  <div class="panel panel-default">

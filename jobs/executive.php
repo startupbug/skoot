@@ -252,7 +252,7 @@
                   </form>
                </div>
             </div>
-            <div class="col-sm-18 reset-width">
+            <div class="col-sm-18 reset-width"  style="width: 75%;">
                <div class="spinner-container clearfix">
                   <div class="panel panel-default">
                      <div class="panel-body">
@@ -274,7 +274,7 @@
                               <tr>
                                  <td class="col-sm-3 text-center">1</td>
                                  <td class="col-sm-21 text-overflow text-muted">
-                                    <a class="text-base title" target="_blank" href="#">
+                                    <a class="text-base title" target="_blank" href="<?php echo $base_url; ?>jobs/job_detail.php">
                                       <strong>
                                         MEP Commissioning Manager
                                       </strong>
@@ -285,7 +285,7 @@
                                  <td class="text-overflow col-sm-6"><span title="Kuala Lumpur">Kuala Lumpur</span></td>
                                  <td class="col-sm-4">14 March</td>
                                  <td class="text-center col-sm-5">
-                                    <a href="#" target="_blank">
+                                    <a href="<?php echo $base_url; ?>jobs/about.php" target="_blank">
                                       <img src="<?php echo $base_url; ?>assets/img/Logo-Goes-Here.png" width="70px">
                                     </a>
                                  </td>
@@ -293,7 +293,7 @@
                               <tr>
                                  <td class="col-sm-3 text-center">2</td>
                                  <td class="col-sm-21 text-overflow text-muted">
-                                    <a class="text-base title" target="_blank" href="#">
+                                    <a class="text-base title" target="_blank" href="<?php echo $base_url; ?>jobs/job_detail.php">
                                       <strong>
                                         MEP Commissioning Manager
                                       </strong>
@@ -304,7 +304,7 @@
                                  <td class="text-overflow col-sm-6"><span title="Kuala Lumpur">Kuala Lumpur</span></td>
                                  <td class="col-sm-4">14 March</td>
                                  <td class="text-center col-sm-5">
-                                    <a href="#" target="_blank">
+                                    <a href="<?php echo $base_url; ?>jobs/about.php" target="_blank">
                                       <img src="<?php echo $base_url; ?>assets/img/Logo-Goes-Here.png" width="70px">
                                     </a>
                                  </td>
@@ -312,7 +312,7 @@
                               <tr>
                                  <td class="col-sm-3 text-center">3</td>
                                  <td class="col-sm-21 text-overflow text-muted">
-                                    <a class="text-base title" target="_blank" href="#">
+                                    <a class="text-base title" target="_blank" href="<?php echo $base_url; ?>jobs/job_detail.php">
                                       <strong>
                                         MEP Commissioning Manager
                                       </strong>
@@ -323,7 +323,7 @@
                                  <td class="text-overflow col-sm-6"><span title="Kuala Lumpur">Kuala Lumpur</span></td>
                                  <td class="col-sm-4">14 March</td>
                                  <td class="text-center col-sm-5">
-                                    <a href="#" target="_blank">
+                                    <a href="<?php echo $base_url; ?>jobs/about.php" target="_blank">
                                       <img src="<?php echo $base_url; ?>assets/img/Logo-Goes-Here.png" width="70px">
                                     </a>
                                  </td>
@@ -331,7 +331,7 @@
                               <tr>
                                  <td class="col-sm-3 text-center">4</td>
                                  <td class="col-sm-21 text-overflow text-muted">
-                                    <a class="text-base title" target="_blank" href="#">
+                                    <a class="text-base title" target="_blank" href="<?php echo $base_url; ?>jobs/job_detail.php">
                                       <strong>
                                         MEP Commissioning Manager
                                       </strong>
@@ -342,7 +342,7 @@
                                  <td class="text-overflow col-sm-6"><span title="Kuala Lumpur">Kuala Lumpur</span></td>
                                  <td class="col-sm-4">14 March</td>
                                  <td class="text-center col-sm-5">
-                                    <a href="#" target="_blank">
+                                    <a href="<?php echo $base_url; ?>jobs/about.php" target="_blank">
                                       <img src="<?php echo $base_url; ?>assets/img/Logo-Goes-Here.png" width="70px">
                                     </a>
                                  </td>
@@ -350,7 +350,7 @@
                               <tr>
                                  <td class="col-sm-3 text-center">5</td>
                                  <td class="col-sm-21 text-overflow text-muted">
-                                    <a class="text-base title" target="_blank" href="#">
+                                    <a class="text-base title" target="_blank" href="<?php echo $base_url; ?>jobs/job_detail.php">
                                       <strong>
                                         MEP Commissioning Manager
                                       </strong>
@@ -361,7 +361,7 @@
                                  <td class="text-overflow col-sm-6"><span title="Kuala Lumpur">Kuala Lumpur</span></td>
                                  <td class="col-sm-4">14 March</td>
                                  <td class="text-center col-sm-5">
-                                    <a href="#" target="_blank">
+                                    <a href="<?php echo $base_url; ?>jobs/about.php" target="_blank">
                                       <img src="<?php echo $base_url; ?>assets/img/Logo-Goes-Here.png" width="70px">
                                     </a>
                                  </td>
@@ -369,7 +369,7 @@
                               <tr>
                                  <td class="col-sm-3 text-center">6</td>
                                  <td class="col-sm-21 text-overflow text-muted">
-                                    <a class="text-base title" target="_blank" href="#">
+                                    <a class="text-base title" target="_blank" href="<?php echo $base_url; ?>jobs/job_detail.php">
                                       <strong>
                                         MEP Commissioning Manager
                                       </strong>
@@ -380,7 +380,7 @@
                                  <td class="text-overflow col-sm-6"><span title="Kuala Lumpur">Kuala Lumpur</span></td>
                                  <td class="col-sm-4">14 March</td>
                                  <td class="text-center col-sm-5">
-                                    <a href="#" target="_blank">
+                                    <a href="<?php echo $base_url; ?>jobs/about.php" target="_blank">
                                       <img src="<?php echo $base_url; ?>assets/img/Logo-Goes-Here.png" width="70px">
                                     </a>
                                  </td>
@@ -388,7 +388,7 @@
                               <tr>
                                  <td class="col-sm-3 text-center">7</td>
                                  <td class="col-sm-21 text-overflow text-muted">
-                                    <a class="text-base title" target="_blank" href="#">
+                                    <a class="text-base title" target="_blank" href="<?php echo $base_url; ?>jobs/job_detail.php">
                                       <strong>
                                         MEP Commissioning Manager
                                       </strong>
@@ -399,7 +399,7 @@
                                  <td class="text-overflow col-sm-6"><span title="Kuala Lumpur">Kuala Lumpur</span></td>
                                  <td class="col-sm-4">14 March</td>
                                  <td class="text-center col-sm-5">
-                                    <a href="#" target="_blank">
+                                    <a href="<?php echo $base_url; ?>jobs/about.php" target="_blank">
                                       <img src="<?php echo $base_url; ?>assets/img/Logo-Goes-Here.png" width="70px">
                                     </a>
                                  </td>
@@ -407,7 +407,7 @@
                               <tr>
                                  <td class="col-sm-3 text-center">8</td>
                                  <td class="col-sm-21 text-overflow text-muted">
-                                    <a class="text-base title" target="_blank" href="#">
+                                    <a class="text-base title" target="_blank" href="<?php echo $base_url; ?>jobs/job_detail.php">
                                       <strong>
                                         MEP Commissioning Manager
                                       </strong>
@@ -418,7 +418,7 @@
                                  <td class="text-overflow col-sm-6"><span title="Kuala Lumpur">Kuala Lumpur</span></td>
                                  <td class="col-sm-4">14 March</td>
                                  <td class="text-center col-sm-5">
-                                    <a href="#" target="_blank">
+                                    <a href="<?php echo $base_url; ?>jobs/about.php" target="_blank">
                                       <img src="<?php echo $base_url; ?>assets/img/Logo-Goes-Here.png" width="70px">
                                     </a>
                                  </td>
@@ -426,7 +426,7 @@
                               <tr>
                                  <td class="col-sm-3 text-center">9</td>
                                  <td class="col-sm-21 text-overflow text-muted">
-                                    <a class="text-base title" target="_blank" href="#">
+                                    <a class="text-base title" target="_blank" href="<?php echo $base_url; ?>jobs/job_detail.php">
                                       <strong>
                                         MEP Commissioning Manager
                                       </strong>
@@ -437,7 +437,7 @@
                                  <td class="text-overflow col-sm-6"><span title="Kuala Lumpur">Kuala Lumpur</span></td>
                                  <td class="col-sm-4">14 March</td>
                                  <td class="text-center col-sm-5">
-                                    <a href="#" target="_blank">
+                                    <a href="<?php echo $base_url; ?>jobs/about.php" target="_blank">
                                       <img src="<?php echo $base_url; ?>assets/img/Logo-Goes-Here.png" width="70px">
                                     </a>
                                  </td>
@@ -445,7 +445,7 @@
                               <tr>
                                  <td class="col-sm-3 text-center">10</td>
                                  <td class="col-sm-21 text-overflow text-muted">
-                                    <a class="text-base title" target="_blank" href="#">
+                                    <a class="text-base title" target="_blank" href="<?php echo $base_url; ?>jobs/job_detail.php">
                                       <strong>
                                         MEP Commissioning Manager
                                       </strong>
@@ -456,7 +456,7 @@
                                  <td class="text-overflow col-sm-6"><span title="Kuala Lumpur">Kuala Lumpur</span></td>
                                  <td class="col-sm-4">14 March</td>
                                  <td class="text-center col-sm-5">
-                                    <a href="#" target="_blank">
+                                    <a href="<?php echo $base_url; ?>jobs/about.php" target="_blank">
                                       <img src="<?php echo $base_url; ?>assets/img/Logo-Goes-Here.png" width="70px">
                                     </a>
                                  </td>

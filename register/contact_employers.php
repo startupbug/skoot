@@ -31,7 +31,7 @@
                        <h3 class="panel-title s_font_20">Looking to recruit staff?</h3>
                     </div>
                     <div class="list-group">
-                       <a href="#" class="list-group-item">
+                       <a href="<?php echo $base_url; ?>employeer/employer_job.php" class="list-group-item">
                           <i class="fa fa-fw fa-chevron-right"></i>
                           Recruiting solutions for employers.
                        </a>
@@ -130,7 +130,7 @@
                              </div>
                           </div>
                        </div>
-                       <a class="list-group-item hidden-print text-section" href="#">
+                       <a class="list-group-item hidden-print text-section" href="<?php echo $base_url; ?>employeer/employer_job.php">
                          <i class="fa fa-fw fa-chevron-right text-section"></i>
                          Start recruiting now
                        </a>

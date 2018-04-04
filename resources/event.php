@@ -6,7 +6,6 @@
          <div class="row">
             <div class="col-sm-24">
                <h1 class="text-center">Professional Events in the Middle East</h1>
-               <h3 class="courses">Find courses in your field</h3>
                <form class="text-center form-inline space-bottom-xs hidden-print">
                   <div class="form-group form-group-xl">
                      <input type="text"
@@ -24,7 +23,7 @@
       </div>
    </div>
    <div class="page-content">
-     
+
       <section class="bg-light">
          <div class="container">
             <div class="row">
@@ -67,11 +66,10 @@
                      <div class="col-sm-6">
                         <img src="<?php echo $base_url;?>assets/img/logo/arcadis.jpg" style="max-width: 200px; max-height: 80px;" />
                      </div>
-                    
+
                   </div>
                   <p class="text-center text-lg text-heading text-secondary">
-                     <!--<a href="event-organisers.html" class="space-left-sm btn btn-lg btn-section">List your events</a>-->
-                     <a href="#" class="space-left-sm btn btn-lg btn-section">List your events</a>
+                     <a href="<?php echo $base_url; ?>otherservices/event_organizer.php" class="space-left-sm btn btn-lg btn-section">List your events</a>
                   </p>
                </div>
             </div>
@@ -79,10 +77,7 @@
       </section>
    </div>
    <section ng-controller="widgetFeedbackController">
-      <div class="fade"
-         ng-class="{'modal-backdrop in': !isWidgetCollapsed}"
-         ng-click="isWidgetCollapsed=true"
-         ng-init="isWidgetCollapsed=true"></div>
+      <div class="fade"></div>
       <div class="feedback-btn-container affix-bottom affix-right space-right-base" ng-cloak>
          <div class="text-right">
             <button ng-click="isWidgetCollapsed=!isWidgetCollapsed"

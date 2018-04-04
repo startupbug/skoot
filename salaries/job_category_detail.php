@@ -731,7 +731,7 @@
                        </div>
                     </div>
                     <div class="list-group">
-                       <a class="list-group-item-main hidden-print text-left">
+                       <a class="list-group-item-main hidden-print text-left" href="<?php echo $base_url; ?>register/advertising_agencies.php">
                          <i class="fa fa-caret-right s_text_color-project"></i>
                          Advertise Here
                        </a>
@@ -769,7 +769,7 @@
                  </div>
                  <div class="panel panel-default">
                     <div class="list-group">
-                       <a class="list-group-item" href="#">
+                       <a class="list-group-item" href="<?php echo $base_url; ?>courses/search.php">
                           <div class="media">
                              <div class="media-object pull-left">
                                 <i class="fa fa-fw fa-teacher text-link fa-2x"></i>
@@ -779,7 +779,7 @@
                              </div>
                           </div>
                        </a>
-                       <a class="list-group-item" href="#">
+                       <a class="list-group-item" href="<?php echo $base_url; ?>resources/cv_review.php">
                           <div class="media">
                              <div class="media-object pull-left">
                                 <i class="fa fa-fw fa-clipboard text-link fa-2x"></i>

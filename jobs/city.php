@@ -18,7 +18,7 @@
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
                         <!--<a href="../uae/jobs/city/dubai.html" title="Dubai" class="panel-body">-->
-                        <a href="#" title="Dubai" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -38,7 +38,7 @@
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
                         <!--<a href="../uae/jobs/city/abu-dhabi.html" title="Abu Dhabi" class="panel-body">-->
-                        <a href="#" title="Abu Dhabi" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Abu Dhabi" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -58,7 +58,7 @@
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
                         <!--<a href="../saudi-arabia/jobs/city/riyadh.html" title="Riyadh" class="panel-body">-->
-                        <a href="#" title="Riyadh" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Riyadh" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -78,7 +78,7 @@
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
                         <!--<a href="../qatar/jobs/city/doha.html" title="Doha" class="panel-body">-->
-                        <a href="#" title="Doha" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Doha" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -100,7 +100,7 @@
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
                         <!--<a href="../saudi-arabia/jobs/city/jeddah.html" title="Jeddah" class="panel-body">-->
-                        <a href="#" title="Jeddah" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Jeddah" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -120,7 +120,7 @@
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
                         <!--<a href="../oman/jobs/city/muscat.html" title="Muscat" class="panel-body">-->
-                        <a href="#" title="Muscat" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Muscat" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -140,7 +140,7 @@
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
                         <!--<a href="../uae/jobs/city/sharjah.html" title="Sharjah" class="panel-body">-->
-                        <a href="#" title="Sharjah" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Sharjah" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -160,7 +160,7 @@
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
                         <!--<a href="../saudi-arabia/jobs/city/yanbu.html" title="Yanbu" class="panel-body">-->
-                        <a href="#" title="Yanbu" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Yanbu" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -201,7 +201,7 @@
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
                         <!--<a href="../kuwait/jobs/city/kuwait-city.html" title="Kuwait City" class="panel-body">-->
-                        <a href="#" title="Kuwait City" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Kuwait City" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -221,7 +221,7 @@
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
                         <!--<a href="../uae/jobs/city/sharjah.html" title="Sharjah" class="panel-body">-->
-                        <a href="#" title="Sharjah" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Sharjah" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -241,7 +241,7 @@
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
                         <!--<a href="../uae/jobs/city/sharjah.html" title="Sharjah" class="panel-body">-->
-                        <a href="#" title="Sharjah" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Sharjah" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -261,7 +261,7 @@
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
                         <!--<a href="../uae/jobs/city/sharjah.html" title="Sharjah" class="panel-body">-->
-                        <a href="#" title="Sharjah" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Sharjah" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -281,7 +281,7 @@
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
                         <!--<a href="../uae/jobs/city/sharjah.html" title="Sharjah" class="panel-body">-->
-                        <a href="#" title="Sharjah" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Sharjah" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -301,7 +301,7 @@
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
                         <!--<a href="../uae/jobs/city/sharjah.html" title="Sharjah" class="panel-body">-->
-                        <a href="#" title="Sharjah" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Sharjah" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -321,7 +321,7 @@
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
                         <!--<a href="../uae/jobs/city/sharjah.html" title="Sharjah" class="panel-body">-->
-                        <a href="#" title="Sharjah" class="panel-body">
+                        <a href="<?php echo $base_url; ?>jobs/executive.php" title="Sharjah" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">

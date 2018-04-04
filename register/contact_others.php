@@ -115,8 +115,8 @@
                              </div>
                           </div>
                        </div>
-                       <a class="list-group-item hidden-print text-section" href="#">
-                         <i class="fa fa-fw fa-chevron-right text-section"></i>
+                       <a class="list-group-item hidden-print text-section" href="<?php echo $base_url; ?>employeer/employer_job.php">
+                          <i class="fa fa-fw fa-chevron-right text-section"></i>
                          Start recruiting now
                        </a>
                     </div>

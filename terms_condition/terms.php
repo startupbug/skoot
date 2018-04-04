@@ -10,107 +10,6 @@
       </div>
    </div>
    <div class="page-content">
-      <!--<div ng-controller="flashMessagesController" id="flash-messages-persistent" ng-cloak>
-         <div class="container" ng-repeat="flashMessage in flashMessages | filter: {persistent: true}">
-            <div class="row">
-               <div class="col-sm-24">
-                  <div class="alert alert-{{ flashMessage.type }} fade container-xs-height container-block space-bottom-sm"
-                     ng-class="{ 'in': !flashMessage.hasTransition }">
-                     <div class="col-xs-height col-middle pull-left">
-                        <div class="media container-xs-height">
-                           <div class="media-object col-xs-height col-middle">
-                              <i class="fa fa-fw"
-                                 ng-class="{
-                                 'fa-exclamation-circle': ('error' == flashMessage.type),
-                                 'fa-check': ('success' == flashMessage.type),
-                                 'fa-info-circle': ('info' == flashMessage.type),
-                                 'fa-warning': ('warning' == flashMessage.type)
-                                 }">
-                              </i>
-                           </div>
-                           <div class="media-body col-xs-height col-middle text-xl">
-                              {{ flashMessage.message }}
-                              <a ng-hide="flashMessage.hasModal||flashMessage.hasCustomModal"
-                                 ng-href="{{ flashMessage.link }}"
-                                 target="{{ flashMessage.linkTarget }}">
-                              {{ flashMessage.linkText }}
-                              </a>
-                              <a ng-show="flashMessage.hasModal"
-                                 gt-modal-static="flashMessage.link"
-                                 gt-modal-size="flashMessage.modalSize">
-                              {{ flashMessage.linkText }}
-                              </a>
-                              <a ng-show="flashMessage.hasCustomModal&&flashMessage.link=='publicProfileBenefits'"
-                                 gt-modal-recent-public-profiles
-                                 gt-modal-size="flashMessage.modalSize">
-                              {{ flashMessage.linkText }}
-                              </a>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xs-height col-middle">
-                        <button type="button" class="close" ng-click="remove($index)" ng-hide="flashMessage.persistent">
-                        <span aria-hidden="true">&times;</span>
-                        <span class="sr-only">Close</span>
-                        </button>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>-->
-      <!--<div ng-controller="flashMessagesController"
-         scroll-to-fix
-         class="flashmessage"
-         ng-cloak>
-         <div class="container" ng-repeat="flashMessage in flashMessages | filter: {persistent: false}">
-            <div class="row">
-               <div class="col-sm-24">
-                  <div class="alert alert-{{ flashMessage.type }} fade container-xs-height container-block space-bottom-sm"
-                     ng-class="{ 'in': !flashMessage.hasTransition }">
-                     <div class="col-xs-height col-middle pull-left">
-                        <div class="media container-xs-height">
-                           <div class="media-object col-xs-height col-middle">
-                              <i class="fa fa-fw"
-                                 ng-class="{
-                                 'fa-exclamation-circle': ('error' == flashMessage.type),
-                                 'fa-check': ('success' == flashMessage.type),
-                                 'fa-info-circle': ('info' == flashMessage.type),
-                                 'fa-warning': ('warning' == flashMessage.type)
-                                 }">
-                              </i>
-                           </div>
-                           <div class="media-body col-xs-height col-middle text-xl">
-                              {{ flashMessage.message }}
-                              <a ng-hide="flashMessage.hasModal||flashMessage.hasCustomModal"
-                                 ng-href="{{ flashMessage.link }}"
-                                 target="{{ flashMessage.linkTarget }}">
-                              {{ flashMessage.linkText }}
-                              </a>
-                              <a ng-show="flashMessage.hasModal"
-                                 gt-modal-static="flashMessage.link"
-                                 gt-modal-size="flashMessage.modalSize">
-                              {{ flashMessage.linkText }}
-                              </a>
-                              <a ng-show="flashMessage.hasCustomModal&&flashMessage.link=='publicProfileBenefits'"
-                                 gt-modal-recent-public-profiles
-                                 gt-modal-size="flashMessage.modalSize">
-                              {{ flashMessage.linkText }}
-                              </a>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xs-height col-middle">
-                        <button type="button" class="close" ng-click="remove($index)" ng-hide="flashMessage.persistent">
-                        <span aria-hidden="true">&times;</span>
-                        <span class="sr-only">Close</span>
-                        </button>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>-->
       <div class="container">
          <div class="row">
             <div class="col-sm-24">
@@ -136,7 +35,7 @@
                      <h4 class="text-regular">Privacy Policy</h4>
                      <p>
                         For information regarding privacy, please review the
-                        <a href="privacy-policy.html">
+                        <a href="<?php echo $base_url; ?>terms_condition/privacy_policy.php">
                         Privacy Policy
                         </a> which also governs your visit to the JobLane website.
                      </p>
@@ -433,7 +332,7 @@
          </div>
       </div>
    </div>
-   
+
 </main>
 
 <?php include('../footer.php'); ?>
