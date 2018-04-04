@@ -116,7 +116,7 @@
             </div>
             <div class="row row-xs-height">
                <div class="col-xs-height col-middle col-xs-1register">
-                  <h3 class=" space-bottom-none space-top-none">Call +971 4 278 5200</h3>
+                  <h3 class=" space-bottom-none space-top-none f_event f_call">Call +971 4 278 5200</h3>
                </div>
                <div class="col-xs-height col-middle col-xs-2 text-center">
                   <h3 class=" space-bottom-none space-top-none">or</h3>
