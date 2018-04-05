@@ -24,13 +24,13 @@
                      <div class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
-                              <a href="#">
+                              <a href="<?php echo $base_url; ?>resources/market_research_report_detail.php" >
                               <img src="<?php echo $base_url;?>assets/img/market_report.png" alt="Employment and Salary Trends in the Gulf 2016" width="205px"/>
                               </a>
                            </div>
                            <div class="media-body">
                               <div class="space-bottom-sm">
-                                 <a href="#">
+                                 <a href="<?php echo $base_url; ?>resources/market_research_report_detail.php" >
                                  Employment and Salary Trends in the Gulf 2016
                                  </a>
                               </div>
@@ -39,7 +39,7 @@
                                  <li>Recruitment trends</li>
                                  <li>Salary trends by country and sector</li>
                               </ul>
-                              <a href="#">
+                              <a href="<?php echo $base_url; ?>resources/market_research_report_detail.php" >
                                  <i class="fa fa-fw fa-chevron-right text-primary"></i>
                                  Get Arabic Version (&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;)
                               </a>
@@ -49,13 +49,13 @@
                      <div class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
-                              <a href="#">
+                              <a href="<?php echo $base_url; ?>resources/market_research_report_detail.php" >
                                  <img src="<?php echo $base_url;?>assets/img/market_report.png" alt="Employment and Salary Trends in the Gulf 2016" width="205px"/>
                               </a>
                            </div>
                            <div class="media-body">
                               <div class="space-bottom-sm">
-                                 <a href="#">
+                                 <a href="<?php echo $base_url; ?>resources/market_research_report_detail.php" >
                                  Recruitment of Top Graduates in the UAE 2016
                                  </a>
                               </div>
@@ -70,13 +70,13 @@
                      <div class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
-                              <a href="#">
+                              <a href="<?php echo $base_url; ?>resources/market_research_report_detail.php" >
                               <img src="<?php echo $base_url;?>assets/img/market_report.png" alt="Employment and Salary Trends in the Gulf 2016" width="205px"/>
                               </a>
                            </div>
                            <div class="media-body">
                               <div class="space-bottom-sm">
-                                 <a href="#">
+                                 <a href="<?php echo $base_url; ?>resources/market_research_report_detail.php" >
                                     Recruitment of Top Graduates in Saudi Arabia 2016
                                  </a>
                               </div>
@@ -91,7 +91,7 @@
                      <div class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
-                              <a href="#">
+                              <a href="<?php echo $base_url; ?>resources/market_research_report_detail.php" >
                               <img src="<?php echo $base_url;?>assets/img/market_report.png" alt="Employment and Salary Trends in the Gulf 2016" width="205px"/>
                               </a>
                            </div>
@@ -117,7 +117,7 @@
                      <div class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
-                              <a href="#">
+                              <a href="<?php echo $base_url; ?>resources/market_research_report_detail.php" >
                               <img src="<?php echo $base_url;?>assets/img/market_report.png" alt="Employment and Salary Trends in the Gulf 2016" width="205px"/>
                               </a>
                            </div>

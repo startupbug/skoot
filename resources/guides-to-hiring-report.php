@@ -4,8 +4,7 @@
       <div class="container">
          <div class="row">
            <div class="col-sm-24">
-              <h2>Malaysia Public Holidays, 2018</h2>
-              <h3 class="s_headingjobs">Read latest news and articles covering wide range of employment topics in the Middle East</h3>
+
            </div>
          </div>
       </div>
@@ -18,109 +17,87 @@
               <div class="col-sm-16 reset-width">
                 <div class="panel panel-default">
                    <div class="panel-heading">
-                      <ul class="list-inline">
-                         <li>
-                            <i class="flag flag-malaysia"></i>
-                            <h3 class="heading_malaysia">Malaysia</h3>
-                         </li>
-                      </ul>
+                      <h1 class="panel-title">Malaysia Labour Law</h1>
                    </div>
-                   <div class="panel-body">
-
-                      <table class="table table-light">
-                         <thead>
-                            <tr>
-                               <th class="col-sm-4">Date</th>
-                               <th class="col-sm-2">Day</th>
-                               <th class="col-sm-9">Holiday</th>
-                               <th class="col-sm-7 text-right">Holiday</th>
-                            </tr>
-                         </thead>
-                         <tbody>
-                           <tr>
-                            <td class="col-sm-4">13 Feb</td>
-                            <td class="col-sm-2">Tue</td>
-                            <td class="col-sm-9">National Sports Day</td>
-                            <td class="col-sm-7">National Sports Day</td>
-                           </tr>
-                           <tr>
-                            <td class="col-sm-4">13 Feb</td>
-                            <td class="col-sm-2">Tue</td>
-                            <td class="col-sm-9">National Sports Day</td>
-                            <td class="col-sm-7">National Sports Day</td>
-                           </tr>
-                           <tr>
-                            <td class="col-sm-4">13 Feb</td>
-                            <td class="col-sm-2">Tue</td>
-                            <td class="col-sm-9">National Sports Day</td>
-                            <td class="col-sm-7">National Sports Day</td>
-                           </tr>
-                           <tr>
-                            <td class="col-sm-4">13 Feb</td>
-                            <td class="col-sm-2">Tue</td>
-                            <td class="col-sm-9">National Sports Day</td>
-                            <td class="col-sm-7">National Sports Day</td>
-                           </tr>
-                           <tr>
-                            <td class="col-sm-4">13 Feb</td>
-                            <td class="col-sm-2">Tue</td>
-                            <td class="col-sm-9">National Sports Day</td>
-                            <td class="col-sm-7">National Sports Day</td>
-                           </tr>
-                           <tr>
-                            <td class="col-sm-4">13 Feb</td>
-                            <td class="col-sm-2">Tue</td>
-                            <td class="col-sm-9">National Sports Day</td>
-                            <td class="col-sm-7">National Sports Day</td>
-                           </tr>
-                           <tr>
-                            <td class="col-sm-4">13 Feb</td>
-                            <td class="col-sm-2">Tue</td>
-                            <td class="col-sm-9">National Sports Day</td>
-                            <td class="col-sm-7">National Sports Day</td>
-                           </tr>
-                           <tr>
-                            <td class="col-sm-4">13 Feb</td>
-                            <td class="col-sm-2">Tue</td>
-                            <td class="col-sm-9">National Sports Day</td>
-                            <td class="col-sm-7">National Sports Day</td>
-                           </tr>
-                           <tr>
-                            <td class="col-sm-4">13 Feb</td>
-                            <td class="col-sm-2">Tue</td>
-                            <td class="col-sm-9">National Sports Day</td>
-                            <td class="col-sm-7">National Sports Day</td>
-                           </tr>
-                           <tr>
-                            <td class="col-sm-4">13 Feb</td>
-                            <td class="col-sm-2">Tue</td>
-                            <td class="col-sm-9">National Sports Day</td>
-                            <td class="col-sm-7">National Sports Day</td>
-                           </tr>
-                           <tr>
-                            <td class="col-sm-4">13 Feb</td>
-                            <td class="col-sm-2">Tue</td>
-                            <td class="col-sm-9">National Sports Day</td>
-                            <td class="col-sm-7">National Sports Day</td>
-                           </tr>
-                           <tr>
-                            <td class="col-sm-4">13 Feb</td>
-                            <td class="col-sm-2">Tue</td>
-                            <td class="col-sm-9">National Sports Day</td>
-                            <td class="col-sm-7">National Sports Day</td>
-                           </tr>
-                           <tr>
-                            <td class="col-sm-4">13 Feb</td>
-                            <td class="col-sm-2">Tue</td>
-                            <td class="col-sm-9">National Sports Day</td>
-                            <td class="col-sm-7">National Sports Day</td>
-                           </tr>
-                         </tbody>
-                      </table>
+                   <div class="list-group">
+                      <div class="list-group-item">
+                         <div class="media">
+                            <div class="media-object pull-left">
+                               <img src="<?php echo $base_url; ?>assets\images1\1Cost_of_Livinga95c.png" width="205px">
+                            </div>
+                            <div class="media-body">
+                               <p class="text-base text-body">Latest information for UAE on:</p>
+                               <ul class="list-symbol-bullet list-symbol-section text-base text-body">
+                                  <li>Types of contracts and probationary periods</li>
+                                  <li>Casual and sick leaves</li>
+                                  <li>End of service gratuity and termination laws</li>
+                               </ul>
+                            </div>
+                         </div>
+                      </div>
+                      <a class="list-group-item-main hidden-print">
+                      Get this Publication (Free)
+                      <i class="fa fa-angle-double-right"></i>
+                      </a>
+                   </div>
+                </div>
+                <div class="panel panel-default">
+                   <div class="panel-heading">
+                      <h3 class="panel-title">You may also be interested in: </h3>
+                   </div>
+                   <div class="list-group">
+                      <a href="#" class="list-group-item">
+                         <div class="media">
+                            <div class="media-object pull-left">
+                               <img src="<?php echo $base_url; ?>assets\images1\1Cost_of_Livinga95c.png" alt="Saudi Arabia Labour Law" width="205px">
+                            </div>
+                            <div class="media-body">
+                               <p class="text-heading text-med text-secondary">Saudi Arabia Labour Law</p>
+                               <ul class="list-symbol-bullet list-symbol-section text-base text-regular">
+                                 <li>Country-wide reports for 8 MENA countries</li>
+                                 <li>8+ years of salaries, accomodation and education costs</li>
+                                 <li>Sector-wise report options</li>
+                               </ul>
+                            </div>
+                         </div>
+                      </a>
+                      <a href="#" class="list-group-item">
+                         <div class="media">
+                            <div class="media-object pull-left">
+                               <img src="<?php echo $base_url; ?>assets\images1\1Cost_of_Livinga95c.png" alt="Qatar Labour Law" width="205px">
+                            </div>
+                            <div class="media-body">
+                               <p class="text-heading text-med text-secondary">Qatar Labour Law</p>
+                               <ul class="list-symbol-bullet list-symbol-section text-base text-regular">
+                                 <li>Country-wide reports for 8 MENA countries</li>
+                                 <li>8+ years of salaries, accomodation and education costs</li>
+                                 <li>Sector-wise report options</li>
+                               </ul>
+                            </div>
+                         </div>
+                      </a>
+                      <a href="#" class="list-group-item">
+                         <div class="media">
+                            <div class="media-object pull-left">
+                               <img src="<?php echo $base_url; ?>assets\images1\1Cost_of_Livinga95c.png" alt="Bahrain Labour Law" width="205px">
+                            </div>
+                            <div class="media-body">
+                               <p class="text-heading text-med text-secondary">Bahrain Labour Law</p>
+                               <ul class="list-symbol-bullet list-symbol-section text-base text-regular">
+                                 <li>Country-wide reports for 8 MENA countries</li>
+                                 <li>8+ years of salaries, accomodation and education costs</li>
+                                 <li>Sector-wise report options</li>
+                               </ul>
+                            </div>
+                         </div>
+                      </a>
+                      <a href="<?php echo $base_url;?>resources/market_research_report.php" class="list-group-item">
+                      <i class="fa fa-fw fa-chevron-right"></i>
+                      See more titles &amp; Arabic versions (العربية)
+                      </a>
                    </div>
                 </div>
               </div>
-
               <div class="col-sm-8 hidden-print">
                  <div class="panel panel-default">
                     <div class="panel-body panel-body-ad">
@@ -138,14 +115,14 @@
                     </div>
                  </div>
                  <div class="panel-heading">
-                    <div class="text-heading panel-title s-panel-title text-capitalize">Jobs By City</div>
+                    <div class="text-heading panel-title s-panel-title text-capitalize">Find Job</div>
                  </div>
                  <div class="panel panel-default">
                     <div class="list-group">
-                       <a class="list-group-item" href="<?php echo $base_url; ?>jobs/executive.php">
+                       <a class="list-group-item" href="<?php echo $base_url; ?>jobs/executive.php" >
                           <div class="media">
                              <div class="media-object pull-left">
-                                <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
+                                <i class="flag flag-KL"></i>
                              </div>
                              <div class="media-body">
                                 <div class="text-medium text-overflow text-section">Kuala Lumpur </div>
@@ -153,10 +130,10 @@
                              </div>
                           </div>
                        </a>
-                       <a class="list-group-item" href="<?php echo $base_url; ?>jobs/executive.php">
+                       <a class="list-group-item" href="<?php echo $base_url; ?>jobs/executive.php" >
                           <div class="media">
                              <div class="media-object pull-left">
-                                <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
+                                <i class="flag flag-SE"></i>
                              </div>
                              <div class="media-body">
                                 <div class="text-medium text-overflow text-section">Selongar </div>
@@ -164,10 +141,10 @@
                              </div>
                           </div>
                        </a>
-                       <a class="list-group-item" href="<?php echo $base_url; ?>jobs/executive.php">
+                       <a class="list-group-item" href="<?php echo $base_url; ?>jobs/executive.php" >
                           <div class="media">
                              <div class="media-object pull-left">
-                                <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
+                                <i class="flag flag-PE"></i>
                              </div>
                              <div class="media-body">
                                 <div class="text-medium text-overflow text-section">Penang </div>
@@ -175,10 +152,10 @@
                              </div>
                           </div>
                        </a>
-                       <a class="list-group-item" href="<?php echo $base_url; ?>jobs/executive.php">
+                       <a class="list-group-item" href="<?php echo $base_url; ?>jobs/executive.php" >
                           <div class="media">
                              <div class="media-object pull-left">
-                                <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
+                                <i class="flag flag-JO"></i>
                              </div>
                              <div class="media-body">
                                 <div class="text-medium text-overflow text-section">Johar </div>
@@ -186,9 +163,43 @@
                              </div>
                           </div>
                        </a>
-                       <a class="list-group-item hidden-print text-section" href="<?php echo $base_url; ?>jobs/executive.php">
-                         <i class="fa fa-fw fa-chevron-right text-section"></i>
-                         View all Cities
+                       <a class="list-group-item" href="<?php echo $base_url; ?>jobs/executive.php" >
+                          <div class="media">
+                             <div class="media-object pull-left">
+                                <i class="flag flag-SA"></i>
+                             </div>
+                             <div class="media-body">
+                                <div class="text-medium text-overflow text-section">Sarawak </div>
+                                <p class="text-sm text-supermuted">(432)</p>
+                             </div>
+                          </div>
+                       </a>
+                    </div>
+                 </div>
+                 <div class="panel panel-default">
+                   <div class="panel-heading">
+                      <h2 class="panel-title s_font_20">Find top talent</h2>
+                   </div>
+                    <div class="panel-body panel-body-ad">
+                      <div class="media-body find-top-talent-p">
+                        <p>
+                          <i class="fa fa-caret-right s_text_color-project"></i>
+                          Access entire database of over 7 million quality candidates
+                        </p>
+                        <p>
+                          <i class="fa fa-caret-right s_text_color-project"></i>
+                          Advertise your vacancies with advanced screening tools
+                        </p>
+                        <p>
+                          <i class="fa fa-caret-right s_text_color-project"></i>
+                          Free unlimited multiple users
+                        </p>
+                      </div>
+                    </div>
+                    <div class="list-group">
+                       <a class="list-group-item-main hidden-print text-left" href="<?php echo $base_url;?>employeer/employer_job.php">
+                         <i class="fa fa-caret-right s_text_color-project"></i>
+                         Start recruiting now
                        </a>
                     </div>
                  </div>
