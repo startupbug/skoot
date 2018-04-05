@@ -17,7 +17,7 @@
                <div class="row">
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Dubai" class="panel-body">
+                        <a href="<?php echo $base_url;?>resources/labour-laws-country.php" title="Dubai" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -33,7 +33,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Abu Dhabi" class="panel-body">
+                        <a href="<?php echo $base_url;?>resources/labour-laws-country.php" title="Abu Dhabi" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -49,7 +49,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Riyadh" class="panel-body">
+                        <a href="<?php echo $base_url;?>resources/labour-laws-country.php" title="Riyadh" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -65,7 +65,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Doha" class="panel-body">
+                        <a href="<?php echo $base_url;?>resources/labour-laws-country.php" title="Doha" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -83,7 +83,7 @@
                <div class="row">
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Jeddah" class="panel-body">
+                        <a href="<?php echo $base_url;?>resources/labour-laws-country.php" title="Jeddah" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -99,7 +99,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Muscat" class="panel-body">
+                        <a href="<?php echo $base_url;?>resources/labour-laws-country.php" title="Muscat" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -115,7 +115,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Sharjah" class="panel-body">
+                        <a href="<?php echo $base_url;?>resources/labour-laws-country.php" title="Sharjah" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -131,7 +131,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Yanbu" class="panel-body">
+                        <a href="<?php echo $base_url;?>resources/labour-laws-country.php" title="Yanbu" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -149,7 +149,7 @@
                <div class="row">
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="../uae/jobs/city/al-ain.html" title="Al Ain" class="panel-body">
+                        <a href="<?php echo $base_url;?>resources/labour-laws-country.php" title="Al Ain" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -165,7 +165,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Kuwait City" class="panel-body">
+                        <a href="<?php echo $base_url;?>resources/labour-laws-country.php" title="Kuwait City" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -181,7 +181,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Sharjah" class="panel-body">
+                        <a href="<?php echo $base_url;?>resources/labour-laws-country.php" title="Sharjah" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -197,7 +197,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Sharjah" class="panel-body">
+                        <a href="<?php echo $base_url;?>resources/labour-laws-country.php" title="Sharjah" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -213,7 +213,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Sharjah" class="panel-body">
+                        <a href="<?php echo $base_url;?>resources/labour-laws-country.php" title="Sharjah" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -229,7 +229,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Sharjah" class="panel-body">
+                        <a href="<?php echo $base_url;?>resources/labour-laws-country.php" title="Sharjah" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -245,7 +245,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Sharjah" class="panel-body">
+                        <a href="<?php echo $base_url;?>resources/labour-laws-country.php" title="Sharjah" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">
@@ -261,7 +261,7 @@
                   </div>
                   <div class="col-sm-6">
                      <div class="panel panel-default panel-hover">
-                        <a href="#" title="Sharjah" class="panel-body">
+                        <a href="<?php echo $base_url;?>resources/labour-laws-country.php" title="Sharjah" class="panel-body">
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-2x hover-expand">

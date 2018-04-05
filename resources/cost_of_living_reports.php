@@ -47,29 +47,29 @@
                        <h4 class="header-ribbon space-top-sm">Most popular reports</h4>
                        <div class="row">
                           <div class="col-sm-8">
-                             <a target="_blank" href="/cost-of-living-reports/uae-full-report-16-17">
+                             <a target="_blank" href="<?php echo $base_url; ?>resources/cost_of_living_reports_detail.php">
                              <img src="https://gulftalent.cdn.prismic.io/gulftalent/90b8c6ea092293e58133cde1a1b7493e3da97d26_cost-of-living-uae-report-2016-2017.jpg" class="img-responsive">
                              </a>
-                             <a target="_blank" href="#" class="space-top-xs">Cost of Living UAE Report 2016-17</a>
-                             <a href="#" class="space-top-sm btn btn-primary btn-sm btn-block" target="_blank">
+                             <a target="_blank" href="<?php echo $base_url; ?>resources/cost_of_living_reports_detail.php" class="space-top-xs">Cost of Living UAE Report 2016-17</a>
+                             <a href="<?php echo $base_url; ?>resources/cost_of_living_reports_detail.php" class="space-top-sm btn btn-primary btn-sm btn-block" target="_blank">
                              Learn more
                              </a>
                           </div>
                           <div class="col-sm-8">
-                             <a target="_blank" href="/cost-of-living-reports/ksa-full-report-15-16">
+                             <a target="_blank" href="<?php echo $base_url; ?>resources/cost_of_living_reports_detail.php">
                              <img src="https://gulftalent.cdn.prismic.io/gulftalent/0a02c97cfb642a5801ba042cb7f25e7231ec95b4_cost-of-living-saudi-arabia-report-2015-2016.jpg" class="img-responsive">
                              </a>
-                             <a target="_blank" href="#" class="space-top-xs">Cost of Living KSA Report 2015-16</a>
-                             <a href="#" class="space-top-sm btn btn-primary btn-sm btn-block" target="_blank">
+                             <a target="_blank" href="<?php echo $base_url; ?>resources/cost_of_living_reports_detail.php" class="space-top-xs">Cost of Living KSA Report 2015-16</a>
+                             <a href="<?php echo $base_url; ?>resources/cost_of_living_reports_detail.php" class="space-top-sm btn btn-primary btn-sm btn-block" target="_blank">
                              Learn more
                              </a>
                           </div>
                           <div class="col-sm-8">
-                             <a target="_blank" href="/cost-of-living-reports/qatar-full-report-15-16">
+                             <a target="_blank" href="<?php echo $base_url; ?>resources/cost_of_living_reports_detail.php">
                              <img src="https://gulftalent.cdn.prismic.io/gulftalent/b69670471a1daeba11839623d6234d7e1cda3691_cost-of-living-qatar-report-2015-2016.jpg" class="img-responsive">
                              </a>
-                             <a target="_blank" href="#" class="space-top-xs">Cost of Living Qatar Report 2015-16</a>
-                             <a href="#" class="space-top-sm btn btn-primary btn-sm btn-block" target="_blank">
+                             <a target="_blank" href="<?php echo $base_url; ?>resources/cost_of_living_reports_detail.php" class="space-top-xs">Cost of Living Qatar Report 2015-16</a>
+                             <a href="<?php echo $base_url; ?>resources/cost_of_living_reports_detail.php" class="space-top-sm btn btn-primary btn-sm btn-block" target="_blank">
                              Learn more
                              </a>
                           </div>

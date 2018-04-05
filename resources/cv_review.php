@@ -62,7 +62,7 @@
                        </div>
                     </div>
                     <div class="list-group">
-                       <a class="list-group-item" href="#">
+                       <a class="list-group-item" href="<?php echo $base_url;?>resources/job-search-support.php">
                        <i class="fa fa-fw fa-chevron-right"></i>
                        Back to Job Search Support
                        </a>
@@ -84,7 +84,7 @@
                  </div>
                  <div class="panel panel-default">
                     <div class="list-group">
-                       <a class="list-group-item" href="#">
+                       <a class="list-group-item" href="<?php echo $base_url;?>register/online_cv.php">
                           <div class="media">
                              <div class="media-object pull-left">
                                 <i class="fa fa-fw fa-chevron-right"></i>
@@ -94,7 +94,7 @@
                              </div>
                           </div>
                        </a>
-                       <a class="list-group-item" href="#">
+                       <a class="list-group-item" href="<?php echo $base_url;?>resources/public-career-fairs.php">
                           <div class="media">
                              <div class="media-object pull-left">
                                 <i class="fa fa-fw fa-chevron-right"></i>

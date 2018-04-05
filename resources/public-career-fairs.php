@@ -4,8 +4,10 @@
       <div class="container">
          <div class="row">
            <div class="col-sm-24">
-              <h1>Free CV Writing</h1>
+              <h1>Middle East Career Fairs</h1>
+              <h2 class="s_headingjobs">Job Expos and Career Events in the Middle East *</h2>
            </div>
+
          </div>
       </div>
    </div>
@@ -16,83 +18,83 @@
              <div class="row">
               <div class="col-sm-16 reset-width">
                  <div class="panel panel-default">
-                    <div class="panel-heading">
-                      <div class="panel-heading">
-                        <div class="row">
-                           <div class="col-xs-18">
-                              <h1 class="panel-title">
-                                 CV Writing Services
-                              </h1>
-                              <h2 class="text-med text-regular space-top-xs">
-                                 By "TopCV"
-                              </h2>
-                           </div>
-                           <div class="col-xs-6">
-                              <img src="<?php echo $base_url; ?>assets\images1\logos\topcv_logoa95c.png" alt="TopCV" title="TopCV" class="img-responsive pull-right">
-                           </div>
-                        </div>
+                   <div class="panel panel-default">
+                      <div class="panel-body">
+                          <table class="table table-hover table-section">
+                              <thead>
+                                  <tr>
+                                      <th></th>
+                                      <th>Event</th>
+                                      <th>Date</th>
+                                      <th>Location</th>
+                                  </tr>
+                              </thead>
+                              <tbody>
+                                                  </tbody>
+                          </table>
+                          <p class="text-base">* Excluding university career fairs</p>
                       </div>
-                    </div>
-                    <div class="panel-body">
-                        <p>An employer spends an average of <strong>30 seconds</strong> on a CV. Make sure you show your best!</p>
-                        <p>With a professionally written CV, you can double your chances of getting an interview call.</p>
-                        <p>
-                            GulfTalent has partnered with “TopCV” to help you write a professional CV and boost your job search.
-                            Most CV Writing services simply recycle your existing CV, but with “TopCV” you will receive a document that has
-                            been comprehensively rewritten, reformatted, and keyword optimised.
-                        </p>
-                    </div>
-                    <h4 class="space-top-sm header-ribbon">How it works</h4>
-                    <div class="panel-body">
-                       <img class="space-left-sm img-responsive" src="<?php echo $base_url; ?>assets\images1\cv_writing_processa95c.png">
-                       <div class="row space-top-lg">
-                          <div class="col-sm-12 col-sm-offset-6">
-                             <a class="btn btn-primary btn-block btn-lg" target="_blank" href="#">
-                             Select your CV Writing package
-                             </a>
-                          </div>
-                       </div>
-                    </div>
-                    <div class="list-group">
-                       <a class="list-group-item" href="<?php echo $base_url; ?>resources/job-search-support.php">
-                       <i class="fa fa-fw fa-chevron-right"></i>
-                       Back to Job Search Support
-                       </a>
-                    </div>
+                  </div>
                  </div>
               </div>
               <div class="col-sm-8 hidden-print">
-                 <div class="panel panel-default">
-                    <div class="panel-body panel-body-ad">
-                       <div style="width: 300px; height: 240px;" >
-                         <a href="#">
-                           <img src="<?php echo $base_url; ?>assets/img/cv.png" width="300px" height="230px">
-                         </a>
-                       </div>
-                    </div>
-                 </div>
                  <div class="panel-heading">
-                    <div class="text-heading panel-title s-panel-title text-capitalize">Other Career Resources</div>
+                    <div class="text-heading panel-title s-panel-title text-capitalize">Find Job</div>
                  </div>
                  <div class="panel panel-default">
                     <div class="list-group">
-                       <a class="list-group-item" href="<?php echo $base_url;?>register/online_cv.php">
+                       <a class="list-group-item" href="<?php echo $base_url; ?>jobs/executive.php" >
                           <div class="media">
                              <div class="media-object pull-left">
-                                <i class="fa fa-fw fa-chevron-right"></i>
+                                <i class="flag flag-KL"></i>
                              </div>
                              <div class="media-body">
-                                <div class="text-medium text-overflow text-section">Free CV Builder</div>
+                                <div class="text-medium text-overflow text-section">Kuala Lumpur </div>
+                                <p class="text-sm text-supermuted">(1,747)</p>
                              </div>
                           </div>
                        </a>
-                       <a class="list-group-item" href="<?php echo $base_url;?>resources/public-career-fairs.php">
+                       <a class="list-group-item" href="<?php echo $base_url; ?>jobs/executive.php" >
                           <div class="media">
                              <div class="media-object pull-left">
-                                <i class="fa fa-fw fa-chevron-right"></i>
+                                <i class="flag flag-SE"></i>
                              </div>
                              <div class="media-body">
-                                <div class="text-medium text-overflow text-section">Public Career Fairs </div>
+                                <div class="text-medium text-overflow text-section">Selongar </div>
+                                <p class="text-sm text-supermuted">(298)</p>
+                             </div>
+                          </div>
+                       </a>
+                       <a class="list-group-item" href="<?php echo $base_url; ?>jobs/executive.php" >
+                          <div class="media">
+                             <div class="media-object pull-left">
+                                <i class="flag flag-PE"></i>
+                             </div>
+                             <div class="media-body">
+                                <div class="text-medium text-overflow text-section">Penang </div>
+                                <p class="text-sm text-supermuted">(432)</p>
+                             </div>
+                          </div>
+                       </a>
+                       <a class="list-group-item" href="<?php echo $base_url; ?>jobs/executive.php" >
+                          <div class="media">
+                             <div class="media-object pull-left">
+                                <i class="flag flag-JO"></i>
+                             </div>
+                             <div class="media-body">
+                                <div class="text-medium text-overflow text-section">Johar </div>
+                                <p class="text-sm text-supermuted">(432)</p>
+                             </div>
+                          </div>
+                       </a>
+                       <a class="list-group-item" href="<?php echo $base_url; ?>jobs/executive.php" >
+                          <div class="media">
+                             <div class="media-object pull-left">
+                                <i class="flag flag-SA"></i>
+                             </div>
+                             <div class="media-body">
+                                <div class="text-medium text-overflow text-section">Sarawak </div>
+                                <p class="text-sm text-supermuted">(432)</p>
                              </div>
                           </div>
                        </a>

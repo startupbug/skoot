@@ -17,7 +17,7 @@
               <div class="col-sm-24">
                  <div class="row">
                     <div class="col-sm-8">
-                       <a class="panel panel-default panel-hover" href="#">
+                       <a class="panel panel-default panel-hover" href="<?php echo $base_url;?>register/online_cv.php">
                           <div class="panel-heading">
                              <h3 class="panel-title">Free CV Builder</h3>
                           </div>

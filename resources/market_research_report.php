@@ -11,7 +11,6 @@
       </div>
    </div>
    <div class="page-content">
-     
       <div class="container">
          <div class="row">
             <div class="col-sm-24">
@@ -25,16 +24,13 @@
                      <div class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
-                              <!--<a href="market-research-reports/employment-and-salary-trends-in-the-gulf-2016-43.html">-->
-                              	<a href="#">
+                              <a href="#">
                               <img src="<?php echo $base_url;?>assets/img/market_report.png" alt="Employment and Salary Trends in the Gulf 2016" width="205px"/>
                               </a>
                            </div>
                            <div class="media-body">
                               <div class="space-bottom-sm">
-                            <!--<a href="market-research-reports/employment-and-salary-trends-in-the-gulf-2016-43.html"
-                            class="text-med">-->
-                            <a href="#">
+                                 <a href="#">
                                  Employment and Salary Trends in the Gulf 2016
                                  </a>
                               </div>
@@ -43,10 +39,9 @@
                                  <li>Recruitment trends</li>
                                  <li>Salary trends by country and sector</li>
                               </ul>
-                             <a href="#">
-                              	<!--<a href="market-research-reports/employment-and-salary-trends-in-the-gulf-2016-arabic-45.html">-->
-                              <i class="fa fa-fw fa-chevron-right text-primary"></i>
-                              Get Arabic Version (&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;)
+                              <a href="#">
+                                 <i class="fa fa-fw fa-chevron-right text-primary"></i>
+                                 Get Arabic Version (&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;)
                               </a>
                            </div>
                         </div>
@@ -54,16 +49,13 @@
                      <div class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
-                           	 <a href="#">
-                              <!--<a href="market-research-reports/recruitment-of-top-graduates-in-the-uae-2016-46.html">-->
-                               <img src="<?php echo $base_url;?>assets/img/market_report.png" alt="Employment and Salary Trends in the Gulf 2016" width="205px"/>
+                              <a href="#">
+                                 <img src="<?php echo $base_url;?>assets/img/market_report.png" alt="Employment and Salary Trends in the Gulf 2016" width="205px"/>
                               </a>
                            </div>
                            <div class="media-body">
                               <div class="space-bottom-sm">
-                                 <!--<a href="market-research-reports/recruitment-of-top-graduates-in-the-uae-2016-46.html"
-                                    class="text-med">-->
-                                    <a href="#">
+                                 <a href="#">
                                  Recruitment of Top Graduates in the UAE 2016
                                  </a>
                               </div>
@@ -78,17 +70,14 @@
                      <div class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
-                              <!--<a href="market-research-reports/recruitment-of-top-graduates-in-saudi-arabia-2016-47.html">-->
-                              	<a href="#">
-                               <img src="<?php echo $base_url;?>assets/img/market_report.png" alt="Employment and Salary Trends in the Gulf 2016" width="205px"/>
+                              <a href="#">
+                              <img src="<?php echo $base_url;?>assets/img/market_report.png" alt="Employment and Salary Trends in the Gulf 2016" width="205px"/>
                               </a>
                            </div>
                            <div class="media-body">
                               <div class="space-bottom-sm">
                                  <a href="#">
-                                    <!--<a href="market-research-reports/recruitment-of-top-graduates-in-saudi-arabia-2016-47.html"
-                                    class="text-med">-->
-                                 Recruitment of Top Graduates in Saudi Arabia 2016
+                                    Recruitment of Top Graduates in Saudi Arabia 2016
                                  </a>
                               </div>
                               <ul class="list-symbol-bullet list-symbol-section text-base text-regular">
@@ -102,8 +91,7 @@
                      <div class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
-                              <!--<a href="market-research-reports/employment-and-salary-trends-in-the-gulf-2015-41.html">-->
-                              	<a href="#">
+                              <a href="#">
                               <img src="<?php echo $base_url;?>assets/img/market_report.png" alt="Employment and Salary Trends in the Gulf 2016" width="205px"/>
                               </a>
                            </div>
@@ -129,9 +117,8 @@
                      <div class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
-                              <!--<a href="market-research-reports/employment-and-salary-trends-in-the-gulf-2014-37.html">-->
-                              	 <a href="#">
-                               <img src="<?php echo $base_url;?>assets/img/market_report.png" alt="Employment and Salary Trends in the Gulf 2016" width="205px"/>
+                              <a href="#">
+                              <img src="<?php echo $base_url;?>assets/img/market_report.png" alt="Employment and Salary Trends in the Gulf 2016" width="205px"/>
                               </a>
                            </div>
                            <div class="media-body">
@@ -189,16 +176,11 @@
                <div class="panel panel-default">
                   <div class="panel-body panel-body-ad">
                      <div>
-                       
-                        
-                       <img src="<?php echo $base_url;?>assets/img/cv.png" alt="Employment and Salary Trends in the Gulf 2016" width="100%"/>
-                       
+                        <img src="<?php echo $base_url;?>assets/img/cv.png" alt="Employment and Salary Trends in the Gulf 2016" width="100%"/>
                      </div>
                   </div>
                   <div class="list-group f_heading">
-                  	  <!--<a class="list-group-item" href="../advertising-agencies.html">-->
-                  	  	
-                     <a class="list-group-item f_item" href="#">
+                     <a class="list-group-item f_item" href="<?php echo $base_url; ?>register/advertising_agencies.php">
                      <i class="fa fa-fw fa-chevron-right text-primary f_right"></i>
                      Advertise Here
                      </a>
@@ -209,15 +191,12 @@
                      <div class="text-heading panel-title">Find Jobs</div>
                   </div>
                   <div class="list-group">
-                  	<!--<a class="list-group-item" href="../uae/jobs.html">-->
-                  		
-                     <a class="list-group-item f_item" href="#">
+                     <a class="list-group-item f_item" href="<?php echo $base_url; ?>jobs/executive.php" >
                         <div class="media">
                            <div class="media-object pull-left">
-                              <!--<i class="flag flag-base flag-AE"></i>-->
                               <div class="media-object pull-left">
-                                    <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
-                                 </div>
+                                 <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
+                              </div>
                            </div>
                            <div class="">
                               <div class="text-medium text-overflow">Kuala lampur </div>
@@ -225,14 +204,12 @@
                            </div>
                         </div>
                      </a>
-                     <!--<a class="list-group-item" href="../qatar/jobs.html">-->
-                     	 <a class="list-group-item f_item" href="#">
+                     <a class="list-group-item f_item" href="<?php echo $base_url; ?>jobs/executive.php" >
                         <div class="media">
                            <div class="media-object pull-left">
-                              <!--<i class="flag flag-base flag-QA"></i>-->
                               <div class="media-object pull-left">
-                                    <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
-                                 </div>
+                                 <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
+                              </div>
                            </div>
                            <div class="">
                               <div class="text-medium text-overflow">Selongar </div>
@@ -240,14 +217,12 @@
                            </div>
                         </div>
                      </a>
-                     <!--<a class="list-group-item" href="../saudi-arabia/jobs.html">-->
-                     	<a class="list-group-item f_item" href="#">
+                     <a class="list-group-item f_item" href="<?php echo $base_url; ?>jobs/executive.php" >
                         <div class="media">
                            <div class="media-object pull-left">
-                              <!--<i class="flag flag-base flag-SA"></i>-->
                               <div class="media-object pull-left">
-                                    <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
-                                 </div>
+                                 <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
+                              </div>
                            </div>
                            <div class="">
                               <div class="text-medium text-overflow">Penang </div>
@@ -255,13 +230,12 @@
                            </div>
                         </div>
                      </a>
-                     <a class="list-group-item f_item" href="#">
+                     <a class="list-group-item f_item" href="<?php echo $base_url; ?>jobs/executive.php" >
                         <div class="media">
                            <div class="media-object pull-left">
-                             <!-- <i class="flag flag-base flag-SA"></i>-->
-                             <div class="media-object pull-left">
-                                    <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
-                                 </div>
+                              <div class="media-object pull-left">
+                                 <i class="fa fa-fw fa-building-o text-section fa-2x"></i>
+                              </div>
                            </div>
                            <div class="">
                               <div class="text-medium text-overflow">Johar </div>
@@ -269,8 +243,7 @@
                            </div>
                         </div>
                      </a>
-                     <!--<a class="list-group-item hidden-print" href="../jobs.html">-->
-                     	 <a class="list-group-item f_item hidden-print" href="#">
+                     <a class="list-group-item f_item hidden-print" href="#">
                      <i class="fa fa-fw fa-chevron-right f_right"></i>
                      View all Cities
                      </a>
@@ -280,7 +253,5 @@
          </div>
       </div>
    </div>
-
 </main>
-
 <?php include('../footer.php'); ?>

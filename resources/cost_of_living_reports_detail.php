@@ -4,18 +4,8 @@
       <div class="container">
          <div class="row">
            <div class="col-sm-24">
-              <h1>Jobs for Executives</h1>
-              <h3 class="s_headingjobs">Find courses in your field</h3>
-              <form class="form-inline space-bottom-xs hidden-print" action="#">
-                  <div class="form-group form-group-lg inner-addon left-addon s-color-white">
-                     <i class="fa fa-search"></i>
-                     <input type="text" autocomplete="off" placeholder="Enter job title or keywords" name="pos_ref" class="form-control input-lg input-blk s-input-lg s-input-lg-job" />
-                  </div>
 
-                 <button type="submit" class="btn btn-lg btn-primary btn-corner"> Job Search</button>
-              </form>
            </div>
-
          </div>
       </div>
    </div>

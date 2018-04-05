@@ -4,18 +4,8 @@
       <div class="container">
          <div class="row">
            <div class="col-sm-24">
-              <h1>Jobs for Executives</h1>
-              <h3 class="s_headingjobs">Find courses in your field</h3>
-              <form class="form-inline space-bottom-xs hidden-print" action="#">
-                  <div class="form-group form-group-lg inner-addon left-addon s-color-white">
-                     <i class="fa fa-search"></i>
-                     <input type="text" autocomplete="off" placeholder="Enter job title or keywords" name="pos_ref" class="form-control input-lg input-blk s-input-lg s-input-lg-job" />
-                  </div>
 
-                 <button type="submit" class="btn btn-lg btn-primary btn-corner"> Job Search</button>
-              </form>
            </div>
-
          </div>
       </div>
    </div>
@@ -25,125 +15,82 @@
           <div class="container">
              <div class="row">
               <div class="col-sm-16 reset-width">
-                 <div class="panel panel-default">
-                    <div class="panel-heading">
-                       <h1 class="panel-title s_font_20">Cost of Living Malaysia Report 2016-17</h1>
-                    </div>
-                    <div class="list-group">
-                       <div class="list-group-item">
-                          <div class="media">
-                             <div class="media-object pull-left">
-                                <img src="<?php echo $base_url; ?>assets\images1\1Cost_of_Livinga95c.png" width="205px">
-                             </div>
-                             <div class="media-body">
-                                <p class="s_par">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur:</p>
-                                <ul class="list-symbol-bullet s_par_list">
-                                   <li>At vero eos et accusamus</li>
-                                   <li>Quibusdam et aut officiis</li>
-                                   <li>Rerum necessitatibus saepe</li>
-                                   <li>At vero eos et accusamus</li>
-                                   <li>Quibusdam et aut officiis</li>
-                                   <li>Rerum necessitatibus saepe</li>
-                                </ul>
-                             </div><br>
-                             <p class="s_par">ed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo prots inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. All in nemo enim ipsam voluptatem quia voluptas sit aspernatu</p>
-                          </div>
-                       </div>
-                    </div>
-                 </div>
-                 <div class="panel panel-default">
-                    <div class="panel-heading">
-                       <h3 class="panel-title s_font_20">Report Details</h3>
-                    </div>
-                    <div class="list-group">
-                       <a href="#" class="list-group-item">
-                          <div class="media">
-                             <div class="media-body">
-                                <ul class="list-symbol-bullet s_par_lists">
-                                   <li>
-                                     <b>At vero eos et accusamus:</b>
-                                     Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur
-                                   </li>
-                                   <li>
-                                     <b>Eos et accusamus:</b>
-                                     Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur
-                                   </li>
-                                   <li>
-                                     <b> At vero eos et accusamus: </b>
-                                     Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur
-                                   </li>
-                                   <li>
-                                     <b> Vero eos et accusamus: </b>
-                                     Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur
-                                   </li>
-                                   <li>
-                                     <b>  At vero eos et accusamus:  </b>
-                                     Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur
-                                   </li>
-                                </ul>
-                                <div class="row">
-                                  <div class="col-sm-offset-7 col-sm-10">
-                                    <div class="panel panel-default panel-bordered">
-                                      <div class="panel-body">
-                                          <h2 class="text-center text-secondary space-top-none space-bottom-none">
-                                              Full Report
-                                          </h2>
-                                          <hr>
-                                          <div class="s_par s_par_color space-bottom-sm space-top-med text-center text-regular">
-                                              Granular level data - all charts and tables with commentaries
-                                          </div>
-                                          <button type="button" class="btn btn-primary btn-lg btn-block col-sm-24" gt-modal-order-cost-of-living-report="" gt-modal-order-cost-of-living-report-title="Cost of Living UAE Report 2016-17 (Full Report)" gt-modal-order-cost-of-living-report-price="1950">
-                                              Buy Now
-                                          </button>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                             </div>
-                          </div>
-                       </a>
-
-                    </div>
-                 </div>
-                 <div class="panel panel-default">
-                    <div class="panel-heading">
-                       <h3 class="panel-title s_font_20">Industry-wise Salary Reports</h3>
-                    </div>
-                    <div class="list-group space-top-sm">
-                      <div class="media">
-                         <div class="media-body">
-                            <p class="text-secondary s_par">At vero eos et accusamus: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur</p>
-                            <p class="s_par s_par_color">Neque porro quisq</p>
-                            <ul class="list-symbol-bullet s_par_list">
-                               <li>
-                                 Eos et accusamus
-                               </li>
-                               <li>
-                                  At vero eos et accusamus
-                               </li>
-                            </ul>
-                            <p class="s_par s_par_color">Call us on +971 2 345 6789, or email info@joblane.com to know more.</p>
+                <div class="panel panel-default">
+                   <div class="panel-heading">
+                      <h1 class="panel-title">Malaysia Labour Law</h1>
+                   </div>
+                   <div class="list-group">
+                      <div class="list-group-item">
+                         <div class="media">
+                            <div class="media-object pull-left">
+                               <img src="<?php echo $base_url; ?>assets\images1\1Cost_of_Livinga95c.png" width="205px">
+                            </div>
+                            <div class="media-body">
+                               <p class="text-base text-body">Latest information for UAE on:</p>
+                               <ul class="list-symbol-bullet list-symbol-section text-base text-body">
+                                  <li>Types of contracts and probationary periods</li>
+                                  <li>Casual and sick leaves</li>
+                                  <li>End of service gratuity and termination laws</li>
+                               </ul>
+                            </div>
                          </div>
-                      </div><br>
-                    </div>
-                 </div>
-                 <div class="panel panel-default">
-                    <div class="panel-heading">
-                       <h3 class="panel-title s_font_20">About BridgeTheData</h3>
-                    </div>
-                    <div class="list-group">
-                       <a href="#" class="list-group-item">
-                          <div class="media">
-                             <div class="media-body">
-                                <p class="s_par s_par_color">
-                                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,
-                                </p>
-                             </div>
-                          </div>
-                       </a>
-                    </div>
-                 </div>
-
+                      </div>
+                      <a class="list-group-item-main hidden-print">
+                      Get this Publication (Free)
+                      <i class="fa fa-angle-double-right"></i>
+                      </a>
+                   </div>
+                </div>
+                <div class="panel panel-default">
+                   <div class="panel-heading">
+                      <h3 class="panel-title">You may also be interested in: </h3>
+                   </div>
+                   <div class="list-group">
+                      <a href="#" class="list-group-item">
+                         <div class="media">
+                            <div class="media-object pull-left">
+                               <img src="<?php echo $base_url; ?>assets\images1\1Cost_of_Livinga95c.png" alt="Saudi Arabia Labour Law" width="205px">
+                            </div>
+                            <div class="media-body">
+                               <p class="text-heading text-med text-secondary">Saudi Arabia Labour Law</p>
+                               <ul class="list-symbol-bullet list-symbol-section text-base text-regular">
+                                  <li>Latest Labour Laws for Saudi Arabia</li>
+                               </ul>
+                            </div>
+                         </div>
+                      </a>
+                      <a href="#" class="list-group-item">
+                         <div class="media">
+                            <div class="media-object pull-left">
+                               <img src="<?php echo $base_url; ?>assets\images1\1Cost_of_Livinga95c.png" alt="Qatar Labour Law" width="205px">
+                            </div>
+                            <div class="media-body">
+                               <p class="text-heading text-med text-secondary">Qatar Labour Law</p>
+                               <ul class="list-symbol-bullet list-symbol-section text-base text-regular">
+                                  <li>Latest Labour Laws for Qatar</li>
+                               </ul>
+                            </div>
+                         </div>
+                      </a>
+                      <a href="#" class="list-group-item">
+                         <div class="media">
+                            <div class="media-object pull-left">
+                               <img src="<?php echo $base_url; ?>assets\images1\1Cost_of_Livinga95c.png" alt="Bahrain Labour Law" width="205px">
+                            </div>
+                            <div class="media-body">
+                               <p class="text-heading text-med text-secondary">Bahrain Labour Law</p>
+                               <ul class="list-symbol-bullet list-symbol-section text-base text-regular">
+                                  <li>Latest Labour Laws for Bahrain</li>
+                               </ul>
+                            </div>
+                         </div>
+                      </a>
+                      <a href="<?php echo $base_url;?>resources/market_research_report.php" class="list-group-item">
+                      <i class="fa fa-fw fa-chevron-right"></i>
+                      See more titles &amp; Arabic versions (العربية)
+                      </a>
+                   </div>
+                </div>
               </div>
               <div class="col-sm-8 hidden-print">
                  <div class="panel panel-default">
@@ -158,28 +105,6 @@
                        <a class="list-group-item-main hidden-print text-left" href="<?php echo $base_url; ?>register/advertising_agencies.php">
                          <i class="fa fa-caret-right s_text_color-project"></i>
                          Advertise Here
-                       </a>
-                    </div>
-                 </div>
-                 <div class="panel-heading">
-                    <div class="text-heading panel-title s-panel-title text-capitalize">Read summary article</div>
-                 </div>
-                 <div class="panel panel-default">
-                    <div class="list-group">
-                       <a href="#" class="list-group-item">
-                          <div class="media">
-                             <div class="media-object pull-left">
-                                <img src="<?php echo $base_url; ?>assets/images/articles/salary2016a95c.jpg?v2_68_0" width="80px">
-                             </div>
-                             <div class="media-body s_par">
-                                2016 Gulf pay rises lowest in a decade, despite rising costs
-                                <br>
-                                <span class="text-sm text-muted">
-                                  <i class="fa fa-eye"></i>
-                                  50,078 views
-                                </span>
-                             </div>
-                          </div>
                        </a>
                     </div>
                  </div>
@@ -242,6 +167,33 @@
                                 <p class="text-sm text-supermuted">(432)</p>
                              </div>
                           </div>
+                       </a>
+                    </div>
+                 </div>
+                 <div class="panel panel-default">
+                   <div class="panel-heading">
+                      <h2 class="panel-title s_font_20">Find top talent</h2>
+                   </div>
+                    <div class="panel-body panel-body-ad">
+                      <div class="media-body find-top-talent-p">
+                        <p>
+                          <i class="fa fa-caret-right s_text_color-project"></i>
+                          Access entire database of over 7 million quality candidates
+                        </p>
+                        <p>
+                          <i class="fa fa-caret-right s_text_color-project"></i>
+                          Advertise your vacancies with advanced screening tools
+                        </p>
+                        <p>
+                          <i class="fa fa-caret-right s_text_color-project"></i>
+                          Free unlimited multiple users
+                        </p>
+                      </div>
+                    </div>
+                    <div class="list-group">
+                       <a class="list-group-item-main hidden-print text-left" href="<?php echo $base_url;?>employeer/employer_job.php">
+                         <i class="fa fa-caret-right s_text_color-project"></i>
+                         Start recruiting now
                        </a>
                     </div>
                  </div>

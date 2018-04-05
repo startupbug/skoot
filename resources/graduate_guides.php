@@ -39,7 +39,7 @@
                          </div>
                       </div>
                       <div class="list-group">
-                        <a class="list-group-item" href="#">
+                        <a class="list-group-item" href="<?php echo $base_url;?>resources/graduate_guides_detail.php">
                           <i class="fa fa-fw fa-chevron-right"></i>
                           Get this publication free
                         </a>
@@ -68,7 +68,7 @@
                          </div>
                       </div>
                       <div class="list-group">
-                        <a class="list-group-item" href="#">
+                        <a class="list-group-item" href="<?php echo $base_url;?>resources/graduate_guides_detail.php">
                           <i class="fa fa-fw fa-chevron-right"></i>
                           Get this publication free
                         </a>
@@ -82,7 +82,7 @@
                    <div class="row">
                       <div class="col-sm-6">
                          <div class="panel panel-default panel-hover">
-                            <a href="#" title="Dubai" class="panel-body">
+                            <a href="<?php echo $base_url;?>jobs/executive.php" title="Dubai" class="panel-body">
                                <div class="media container-xs-height media-height-sm">
                                   <div class="media-object pull-left">
                                      <div class="icon icon-2x hover-expand">
