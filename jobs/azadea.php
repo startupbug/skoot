@@ -172,7 +172,9 @@
                     
                       <div class="collapsible-body collapse" style="height: auto;">
                         <div class="space-top-sm space-bottom-sm space-left-xs text-regular text-base text-gray">
+                          <a href="<?php echo $base_url;?>jobs/restuarant_manager.php">
                            Restaurant Manager
+                         </a>
                             <div class="pull-right">
                            Egypt
                         </div>

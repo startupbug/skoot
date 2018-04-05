@@ -1,6 +1,6 @@
 <?php include('../header.php'); ?>
 <main id="main-block">
-   <div class="page-content">
+   <div class="">
       <div style="background-image: url(<?php echo $base_url; ?>assets/images/hero_advertising_agenciesa95c.jpg)" class="jumbotron bg-cover">
          <div class="container">
             <div class="row">
