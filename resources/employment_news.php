@@ -43,12 +43,15 @@
                                        views
                                     </span><br><br>
                                     <span>
-                                       Businesses across the UAE are scrambling to hire new talent for their rapidly changing IT needs, brought about by the consumer shift to mobile, evolving web technologies and increasing cyber threats, according to a study of the UAE’s IT job market
+                                       Businesses across the UAE are scrambling to hire new talent for their rapidly changing IT needs, brought about by the consumer shift to mobile, evolving web technologies and increasing cyber threats, according to a study of the UAE’s IT job market.
                         
                                     </span>
+
                                  </p>
 
+
                               </div>
+
                            </div>
                         </a>
                        
@@ -198,7 +201,7 @@
                         </div>
                         <div class="list-group">
                            <a class="list-group-item"
-                              href="#">
+                              href="<?php echo $base_url;?>resources/employment_salaries.php">
                               <div class="media">
                                  <div class="media-object pull-left">
                                    <img src="<?php echo $base_url; ?>assets\img\employment_news.png" height="50px" width="70px">

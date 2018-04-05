@@ -168,7 +168,7 @@
                            <li>Reputed training providers</li>
                         </ul>
                         <div class="text-center">
-                           <a href="courses.html" class="btn btn-block btn-lg btn-section">
+                           <a href="<?php echo $base_url;?>courses/search.php" class="btn btn-block btn-lg btn-section">
                            View HR Courses
                            </a>
                         </div>
@@ -199,7 +199,7 @@
                            <li>Share you insights</li>
                         </ul>
                         <div class="text-center">
-                           <a href="events.html" class="btn btn-block btn-lg btn-section">
+                           <a href="<?php echo $base_url;?>resources/event.php" class="btn btn-block btn-lg btn-section">
                            View HR Events
                            </a>
                         </div>
@@ -230,7 +230,7 @@
                            <li>Labor laws, guides on hiring</li>
                         </ul>
                         <div class="text-center">
-                           <a href="resources.html" class="btn btn-lg btn-block btn-section">View HR Resources</a>
+                           <a href="<?php echo $base_url;?>resources/resources_home.php" class="btn btn-lg btn-block btn-section">View HR Resources</a>
                         </div>
                      </div>
                   </div>

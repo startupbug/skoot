@@ -12239,3 +12239,6 @@ h2.f-about {
     border-bottom: 1px solid #ddd;
    
 }
+a.course_f:hover {
+    color: #0077b5;
+}
