@@ -10,6 +10,7 @@
 <head>
 
    <link href="<?php echo $base_url; ?>assets/css/gt-common.mina95c.css" type="text/css" rel="stylesheet" />
+   <link href="<?php echo $base_url; ?>assets/css/w3.css" type="text/css" rel="stylesheet" />
    <link href="<?php echo $base_url; ?>assets/css/s_css.css" type="text/css" rel="stylesheet" />
    <title>Skoot job</title>
    <meta charset="utf-8" />
@@ -21,7 +22,7 @@
    <link rel="icon" href="favicona95c.ico" type="image/x-icon" />
    <link rel="shortcut icon" href="favicona95c.ico" type="image/x-icon" />
    <link rel="alternate" media="only screen and (max-width: 640px)" href="mobile/index.html" />
-   
+
 
 </head>
 <body class="section-theme">
