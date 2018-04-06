@@ -119,7 +119,7 @@
                        <div class="text-heading panel-title">Read summary article</div>
                     </div>
                     <div class="list-group">
-                       <a href="#" class="list-group-item">
+                       <a href="<?php echo $base_url;?>resources/employment_salaries.php" class="list-group-item">
                           <div class="media">
                              <div class="media-object pull-left">
                                 <img src="<?php echo $base_url; ?>assets\images\articles\salary2016a95c.jpg" width="80px">

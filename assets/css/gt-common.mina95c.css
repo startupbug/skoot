@@ -7004,7 +7004,7 @@ tbody.collapse.in{
     border-top-width:3px;
     border-bottom-width:0;
     border-radius:3px 3px 0 0;
-    z-index:999
+    /* z-index:999 */
 }
 .nav-tabs-main>li>a:focus,.nav-tabs-main>li>a:hover{
     background-color:transparent
@@ -12237,7 +12237,7 @@ h2.f-about {
 .f_bottom {
     margin-top: -1px;
     border-bottom: 1px solid #ddd;
-   
+
 }
 a.course_f:hover {
     color: #0077b5;
