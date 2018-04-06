@@ -88,7 +88,7 @@ function tab (id) {
     $("#"+id+"_view").css("display", "block");
     $("#tab2_view").css("display", "none");
     $("#tab3_view").css("display", "none");
-    $("#tab4_view").css("display", "none");  
+    $("#tab4_view").css("display", "none");
   }
   else if (id == "tab2") {
     $("#"+id+"_view").css("display", "block");
@@ -108,6 +108,18 @@ function tab (id) {
     $("#tab3_view").css("display", "none");
     $("#tab1_view").css("display", "none");
   }
-  
+
   console.log(id);
+}
+
+
+function modalOpen(id) {
+  console.log(id);
+  document.getElementById(id).style.display='block';
+  document.body.style.overflow='hidden'
+}
+
+function modalClose(id) {
+  document.getElementById(id).style.display='none';
+  document.body.style.overflow='auto'
 }
