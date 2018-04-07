@@ -23,7 +23,7 @@
          </div>
       </div>
       <div  class="flashmessage">
-         <div class="container" ng-repeat="flashMessage in flashMessages | filter: {persistent: false}">
+         <div class="container">
             <div class="row">
                <div class="col-sm-24">
                 
@@ -41,7 +41,7 @@
                reset-width">
                <div class="panel panel-default space-bottom-lg">
                   <div class="list-group">
-                     <a href="../mobile-growth-and-cyber-attacks-force-new-hiring-in-uae-78.html"
+                     <a href="#"
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
@@ -64,7 +64,7 @@
                            </div>
                         </div>
                      </a>
-                     <a href="../gcc-jobs-set-to-recover-in-2017-led-by-manufacturing-and-healthcare-76.html"
+                     <a href="#"
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
@@ -87,7 +87,7 @@
                            </div>
                         </div>
                      </a>
-                     <a href="../rising-demand-for-online-training-hampered-by-shortage-of-supply-67.html"
+                     <a href="#"
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
@@ -110,7 +110,7 @@
                            </div>
                         </div>
                      </a>
-                     <a href="../jobs-slowdown-drives-up-demand-for-postgraduate-study-65.html"
+                     <a href="#"
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
@@ -133,7 +133,7 @@
                            </div>
                         </div>
                      </a>
-                     <a href="../how-to-build-a-strong-employer-brand-73.html"
+                     <a href="#"
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
@@ -156,7 +156,7 @@
                            </div>
                         </div>
                      </a>
-                     <a href="../gulf-construction-firms-continue-to-hire-despite-oil-slump-61.html"
+                     <a href="#"
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
@@ -179,7 +179,7 @@
                            </div>
                         </div>
                      </a>
-                     <a href="../lower-oil-prices-to-boost-emiratisation-in-private-sector-experts-59.html"
+                     <a href="#"
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
@@ -202,7 +202,7 @@
                            </div>
                         </div>
                      </a>
-                     <a href="../saudi-arabia-and-qatar-lead-job-creation-in-the-gulf-43.html"
+                     <a href="#"
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
@@ -225,7 +225,7 @@
                            </div>
                         </div>
                      </a>
-                     <a href="../economic-downturn-reduces-recruitment-activity-in-the-gulf-39.html"
+                     <a href="#"
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
@@ -248,7 +248,7 @@
                            </div>
                         </div>
                      </a>
-                     <a href="../dubais-appeal-continues-despite-rising-costs-22.html"
+                     <a href="#"
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
@@ -271,7 +271,7 @@
                            </div>
                         </div>
                      </a>
-                     <a href="../skills-shortages-threaten-the-gulfs-construction-boom-21.html"
+                     <a href="#"
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
@@ -294,7 +294,7 @@
                            </div>
                         </div>
                      </a>
-                     <a href="../gulf-financial-jobs-soar-as-growth-accelerates-16.html"
+                     <a href="#"
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
@@ -317,7 +317,7 @@
                            </div>
                         </div>
                      </a>
-                     <a href="../soaring-rents-force-executive-job-switch-10.html"
+                     <a href="#"
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
@@ -340,7 +340,7 @@
                            </div>
                         </div>
                      </a>
-                     <a href="../uae-law-firms-facing-high-employee-turnover-8.html"
+                     <a href="#"
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
@@ -373,7 +373,7 @@
                      <div class="text-heading panel-title"> Popular News </div>
                   </div>
                   <div class="list-group">
-                     <a href="../2016-Gulf-pay-rises-lowest-in-a-decade-despite-rising-costs-63.html"
+                     <a href="#"
                         class="list-group-item">
                         2016 Gulf pay rises lowest in a decade, despite rising costs <br />
                         <ul class="list-inline text-sm text-supermuted">
@@ -384,7 +384,7 @@
                            </li>
                         </ul>
                      </a>
-                     <a href="../gcc-jobs-set-to-recover-in-2017-led-by-manufacturing-and-healthcare-76.html"
+                     <a href="#"
                         class="list-group-item">
                         GCC jobs set to recover in 2017, led by manufacturing and healthcare <br />
                         <ul class="list-inline text-sm text-supermuted">
@@ -395,7 +395,7 @@
                            </li>
                         </ul>
                      </a>
-                     <a href="../mobile-growth-and-cyber-attacks-force-new-hiring-in-uae-78.html"
+                     <a href="#"
                         class="list-group-item">
                         Mobile growth and cyber-attacks force new hiring in UAE <br />
                         <ul class="list-inline text-sm text-supermuted">

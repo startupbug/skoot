@@ -1,9 +1,8 @@
 
 <?php include('../header.php'); ?>
-<main id="main-block"
-   gt-scroll-on="facetedSearch.pagination:changed"
-   gt-scroll-speed="50"
-   >
+
+
+<main id="main-block" >
    <div class="page-header">
       <div class="container">
          <div class="row">
@@ -13,103 +12,20 @@
       </div>
    </div>
    <div class="page-content">
-      <div ng-controller="flashMessagesController" id="flash-messages-persistent" ng-cloak>
-         <div class="container" ng-repeat="flashMessage in flashMessages | filter: {persistent: true}">
+      <div id="flash-messages-persistent">
+         <div class="container">
             <div class="row">
                <div class="col-sm-24">
-                  <div class="alert alert-{{ flashMessage.type }} fade container-xs-height container-block space-bottom-sm"
-                     ng-class="{ 'in': !flashMessage.hasTransition }">
-                     <div class="col-xs-height col-middle pull-left">
-                        <div class="media container-xs-height">
-                           <div class="media-object col-xs-height col-middle">
-                              <i class="fa fa-fw"
-                                 ng-class="{
-                                 'fa-exclamation-circle': ('error' == flashMessage.type),
-                                 'fa-check': ('success' == flashMessage.type),
-                                 'fa-info-circle': ('info' == flashMessage.type),
-                                 'fa-warning': ('warning' == flashMessage.type)
-                                 }">
-                              </i>
-                           </div>
-                           <div class="media-body col-xs-height col-middle text-xl">
-                              {{ flashMessage.message }}
-                              <a ng-hide="flashMessage.hasModal||flashMessage.hasCustomModal"
-                                 ng-href="{{ flashMessage.link }}"
-                                 target="{{ flashMessage.linkTarget }}">
-                              {{ flashMessage.linkText }}
-                              </a>
-                              <a ng-show="flashMessage.hasModal"
-                                 gt-modal-static="flashMessage.link"
-                                 gt-modal-size="flashMessage.modalSize">
-                              {{ flashMessage.linkText }}
-                              </a>
-                              <a ng-show="flashMessage.hasCustomModal&&flashMessage.link=='publicProfileBenefits'"
-                                 gt-modal-recent-public-profiles
-                                 gt-modal-size="flashMessage.modalSize">
-                              {{ flashMessage.linkText }}
-                              </a>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xs-height col-middle">
-                        <button type="button" class="close" ng-click="remove($index)" ng-hide="flashMessage.persistent">
-                        <span aria-hidden="true">&times;</span>
-                        <span class="sr-only">Close</span>
-                        </button>
-                     </div>
-                  </div>
+                  
                </div>
             </div>
          </div>
       </div>
-      <div ng-controller="flashMessagesController"
-         scroll-to-fix
-         class="flashmessage"
-         ng-cloak>
+      <div class="flashmessage">
          <div class="container" ng-repeat="flashMessage in flashMessages | filter: {persistent: false}">
             <div class="row">
                <div class="col-sm-24">
-                  <div class="alert alert-{{ flashMessage.type }} fade container-xs-height container-block space-bottom-sm"
-                     ng-class="{ 'in': !flashMessage.hasTransition }">
-                     <div class="col-xs-height col-middle pull-left">
-                        <div class="media container-xs-height">
-                           <div class="media-object col-xs-height col-middle">
-                              <i class="fa fa-fw"
-                                 ng-class="{
-                                 'fa-exclamation-circle': ('error' == flashMessage.type),
-                                 'fa-check': ('success' == flashMessage.type),
-                                 'fa-info-circle': ('info' == flashMessage.type),
-                                 'fa-warning': ('warning' == flashMessage.type)
-                                 }">
-                              </i>
-                           </div>
-                           <div class="media-body col-xs-height col-middle text-xl">
-                              {{ flashMessage.message }}
-                              <a ng-hide="flashMessage.hasModal||flashMessage.hasCustomModal"
-                                 ng-href="{{ flashMessage.link }}"
-                                 target="{{ flashMessage.linkTarget }}">
-                              {{ flashMessage.linkText }}
-                              </a>
-                              <a ng-show="flashMessage.hasModal"
-                                 gt-modal-static="flashMessage.link"
-                                 gt-modal-size="flashMessage.modalSize">
-                              {{ flashMessage.linkText }}
-                              </a>
-                              <a ng-show="flashMessage.hasCustomModal&&flashMessage.link=='publicProfileBenefits'"
-                                 gt-modal-recent-public-profiles
-                                 gt-modal-size="flashMessage.modalSize">
-                              {{ flashMessage.linkText }}
-                              </a>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xs-height col-middle">
-                        <button type="button" class="close" ng-click="remove($index)" ng-hide="flashMessage.persistent">
-                        <span aria-hidden="true">&times;</span>
-                        <span class="sr-only">Close</span>
-                        </button>
-                     </div>
-                  </div>
+                 
                </div>
             </div>
          </div>
@@ -179,7 +95,7 @@
                         <p><strong>Survey Methodology</strong></p>
                         <p>GulfTalent’s study was based on a survey of 854 senior executives, including CEOs and HR managers of companies across the six countries of the Gulf Cooperation Council (GCC). The survey was conducted during December 2016 and January 2017.</p>
                      </div>
-                     <a gt-modal-static="'mailpoolSubscription'" class="list-group-item-main hidden-print">
+                     <a class="list-group-item-main hidden-print">
                      Subscribe to receive similar articles <i class="fa fa-angle-double-right"></i>
                      </a>
                   </div>
@@ -740,7 +656,7 @@
                      </div>
                   </div>
                   <div class="list-group">
-                     <a href="mobile-growth-and-cyber-attacks-force-new-hiring-in-uae-78.html"
+                     <a href="<?php echo $base_url;?>resources/employment_salaries.php"
                         class="list-group-item">
                         <span class="text-med">Mobile growth and cyber-attacks force new hiring in UAE</span>
                         <ul class="list-inline text-sm text-supermuted">
@@ -751,7 +667,7 @@
                            </li>
                         </ul>
                      </a>
-                     <a href="rising-demand-for-online-training-hampered-by-shortage-of-supply-67.html"
+                     <a href="<?php echo $base_url;?>resources/employment_salaries.php"
                         class="list-group-item">
                         <span class="text-med">Rising demand for online training hampered by shortage of supply</span>
                         <ul class="list-inline text-sm text-supermuted">
@@ -762,7 +678,7 @@
                            </li>
                         </ul>
                      </a>
-                     <a href="jobs-slowdown-drives-up-demand-for-postgraduate-study-65.html"
+                     <a href="<?php echo $base_url;?>resources/employment_salaries.php"
                         class="list-group-item">
                         <span class="text-med">Jobs slowdown drives up demand for postgraduate study</span>
                         <ul class="list-inline text-sm text-supermuted">
@@ -780,7 +696,7 @@
                      <div class="text-heading panel-title"> Popular News </div>
                   </div>
                   <div class="list-group">
-                     <a href="2016-Gulf-pay-rises-lowest-in-a-decade-despite-rising-costs-63.html"
+                     <a href="<?php echo $base_url;?>resources/employment_salaries.php"
                         class="list-group-item">
                         2016 Gulf pay rises lowest in a decade, despite rising costs <br />
                         <ul class="list-inline text-sm text-supermuted">
@@ -791,7 +707,7 @@
                            </li>
                         </ul>
                      </a>
-                     <a href="mobile-growth-and-cyber-attacks-force-new-hiring-in-uae-78.html"
+                     <a href="<?php echo $base_url;?>resources/employment_salaries.php"
                         class="list-group-item">
                         Mobile growth and cyber-attacks force new hiring in UAE <br />
                         <ul class="list-inline text-sm text-supermuted">
@@ -802,7 +718,7 @@
                            </li>
                         </ul>
                      </a>
-                     <a href="dubai-overtakes-cairo-in-traffic-congestion-23.html"
+                     <a href="<?php echo $base_url;?>resources/employment_salaries.php"
                         class="list-group-item">
                         Dubai Overtakes Cairo in Traffic Congestion <br />
                         <ul class="list-inline text-sm text-supermuted">
@@ -820,7 +736,7 @@
                      <h3 class="panel-title"> News Categories </h3>
                   </div>
                   <div class="list-group">
-                     <a href="category/employment-trends.html"
+                     <a href="<?php echo $base_url;?>resources/employment_trends.php"
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
@@ -832,7 +748,7 @@
                            </div>
                         </div>
                      </a>
-                     <a href="category/popular-employers.html"
+                     <a href="<?php echo $base_url;?>resources/popular_employees.php"
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
@@ -844,7 +760,7 @@
                            </div>
                         </div>
                      </a>
-                     <a href="category/salaries.html"
+                     <a href="<?php echo $base_url;?>resources/categories_salaries.php"
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
@@ -856,7 +772,7 @@
                            </div>
                         </div>
                      </a>
-                     <a href="category/workplace.html"
+                     <a href="<?php echo $base_url;?>resources/workplace.php"
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
@@ -875,7 +791,7 @@
                      <div class="text-heading panel-title">Find Jobs</div>
                   </div>
                   <div class="list-group">
-                     <a class="list-group-item" href="../../uae/jobs.html">
+                     <a class="list-group-item" href="<?php echo $base_url;?>jobs/executive.php">
                         <div class="media">
                            <div class="media-object pull-left">
                               <i class="flag flag-base flag-AE"></i>
@@ -886,7 +802,7 @@
                            </div>
                         </div>
                      </a>
-                     <a class="list-group-item" href="../../qatar/jobs.html">
+                      <a class="list-group-item" href="<?php echo $base_url;?>jobs/executive.php">
                         <div class="media">
                            <div class="media-object pull-left">
                               <i class="flag flag-base flag-QA"></i>
@@ -897,7 +813,7 @@
                            </div>
                         </div>
                      </a>
-                     <a class="list-group-item" href="../../saudi-arabia/jobs.html">
+                      <a class="list-group-item" href="<?php echo $base_url;?>jobs/executive.php">
                         <div class="media">
                            <div class="media-object pull-left">
                               <i class="flag flag-base flag-SA"></i>
@@ -908,7 +824,7 @@
                            </div>
                         </div>
                      </a>
-                     <a class="list-group-item hidden-print" href="../../jobs.html">
+                     <a class="list-group-item" href="<?php echo $base_url;?>jobs/search_job.php">
                      <i class="fa fa-fw fa-chevron-right"></i>
                      Browse all jobs
                      </a>
@@ -918,138 +834,7 @@
          </div>
       </div>
    </div>
-   <section ng-controller="widgetFeedbackController">
-      <div class="fade"
-         ng-class="{'modal-backdrop in': !isWidgetCollapsed}"
-         ng-click="isWidgetCollapsed=true"
-         ng-init="isWidgetCollapsed=true"></div>
-      <div class="feedback-btn-container affix-bottom affix-right space-right-base" ng-cloak>
-         <div class="text-right">
-            <button ng-click="isWidgetCollapsed=!isWidgetCollapsed"
-               class="btn btn-default btn-secondary"
-               id="feedback">
-            Feedback
-            <i class="fa fa-fw"
-               ng-class="{
-               'fa-angle-up': isWidgetCollapsed,
-               'fa-angle-down': !isWidgetCollapsed
-               }"></i>
-            </button>
-         </div>
-         <div class="panel panel-default space-bottom-none"
-            gt-collapse="isWidgetCollapsed"
-            collapse="isCollapsed"
-            id="feedback">
-            <div class="panel-heading" ng-hide="formSubmitted">
-               <h3 class="panel-title">Tell us your feedback</h3>
-            </div>
-            <div class="panel-body" ng-hide="formSubmitted">
-               <form class="form-horizontal" role="form" novalidate name="contact-us-form"
-                  gt-validate
-                  gt-submit="submit()">
-                  <div class="form-group">
-                     <div class="col-sm-20 col-sm-offset-2">
-                        <input type="text" id="contact_us_name" name="contact_us[name]" required="required"    class="form-control" ng-model="form.name" gt-model-value="" message="Please enter name!" placeholder="Your Name" />
-                     </div>
-                  </div>
-                  <div class="form-group">
-                     <div class="col-sm-20 col-sm-offset-2">
-                        <input type="email" id="contact_us_email" name="contact_us[email]" required="required"    class="form-control" ng-model="form.email" gt-model-value="" message="Please enter a valid Email Address!" placeholder="Your Email Address" />
-                     </div>
-                  </div>
-                  <div class="form-group space-bottom-base">
-                     <div class="col-sm-20 col-sm-offset-2">
-                        <textarea id="contact_us_message" name="contact_us[message]" required="required"    class="form-control" rows="8" ng-model="form.message" placeholder="Your comments/suggestions on the site"></textarea>
-                     </div>
-                  </div>
-                  <div class="form-group space-bottom-base">
-                     <div class="col-sm-offset-7 col-sm-10">
-                        <button type="submit"
-                           value="submit"
-                           class="btn btn-secondary btn-lg btn-block">
-                        Submit
-                        </button>
-                     </div>
-                  </div>
-                  <input type="hidden"
-                     value="Feedback"
-                     ng-model="form.subject"
-                     gt-model-value="" />
-                  <input type="hidden"
-                     value="feedback"
-                     ng-model="form.type"
-                     gt-model-value="" />
-               </form>
-            </div>
-            <div class="panel-body" ng-show="formSubmitted">
-               <strong class="text-success" ng-show="successFlag">
-               Thank you for your Feedback.
-               </strong>
-               <strong class="text-danger" ng-hide="successFlag">
-               Something went wrong. Please try again.
-               </strong>
-            </div>
-         </div>
-      </div>
-   </section>
-   <section class="floating-widget-container affix-left center hidden-print">
-      <ul class="list-social list-unstyled space-all-none">
-         <li class="social-legend text-sm space-all-none">
-            Share page
-         </li>
-         <li class="space-all-none">
-            <a gt-share="facebook"
-               gt-share-url="gcc-jobs-set-to-recover-in-2017-led-by-manufacturing-and-healthcare-76.html"
-               title="Share via Facebook"
-               class="bg-brand-facebook">
-            <i class="fa fa-facebook"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a gt-share="googleplus"
-               gt-share-url="gcc-jobs-set-to-recover-in-2017-led-by-manufacturing-and-healthcare-76.html"
-               title="Share via Google+"
-               class="bg-brand-google-plus">
-            <i class="fa fa-google-plus"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a gt-share="twitter"
-               gt-share-url="gcc-jobs-set-to-recover-in-2017-led-by-manufacturing-and-healthcare-76.html"
-               title="Share via Twitter"
-               class="bg-brand-twitter">
-            <i class="fa fa-twitter"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a gt-share="linkedin"
-               gt-share-url="gcc-jobs-set-to-recover-in-2017-led-by-manufacturing-and-healthcare-76.html"
-               title="Share via LinkedIn"
-               class="bg-brand-linkedin">
-            <i class="fa fa-linkedin"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a gt-share="messenger"
-               gt-share-url="gcc-jobs-set-to-recover-in-2017-led-by-manufacturing-and-healthcare-76.html"
-               title="Share via Facebook Messenger"
-               class="bg-brand-messenger">
-            <i class="fa fa-facebook-messenger"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a gt-refer-form
-               refer-type="Article"
-               refer-label="GCC jobs set to recover in 2017, led by manufacturing and healthcare"
-               refer-url="gcc-jobs-set-to-recover-in-2017-led-by-manufacturing-and-healthcare-76.html"
-               refer-generated-from=""
-               refer-description="{&quot;heading&quot;:&quot;GCC jobs set to recover in 2017, led by manufacturing and healthcare&quot;}"
-               refer-heading="Email this article to a friend"
-               class="bg-brand-envelope">
-            <i class="fa fa-envelope" title="Share via Email"></i>
-            </a>
-         </li>
-      </ul>
-   </section>
+   
+   
 </main>
 <?php include('../footer.php'); ?>

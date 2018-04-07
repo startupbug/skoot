@@ -1,6 +1,5 @@
+
 <?php include('../header.php'); ?>
-
-
 <main id="main-block">
    <div class="page-header">
       <div class="container">
@@ -15,7 +14,7 @@
          <div class="container">
             <div class="row">
                <div class="col-sm-24">
-               
+             
                </div>
             </div>
          </div>
@@ -24,7 +23,7 @@
          <div class="container">
             <div class="row">
                <div class="col-sm-24">
-              
+                
                </div>
             </div>
          </div>
@@ -48,51 +47,42 @@
                            </li>
                         </ul>
                      </div>
-                     <h1 class="panel-title"
-                        >
-                        2016 Gulf pay rises lowest in a decade, despite rising costs
+                     <h1 class="panel-title">
+                        Staff productivity to drop during World Cup 2014
                      </h1>
-                     <p class="text-md text-muted">Posted on March 14, 2016</p>
+                     <p class="text-md text-muted">Posted on June 09, 2014</p>
                   </div>
                   <div class="list-group">
-                     <div class="list-group-item"
-                        >
+                     <div class="list-group-item">
                         <ul>
                            <li>
-                              <p><strong>Recruitment has slowed, particularly in oil &amp; gas and construction, while healthcare and retail remain buoyant.</strong></p>
+                              <p><strong>Half of all employees plan to stay up to watch late-night matches involving their favorite teams</strong></p>
                            </li>
                            <li>
-                              <p><strong>GCC private sector firms are reporting more success in hiring nationals, as government jobs become harder to obtain.</strong></p>
+                              <p><strong>After watching late night matches, one-third of all employees will go to work tired, one in ten will go to work late, and 3 percent will call in sick</strong></p>
+                           </li>
+                           <li>
+                              <p><strong>One third of employees will spend some of their work time discussing matches with colleagues or watching highlights</strong></p>
                            </li>
                         </ul>
-                        <p>Average pay rises across the GCC are set to be lower in 2016 than at any time over the past ten years, despite the rising cost of living caused by cuts in government subsidies, according to the latest research released today.</p>
-                        <p>“Many professionals in 2016 are likely to face a double-whammy of rising living costs coupled with stagnant wage growth. As a result, real salary increases net of inflation are expected to be significantly lower than in previous years” the report stated.</p>
-                        <p>One source of comfort for residents is falling rents in parts of the region, in an otherwise inflationary market, the report found.</p>
-                        <p>The research report was based on GulfTalent’s survey of 700 employers and 25,000 professionals across the six GCC states. Drawing on its survey results, the study found that salaries across the GCC are forecast to increase at an average of just 5.2 percent in 2016, down from 5.7 percent in the previous year.</p>
+                        <p>The 2014 football World Cup is likely to hit productivity of employees across the Middle East, according to a survey by GulfTalent.</p>
+                        <p>Although none of the GCC countries have qualified for the tournament, according to the survey 89 percent of employees in the region plan to watch at least some of the games. The tournament, due to be played in Brazil from 12 June to 13 July, will be aired live in the Middle East each day between 8pm to 4am in the UAE and Oman (7pm to 3am in Saudi Arabia, Qatar, Kuwait, Bahrain, Egypt, Jordan and Lebanon).</p>
+                        <p>GulfTalent&rsquo;s survey asked employees across the Middle East how they plan to balance the watching of late night games with their work commitments the next day. About one in ten said that they would go to work late in order to catch up on sleep, while a similar number will take a day of annual leave after watching late night matches. 3 percent would report sick so they do not have to go to work. About one-third of respondents said that they will cut on their sleep to make it to work on time.</p>
                         <div class="text-center">
-                           <p><img src="../../images/articles/average-salary-increase-gcc-2016.png" alt="" /></p>
+                           <p><img src="../../images1/graph-worldcup-english.png" alt="" /></p>
                         </div>
-                        <p>Saudi Arabia is expected to top the region’s pay increases, at 5.9 percent. However, with inflation in the Kingdom forecast at 4.7 percent in 2016, real pay rises net of inflation will average just 1.2 percent.</p>
-                        <p>Professionals in the UAE are expected to enjoy the region’s second highest salary increase at 5.3 percent. Qatar is next with 4.7 percent, followed closely by Kuwait and Oman at 4.6 and 4.4 percent respectively.</p>
-                        <p>Bahrain fares the worst among the six GCC states, with the projected salary increase of 3.7 percent matching the forecast inflation rate exactly, leaving employees with no net increase in their purchasing power.</p>
-                        <div class="text-center">
-                           <p><img src="../../images/articles/salary-increase-by-country-2016.png" alt="" /></p>
-                        </div>
-                        <p><strong>Recruitment slowdown</strong></p>
-                        <p>In addition to lower pay rises, the study reported a marked slowdown in recruitment activity, with employers much more cautious in adding to their payroll. Much of the recruitment activity is now focused on replacement hiring only.</p>
-                        <p>Sectors that are particularly hit include oil &amp; gas and construction, which depend heavily on government investment. On the other hand, retail has seen limited impact and healthcare is booming, driven by a combination of population growth and regulatory changes making healthcare provision mandatory for employers. 68 percent of healthcare companies surveyed reported an increase in their headcount during 2015.</p>
-                        <p>The study found that, with fewer jobs in the market and candidates seeking stability, employee turnover had fallen in most sectors. It warned, however, that employers failing to meet the pay expectation of their top performers due to financial pressures could risk losing them to competitors.</p>
-                        <p>According to the study, employers currently hiring are having much greater success in securing top candidates than in previous years and some are using this as an opportunity to upgrade their staff.</p>
-                        <p>Some firms are also reporting greater success in attracting nationals, thanks to slower pace of hiring in the public sector. One Saudi employer told GulfTalent interviewers “We always wanted to hire Saudis, but they were not interested before. We are happy that Saudi nationals are now accepting our job offers.”</p>
-                        <p><strong>Job cuts</strong></p>
-                        <p>An increasing number of firms have been reducing headcount, particularly in energy and construction. Overall, 14 percent of surveyed firms in Saudi Arabia reported plans to reduce headcount in 2016, compared with 9 percent in the UAE.</p>
-                        <div class="text-center">
-                           <p><img src="../../images/articles/redundancies-by-country-2016.png" alt="" /></p>
-                        </div>
-                        <p>Several executives interviewed by GulfTalent reported that, despite operating below capacity, they were holding on to their specialist talent in the hope that the market will recover later in the year. If the current situation persisted, however, they would have no choice but to make painful cuts, the report quoted.</p>
-                        <p>GulfTalent’s study also noted that, despite a marked slowdown, the situation in Gulf countries remains far more stable than in most other oil-dependent economies. According to the Economist Intelligence Unit, all GCC countries are expected to have stable currencies and register a positive economic growth in 2016, with governments using their reserves to maintain critical investments. This is in sharp contrast to Russia where the oil price collapse has already led to severe recession and a 50 percent plunge in the value of the currency since 2014. [<a href="../market-research-reports/Employment-and-Salary-Trends-in-the-Gulf-2016-44.html">See full report</a> <i class="text-section fa fa-fw fa-file-pdf-o"></i>]</p>
-                        <p><em>To browse through professional jobs by top employers in the Middle East, visit <a href="../../jobs.html"><strong>latest jobs</strong></a>.</em></p>
-                        <p><em>If you are an employer looking to hire top talent, find out how GulfTalent can help you <a href="../../employers.html"><strong>build your team</strong></a>.</em></p>
+                        <p>When comparing among different job categories, IT professionals were found more likely than others to come to work late or call in sick following a late night match. HR professionals in comparison were the most likely to take a day of annual leave, while marketing professionals were more likely to simply cut on their sleep and come to work tired.</p>
+                        <p>Some survey participants noted that the second half of the tournament will coincide with Ramadan, when many employees in the Middle East work reduced hours, allowing them to sleep after work and be up in time for the games.</p>
+                        <p>Asked if they would spend any time on the games at work, about one third of respondents indicated that they would be spending some of their work time discussing the games with their colleagues, or watching the highlights on the Internet.</p>
+                        <p><strong>Employer Reactions</strong></p>
+                        <p>Some employers expressed concern about the potential drop in productivity resulting from the games. One manager from an oil and gas company commented &ldquo;I have 50 employees in my team. Most of them are football fans and this will really affect our productivity this month.&rdquo;</p>
+                        <p>Others were more relaxed or even optimistic about the impact of the games. Commenting on the issue, a manager from a leading Saudi catering firm said &ldquo;Staff productivity is highly dependent on emotions. We can properly transform these emotions during this time in a positive manner to increase productivity. So I would allow my staff time to watch their favorite matches.&rdquo;</p>
+                        <p>The survey found that managers who were themselves inclined to watch the games were more likely to give flexibility to their team to watch them.</p>
+                        <p>Some managers said that they plan to use the World Cup as an opportunity for team building and would organise interesting competitions related to World Cup in their office.</p>
+                        <p><strong>International Comparison</strong></p>
+                        <p>The threat to productivity is not confined to the Middle East. According to a survey involving 100 UK business leaders by telecoms and IT services provider Coms plc, the World Cup could result in a loss to British business of 250 million working hours. This would comprise of a rise in absence levels, late arrivals, poor performance due to lack of sleep or discussions at the workplace. A separate survey by employment law specialists ELAS puts the cost of the World Cup to Britain&rsquo;s employers at &pound;4bn in lost productivity.</p>
+                        <p>According to GulfTalent, the level of productivity loss for Middle East companies may not be as severe as their European counterparts, as all the games fall outside working hours for people working a day shift. In addition, there is negligible consumption of alcoholic beverages, a main driver of World Cup related sicknesses. However, companies with poor or inadequate guidelines are still likely to suffer a disproportionate amount of absenteeism. Only a quarter of survey respondents said their companies had a specific employee policy in respect of the World Cup.</p>
+                        <p>GulfTalent&rsquo;s research was based on an online survey of 18,000 professionals based across ten countries in the Middle East and employed in different industries.</p>
                      </div>
                      <a gt-modal-static="'mailpoolSubscription'" class="list-group-item-main hidden-print">
                      Subscribe to receive similar articles <i class="fa fa-angle-double-right"></i>
@@ -100,25 +90,10 @@
                   </div>
                </div>
                <div class="panel panel-default hidden-print">
-                  <div class="panel-heading">
-                     <h3 class="panel-title">Comments <span class="light">(1)</span></h3>
-                  </div>
-                  <div class="list-group">
-                     <div class="list-group-item">
-                        <h4>
-                           <i class="fa fa-2x fa-quote-left text-section pull-left"></i>
-                           Samih Elkhalil
-                           <br/>
-                           <span class="small">Deputy Director | UAE</span>
-                        </h4>
-                        <p>Very useful report. It would be great to see some comparison to European countries.</p>
-                        <p class="text-muted">Posted on 19 Mar 2016</p>
-                     </div>
-                  </div>
                   <div class="panel-body hidden-print">
                      <h3 id="post-comment">Post Comment</h3>
                      <p class="text-sm text-muted">Your email address will not be published</p>
-                     <form class="form-horizontal" action="https://www.gulftalent.com/resources/employment-news/2016-Gulf-pay-rises-lowest-in-a-decade-despite-rising-costs-63" method="post">
+                     <form class="form-horizontal" action="https://www.gulftalent.com/resources/employment-news/staff-productivity-to-drop-during-world-cup-2014-55" method="post">
                         <div class="form-group">
                            <div class="col-sm-12">
                               <input type="text" id="articleComment_name" name="articleComment[name]"    placeholder="Name" class="form-control input-lg" />
@@ -414,12 +389,12 @@
                         <div class="form-inline form-group">
                            <span>
                            To post a comment, please fill in the answer in the box: 
-                           6 - 5 =
+                           12 + 9 =
                            </span>
                            <input type="text" id="articleComment_captcha_response" name="articleComment[captcha_response]" required="required"    size="2" autocomplete="off" class="form-control" />
                         </div>
-                        <input type="hidden" id="articleComment_captcha_expression" name="articleComment[captcha_expression]"    class="form-control input-lg" value="6 - 5" />
-                        <input type="hidden" id="articleComment_captcha_token" name="articleComment[captcha_token]"    class="form-control input-lg" value="356a192b7913b04c54574d18c28d46e6395428ab" />
+                        <input type="hidden" id="articleComment_captcha_expression" name="articleComment[captcha_expression]"    class="form-control input-lg" value="12 + 9" />
+                        <input type="hidden" id="articleComment_captcha_token" name="articleComment[captcha_token]"    class="form-control input-lg" value="472b07b9fcf2c2451e8781e944bf5f77cd8457c8" />
                         <div class="row">
                            <div class="col-sm-12 col-sm-offset-6">
                               <button class="btn btn-section btn-lg btn-block" type="submit">
@@ -435,10 +410,18 @@
                hidden-print">
                <div class="panel panel-default">
                   <div class="panel-body panel-body-ad">
-                    
+                     <div gt-ad
+                        gt-ad-name="box_300x250"
+                        gt-ad-width="300"
+                        gt-ad-height="250"
+                        gt-ad-fallback-media="/images/free-cv-review.png?v2_68_0"
+                        gt-ad-fallback-url="/resources/job-search-support/free-cv-review"
+                        style="width: 300px; height: 250px;"
+                        >
+                     </div>
                   </div>
                   <div class="list-group">
-                     <a class="list-group-item" href="<?php echo $base_url;?>register/advertising_agencies.php">
+                     <a class="list-group-item" href="../../advertising-agencies.html">
                      <i class="fa fa-fw fa-chevron-right text-primary"></i>
                      Advertise Here
                      </a>
@@ -451,35 +434,35 @@
                      </div>
                   </div>
                   <div class="list-group">
-                     <a href="<?php echo $base_url;?>resources/employment_salaries.php"
+                   <a href="<?php echo $base_url;?>resources/employment_salaries.php">
                         class="list-group-item">
-                        <span class="text-med">Gulf countries set to create more jobs in 2015, despite oil price fall</span>
+                        <span class="text-med">Pressure Grows on Companies to Ban Smoking in the Workplace</span>
                         <ul class="list-inline text-sm text-supermuted">
-                           <li>May 2015</li>
+                           <li>Aug 2007</li>
                            <li class="pull-right">
-                              46,139
+                              19,014
                               views
                            </li>
                         </ul>
                      </a>
-                       <a href="<?php echo $base_url;?>resources/employment_salaries.php"
+                      <a href="<?php echo $base_url;?>resources/employment_salaries.php">
                         class="list-group-item">
-                        <span class="text-med">Gulf jobs and salaries set to grow faster in 2014</span>
+                        <span class="text-med">Dubai Overtakes Cairo in Traffic Congestion</span>
                         <ul class="list-inline text-sm text-supermuted">
-                           <li>Mar 2014</li>
+                           <li>Jun 2007</li>
                            <li class="pull-right">
-                              96,944
+                              28,743
                               views
                            </li>
                         </ul>
                      </a>
-                       <a href="<?php echo $base_url;?>resources/employment_salaries.php"
+                      <a href="<?php echo $base_url;?>resources/employment_salaries.php">
                         class="list-group-item">
-                        <span class="text-med">Gulf salaries to rise by 5.6 percent in 2012</span>
+                        <span class="text-med">World Cup Fever to Hit Work Productivity</span>
                         <ul class="list-inline text-sm text-supermuted">
-                           <li>Apr 2012</li>
+                           <li>Jun 2006</li>
                            <li class="pull-right">
-                              71,604
+                              8,107
                               views
                            </li>
                         </ul>
@@ -491,35 +474,35 @@
                      <div class="text-heading panel-title"> Popular News </div>
                   </div>
                   <div class="list-group">
-                     <a href="<?php echo $base_url;?>resources/employment_salaries.php"
+                      <a href="<?php echo $base_url;?>resources/employment_salaries.php"
+                        class="list-group-item">
+                        2016 Gulf pay rises lowest in a decade, despite rising costs <br />
+                        <ul class="list-inline text-sm text-supermuted">
+                           <li>Mar 2016</li>
+                           <li class="pull-right">
+                              50,079
+                              views
+                           </li>
+                        </ul>
+                     </a>
+                      <a href="<?php echo $base_url;?>resources/employment_popular.php"
                         class="list-group-item">
                         GCC jobs set to recover in 2017, led by manufacturing and healthcare <br />
                         <ul class="list-inline text-sm text-supermuted">
                            <li>Jan 2017</li>
                            <li class="pull-right">
-                              25,144
+                              25,145
                               views
                            </li>
                         </ul>
                      </a>
-                    <a href="<?php echo $base_url;?>resources/employment_popular.php"
-                        class="list-group-item">
-                        Dubai Overtakes Cairo in Traffic Congestion <br />
-                        <ul class="list-inline text-sm text-supermuted">
-                           <li>Jun 2007</li>
-                           <li class="pull-right">
-                              28,743
-                              views
-                           </li>
-                        </ul>
-                     </a>
-                      <a href="<?php echo $base_url;?>resources/employment_salaries.php"
+                    <a href="<?php echo $base_url;?>resources/employment_salaries.php"
                         class="list-group-item">
                         Mobile growth and cyber-attacks force new hiring in UAE <br />
                         <ul class="list-inline text-sm text-supermuted">
                            <li>Jun 2017</li>
                            <li class="pull-right">
-                              9,952
+                              9,953
                               views
                            </li>
                         </ul>
@@ -555,7 +538,7 @@
                            </div>
                         </div>
                      </a>
-                      <a href="<?php echo $base_url;?>resources/categories_salaries.php"
+                     <a href="<?php echo $base_url;?>resources/categories_salaries.php"
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
@@ -597,7 +580,7 @@
                            </div>
                         </div>
                      </a>
-                     <a class="list-group-item" href="<?php echo $base_url;?>jobs/executive.php">
+                    <a class="list-group-item" href="<?php echo $base_url;?>jobs/executive.php">
                         <div class="media">
                            <div class="media-object pull-left">
                               <i class="flag flag-base flag-QA"></i>
@@ -608,7 +591,7 @@
                            </div>
                         </div>
                      </a>
-                     <a class="list-group-item" href="<?php echo $base_url;?>jobs/executive.php">
+                    <a class="list-group-item" href="<?php echo $base_url;?>jobs/executive.php">
                         <div class="media">
                            <div class="media-object pull-left">
                               <i class="flag flag-base flag-SA"></i>
@@ -619,7 +602,7 @@
                            </div>
                         </div>
                      </a>
-                     <a class="list-group-item" href="<?php echo $base_url;?>jobs/search_job.php">
+                     <a class="list-group-item" href="?php echo $base_url;?>jobs/search_job.php">
                      <i class="fa fa-fw fa-chevron-right"></i>
                      Browse all jobs
                      </a>
@@ -630,6 +613,7 @@
       </div>
    </div>
   
+   
 </main>
 
 <?php include('../footer.php'); ?>
