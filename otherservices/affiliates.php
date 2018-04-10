@@ -35,7 +35,7 @@
 
                   <i class="fa fa-fw fa-chevron-right text-primary icon_f"></i>
                   </a>
-                  <div class="btn-group text-muted" ng-init="activeTemplate='overview.html'">
+                  <div class="btn-group text-muted">
                      <label class="btn f_btn_about f_overview">
                         <a onclick="tab('tab1')" id="tab1">Overview</a>
                      </label>
@@ -47,7 +47,7 @@
                         <a onclick="tab('tab3')" id="tab3"> FAQs</a>
                      </label>
                      <label class="btn f_btn_about f_overview" onclick="modalOpen('register_affiliates_modal')">
-                        Register
+                        <a>Register</a>
 
                      </label>
 
@@ -202,29 +202,29 @@
                  </div>
                  <div class="text-med text-strong space-top-med space-bottom-xs">Banners also available in</div>
                  <div class="space-bottom-xs">
-                     <a gt-modal-static="'affiliateWhiteBanners'" gt-modal-class="modal-fixed-top">
+                     <a>
                          White background color
                      </a>
                  </div>
                  <div class="space-bottom-med">
-                     <a gt-modal-static="'affiliateArabicBanners'" gt-modal-class="modal-fixed-top">
+                     <a>
                          Arabic language
                      </a>
                  </div>
                  <p>Click on options to see the sample in Blue background</p>
                  <ul>
                      <li>
-                         <a gt-modal-static="'affiliateLeaderboardBanner'" gt-modal-class="modal-fixed-top">
+                         <a>
                              Leaderboard Banner Ad (728px x 90px)
                          </a>
                      </li>
                      <li>
-                         <a gt-modal-static="'affiliateSquareBanner'" gt-modal-class="modal-fixed-top">
+                         <a>
                              Square Banner Ad (300px x 250px)
                          </a>
                      </li>
                      <li>
-                         <a gt-modal-static="'affiliateSkyscraperBanner'" gt-modal-class="modal-fixed-top">
+                         <a>
                              Skyscraper Banner Ad (160px x 600px)
                          </a>
                      </li>
@@ -238,24 +238,24 @@
                  </div>
                  <div class="text-med text-strong space-top-med space-bottom-xs">Search Widgets also available in</div>
                  <div class="space-bottom-med">
-                     <a gt-modal-static="'affiliateWhiteSearchWidget'" gt-modal-class="modal-fixed-top">
+                     <a>
                          White background color
                      </a>
                  </div>
                  <p>Click on options to see the sample in Blue background</p>
                  <ul>
                      <li>
-                         <a gt-modal-static="'affiliateLeaderboardWidget'" gt-modal-class="modal-fixed-top">
+                         <a>
                              Leaderboard search widget (728px x 90px)
                          </a>
                      </li>
                      <li>
-                         <a gt-modal-static="'affiliateSquareWidget'" gt-modal-class="modal-fixed-top">
+                         <a>
                              Square search widget (300px x 250px)
                          </a>
                      </li>
                      <li>
-                         <a gt-modal-static="'affiliateSkyscraperWidget'" gt-modal-class="modal-fixed-top">
+                         <a>
                              Skyscraper search widget (160px x 600px)
                          </a>
                      </li>
@@ -269,14 +269,14 @@
                  </div>
                  <div class="text-med text-strong space-top-med space-bottom-xs">Jobs Live Feed also available in</div>
                  <div class="space-bottom-xs">
-                     <a gt-modal-static="'affiliateArabicJobFeed'" gt-modal-class="modal-fixed-top">
+                     <a>
                          Arabic language
                      </a>
                  </div>
                  <hr class="supermuted" />
                  <div class="row">
                      <div class="col-sm-6 col-sm-offset-9">
-                         <button class="btn btn-secondary btn-block" gt-modal-affiliate-registration>Register Now</button>
+                         <button class="btn btn-secondary btn-block">Register Now</button>
                      </div>
                  </div>
              </div>
@@ -345,49 +345,7 @@
        </section>
 
    </div>
-   <section class="floating-widget-container affix-left center hidden-print">
-      <ul class="list-social list-unstyled space-all-none">
-         <li class="social-legend text-sm space-all-none">
-            Share page
-         </li>
-         <li class="space-all-none">
-            <a gt-share="facebook"
-               gt-share-url=""
-               title="Share via Facebook"
-               class="bg-brand-facebook">
-            <i class="fa fa-facebook"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a gt-share="googleplus"
-               gt-share-url=""
-               title="Share via Google+"
-               class="bg-brand-google-plus">
-            <i class="fa fa-google-plus"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a>
-            <i class="fa fa-twitter"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a>
-            <i class="fa fa-linkedin"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a>
-            <i class="fa fa-facebook-messenger"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a>
-            <i class="fa fa-envelope" title="Share via Email"></i>
-            </a>
-         </li>
-      </ul>
-   </section>
+ 
 </main>
 
 <div id="contactus_affiliates_modal" class="w3-modal">
@@ -463,7 +421,7 @@
 </div>
 <div id="register_affiliates_modal" class="w3-modal">
   <div class="modal-dialog" style="">
-      <div class="modal-content" ng-transclude="">
+      <div class="modal-content">
           <div class="modal-header ng-scope">
               <h2 class="modal-title">
                   Sign up as an Affiliate
@@ -573,7 +531,7 @@
                         <input type="checkbox" id="user_partner_terms_and_conditions" name="terms_and_conditions" required="required" value="1">
                         <span>
                           I have read and agree to
-                          <a href="/affiliates/terms-and-conditions" target="_blank">
+                          <a href="<?php echo $base_url; ?>otherservices/terms_condition.php">
                             terms and conditions
                           </a>
                         </span>
@@ -586,19 +544,7 @@
                   </div>
                 </form>
               </div>
-              <div class="text-center" style="display: none;">
-                  <p class="text-success text-med text-center">
-                    <strong>Thank you for your interest in GulfTalent Affiliate Program.</strong>
-                  </p>
-                  <p>
-                    Your application will be reviewed and we will get back to you shortly.
-                  </p>
-              </div>
-              <div style="display: none;">
-                <p class="text-danger text-med text-center">
-                  <strong>An error occured while sending your application for Affiliate Program! Please Try Again</strong>
-                </p>
-              </div>
+            
           </div>
       </div>
   </div>

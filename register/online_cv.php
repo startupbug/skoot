@@ -1,5 +1,4 @@
 <?php include('../header.php'); ?>
-
 <main id="main-block">
    <div class="page-content">
       <section style="background-image: url(<?php echo $base_url;?>assets/img/register/candidate_write.jpg)" class="bg-cover">
@@ -19,9 +18,9 @@
                      <li class="text-inverted">Use this professionally formatted CV for your job hunt anywhere</li>
                   </ul>
                   <a class="text-lg" onclick=" modalOpen('online_cv_modal');">
-                    <i class="fa fa-fw text_color fa-chevron-right"></i>
-                    See a Sample CV
-                </a>
+                  <i class="fa fa-fw text_color fa-chevron-right"></i>
+                  See a Sample CV
+                  </a>
                </div>
             </div>
             <div class="row">
@@ -44,22 +43,22 @@
                      <div class="panel-body">
                         <form>
                            <div class="container-block container-xs-height">
-                              <div gt-spinner="isLoading" gt-spinner-key="registration"></div>
+                              <div></div>
                               <div class="row row-xs-height">
                                  <div class="
                                     col-sm-24
                                     col-xs-height">
                                     <div class="form-group">
                                        <div class="col-sm-12">
-                                          <input type="text" id="candidate_firstname" name="candidate[firstname]" required="required" class="form-control" placeholder="First Name"/>
+                                          <input type="text" id="candidate_firstname" required="required" class="form-control" placeholder="First Name"/>
                                        </div>
                                        <div class="col-sm-12">
-                                          <input type="text" id="candidate_surname" name="candidate[surname]" required="required" class="form-control" placeholder="Surname"/>
+                                          <input type="text" id="candidate_surname" required="required" class="form-control" placeholder="Surname"/>
                                        </div>
                                     </div>
                                     <div class="form-group">
                                        <div class="col-sm-24">
-                                          <select id="candidate_CanLoc_location_current" name="candidate[CanLoc_location_current]" required="required"    ng-model="form.currLoc" message="Please enter country name" class="form-control">
+                                          <select id="candidate_CanLoc_location_current" required="required" message="Please enter country name" class="form-control">
                                              <option value="" disabled="disabled" selected="selected">Current location</option>
                                              <option value="10999121000000">Afghanistan</option>
                                              <option value="90999301000000">Albania</option>
@@ -308,17 +307,17 @@
                                     </div>
                                     <div class="form-group">
                                        <div class="col-sm-24">
-                                          <input type="email" id="candidate_username" name="candidate[username]" required="required" class="form-control" placeholder="Email address"/>
+                                          <input type="email" id="candidate_username" required="required" class="form-control" placeholder="Email address"/>
                                        </div>
                                     </div>
                                     <div class="form-group">
                                        <div class="col-sm-24">
-                                          <input type="password" id="candidate_password" name="candidate[password]" required="required" class="form-control" placeholder="Choose a Password" />
+                                          <input type="password" id="candidate_password" required="required" class="form-control" placeholder="Choose a Password" />
                                        </div>
                                     </div>
-                                    <div class="form-group" ng-hide="isIE">
+                                    <div class="form-group">
                                        <div class="space-left-xs text-med">Upload your CV <span class="text-supermuted">(Optional)</span></div>
-                                       <div class="col-sm-24 pointer" ng-click="uploadFile()">
+                                       <div class="col-sm-24 pointer">
                                           <div class="col-sm-24 input-file-upload">
                                              <div class="col-sm-7 space-left-xxs btn btn-sm btn-section btn-upload"  style="padding: 5px 4px;">
                                                 <span class="text-med">Choose File</span>
@@ -334,22 +333,22 @@
                               </div>
                            </div>
                            <div class="row space-top-xs">
-                             <div class="">
-                                <p class="text-muted">
-                                   By clicking Register, you agree to Joblane
-                                   <a href="<?php echo $base_url; ?>terms_condition/terms.php">Terms</a>,
-                                   <a href="<?php echo $base_url; ?>terms_condition/privacy_policy.php">Privacy Policy</a>
-                                   and
-                                   Mailing Permissions
-                                </p>
-                                <div class="form-group">
-                                   <div class="col-sm-24">
-                                      <button class="btn btn-primary btn-block btn-lg" type="submit">
-                                        Register
-                                      </button>
-                                   </div>
-                                </div>
-                             </div>
+                              <div class="">
+                                 <p class="text-muted">
+                                    By clicking Register, you agree to Joblane
+                                    <a href="<?php echo $base_url; ?>terms_condition/terms.php">Terms</a>,
+                                    <a href="<?php echo $base_url; ?>terms_condition/privacy_policy.php">Privacy Policy</a>
+                                    and
+                                    Mailing Permissions
+                                 </p>
+                                 <div class="form-group">
+                                    <div class="col-sm-24">
+                                       <button class="btn btn-primary btn-block btn-lg" type="submit">
+                                       Register
+                                       </button>
+                                    </div>
+                                 </div>
+                              </div>
                            </div>
                         </form>
                      </div>
@@ -360,18 +359,16 @@
       </section>
    </div>
 </main>
-
 <div id="online_cv_modal" class="w3-modal">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div>
-        <img src="<?php echo $base_url; ?>assets/images1/sampleCV.png" style="width:100%">
-        <button class="close"  onclick=" modalClose('online_cv_modal');">
+   <div class="modal-dialog">
+      <div class="modal-content">
+         <div>
+            <img src="<?php echo $base_url; ?>assets/images1/sampleCV.png" style="width:100%">
+            <button class="close"  onclick=" modalClose('online_cv_modal');">
             <i class="fa fa-remove"></i>
-        </button>
+            </button>
+         </div>
       </div>
-    </div>
-  </div>
+   </div>
 </div>
-
 <?php include('../footer.php'); ?>

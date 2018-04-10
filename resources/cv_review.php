@@ -24,7 +24,7 @@
                                  Free CV review
                               </h1>
                               <h2 class="text-med text-regular space-top-xs">
-                                 Joblane has partnered with "TopCV" to bring you a one-time expert CV evaluation for free.
+                                 JobLane has partnered with "TopCV" to bring you a one-time expert CV evaluation for free.
                               </h2>
                            </div>
                            <div class="col-xs-6">

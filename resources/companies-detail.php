@@ -64,12 +64,12 @@
                            <tr>
                               <td class="col-sm-1-5">1</td>
                               <td class="col-sm-13-5 show-print-block text-overflow">
-                                 <a href="<?php echo $base_url; ?>jobs/job_detail.php" target="_blank" popover="Communication Manager" class="ng-scope">
+                                 <a href="<?php echo $base_url; ?>jobs/job_detail.php" target="_blank" popover="Communication Manager">
                                  <strong>Communication Manager</strong>
                                  </a>
                               </td>
                               <td class="col-sm-7 show-print-block text-overflow">
-                                 <span popover="UAE" class="ng-scope">
+                                 <span popover="UAE">
                                  Malaysia
                                  </span>
                               </td>
@@ -78,12 +78,12 @@
                            <tr>
                               <td class="col-sm-1-5">2</td>
                               <td class="col-sm-13-5 show-print-block text-overflow">
-                                 <a href="<?php echo $base_url; ?>jobs/job_detail.php" target="_blank" popover="VAT Manager" class="ng-scope">
+                                 <a href="<?php echo $base_url; ?>jobs/job_detail.php" target="_blank" popover="VAT Manager">
                                  <strong>VAT Manager</strong>
                                  </a>
                               </td>
                               <td class="col-sm-7 show-print-block text-overflow">
-                                 <span popover="UAE" class="ng-scope">
+                                 <span popover="UAE">
                                  Malaysia
                                  </span>
                               </td>
@@ -92,12 +92,12 @@
                            <tr>
                               <td class="col-sm-1-5">3</td>
                               <td class="col-sm-13-5 show-print-block text-overflow">
-                                 <a href="<?php echo $base_url; ?>jobs/job_detail.php" target="_blank" popover="Project and Cost Accountant" class="ng-scope">
+                                 <a href="<?php echo $base_url; ?>jobs/job_detail.php" target="_blank" popover="Project and Cost Accountant">
                                  <strong>Project and Cost Accountant</strong>
                                  </a>
                               </td>
                               <td class="col-sm-7 show-print-block text-overflow">
-                                 <span popover="UAE" class="ng-scope">
+                                 <span popover="UAE">
                                  Malaysia
                                  </span>
                               </td>
@@ -106,12 +106,12 @@
                            <tr>
                               <td class="col-sm-1-5">4</td>
                               <td class="col-sm-13-5 show-print-block text-overflow">
-                                 <a href="<?php echo $base_url; ?>jobs/job_detail.php" target="_blank" popover="IT Systems Manager  (Payment Systems)" class="ng-scope">
+                                 <a href="<?php echo $base_url; ?>jobs/job_detail.php" target="_blank" popover="IT Systems Manager  (Payment Systems)">
                                  <strong>IT Systems Manager  (Payment Systems)</strong>
                                  </a>
                               </td>
                               <td class="col-sm-7 show-print-block text-overflow">
-                                 <span popover="UAE" class="ng-scope">
+                                 <span popover="UAE">
                                  Malaysia
                                  </span>
                               </td>
@@ -120,12 +120,12 @@
                            <tr>
                               <td class="col-sm-1-5">5</td>
                               <td class="col-sm-13-5 show-print-block text-overflow">
-                                 <a href="<?php echo $base_url; ?>jobs/job_detail.php" target="_blank" popover="Application Implementer (System Installation and Configuration)" class="ng-scope">
+                                 <a href="<?php echo $base_url; ?>jobs/job_detail.php" target="_blank" popover="Application Implementer (System Installation and Configuration)">
                                  <strong>Application Implementer (System Installation and Configuration)</strong>
                                  </a>
                               </td>
                               <td class="col-sm-7 show-print-block text-overflow">
-                                 <span popover="UAE" class="ng-scope">
+                                 <span popover="UAE">
                                  Malaysia
                                  </span>
                               </td>
@@ -294,104 +294,8 @@
         </div>
       </section>
    </div>
-   <section>
-      <div class="fade"></div>
-      <div class="feedback-btn-container affix-bottom affix-right space-right-base">
-         <div class="text-right">
-            <button class="btn btn-default btn-secondary" id="feedback">
-              Feedback
-              <i class="fa fa-fw"></i>
-            </button>
-         </div>
-         <div class="panel panel-default space-bottom-none" gt-collapse="isWidgetCollapsed" collapse="isCollapsed" id="feedback">
-            <div class="panel-heading">
-               <h3 class="panel-title">Tell us your feedback</h3>
-            </div>
-            <div class="panel-body">
-               <form class="form-horizontal" role="form">
-                  <div class="form-group">
-                     <div class="col-sm-20 col-sm-offset-2">
-                        <input type="text" id="contact_us_name" name="contact_us[name]" required="required" class="form-control" message="Please enter name!" placeholder="Your Name" />
-                     </div>
-                  </div>
-                  <div class="form-group">
-                     <div class="col-sm-20 col-sm-offset-2">
-                        <input type="email" id="contact_us_email" name="contact_us[email]" required="required"    class="form-control" message="Please enter a valid Email Address!" placeholder="Your Email Address" />
-                     </div>
-                  </div>
-                  <div class="form-group space-bottom-base">
-                     <div class="col-sm-20 col-sm-offset-2">
-                        <textarea id="contact_us_message" name="contact_us[message]" required="required"    class="form-control" rows="8"  placeholder="Your comments/suggestions on the site"></textarea>
-                     </div>
-                  </div>
-                  <div class="form-group space-bottom-base">
-                     <div class="col-sm-offset-7 col-sm-10">
-                        <button type="submit" value="submit" class="btn btn-secondary btn-lg btn-block">
-                          Submit
-                        </button>
-                     </div>
-                  </div>
-               </form>
-            </div>
-            <div class="panel-body">
-               <strong class="text-success">
-                 Thank you for your Feedback.
-               </strong>
-               <strong class="text-danger">
-                 Something went wrong. Please try again.
-               </strong>
-            </div>
-         </div>
-      </div>
-   </section>
-   <section class="floating-widget-container affix-left center hidden-print">
-      <ul class="list-social list-unstyled space-all-none">
-         <li class="social-legend text-sm space-all-none">
-            Share page
-         </li>
-         <li class="space-all-none">
-            <a title="Share via Facebook" class="bg-brand-facebook">
-              <i class="fa fa-facebook"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a title="Share via Google+" class="bg-brand-google-plus">
-              <i class="fa fa-google-plus"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a title="Share via Twitter" class="bg-brand-twitter">
-              <i class="fa fa-twitter"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a title="Share via LinkedIn" class="bg-brand-linkedin">
-              <i class="fa fa-linkedin"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a title="Share via Facebook Messenger" class="bg-brand-messenger">
-              <i class="fa fa-facebook-messenger"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a class="bg-brand-envelope">
-              <i class="fa fa-envelope" title="Share via Email"></i>
-            </a>
-         </li>
-      </ul>
-   </section>
+   
+   
 </main>
-<!-- Google Code for Remarketing Tag -->
-<script type="text/javascript">
-   var google_conversion_id = 1071034449;
-   var google_custom_params = window.google_tag_params;
-   var google_remarketing_only = true;
-</script>
-<script type="text/javascript" async="true" src="../www.googleadservices.com/pagead/f.txt"></script>
-<noscript>
-   <div style="display:inline;">
-      <img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/1071034449/?value=0&amp;guid=ON&amp;script=0"/>
-   </div>
-</noscript>
+
 <?php include('../footer.php') ;?>

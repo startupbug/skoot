@@ -1,9 +1,5 @@
 <?php include('../header.php'); ?>
-
-<main id="main-block"
-   gt-scroll-on="facetedSearch.pagination:changed"
-   gt-scroll-speed="50"
-   >
+<main id="main-block">
    <div class="page-content">
       <section style="background-image: url(<?php echo $base_url;?>assets/img/register/candidate_receive_email.jpg)"
          class="bg-cover">
@@ -52,20 +48,20 @@
                      <div class="panel-body">
                         <form>
                            <div class="container-block container-xs-height">
-                              <div gt-spinner="isLoading" gt-spinner-key="registration"></div>
+                              <div></div>
                               <div class="row row-xs-height">
                                  <div class=" col-sm-24 col-xs-height">
                                     <div class="form-group">
                                        <div class="col-sm-12">
-                                          <input type="text" id="candidate_firstname" name="candidate[firstname]" required="required"  class="form-control" placeholder="First Name" gt-model-value="" />
+                                          <input type="text" id="candidate_firstname" required="required"  class="form-control" placeholder="First Name">
                                        </div>
                                        <div class="col-sm-12">
-                                          <input type="text" id="candidate_surname" name="candidate[surname]" required="required" class="form-control" placeholder="Surname" gt-model-value="" />
+                                          <input type="text" id="candidate_surname" required="required" class="form-control" placeholder="Surname">
                                        </div>
                                     </div>
                                     <div class="form-group">
                                        <div class="col-sm-24">
-                                          <select id="candidate_CanLoc_location_current" name="candidate[CanLoc_location_current]" required="required" class="form-control">
+                                          <select id="candidate_CanLoc_location_current" required="required" class="form-control">
                                              <option value="" disabled="disabled" selected="selected">Current location</option>
                                              <option value="10999121000000">Afghanistan</option>
                                              <option value="90999301000000">Albania</option>
@@ -314,15 +310,15 @@
                                     </div>
                                     <div class="form-group">
                                        <div class="col-sm-24">
-                                          <input type="email" id="candidate_username" name="candidate[username]" required="required" class="form-control" placeholder="Email address"/>
+                                          <input type="email" id="candidate_username" required="required" class="form-control" placeholder="Email address"/>
                                        </div>
                                     </div>
                                     <div class="form-group">
                                        <div class="col-sm-24">
-                                          <input type="password" id="candidate_password" name="candidate[password]" required="required" class="form-control" placeholder="Choose a Password" />
+                                          <input type="password" id="candidate_password" required="required" class="form-control" placeholder="Choose a Password" />
                                        </div>
                                     </div>
-                                    <div class="form-group" ng-hide="isIE">
+                                    <div class="form-group">
                                        <div class="space-left-xs text-med">Upload your CV <span class="text-supermuted">(Optional)</span></div>
                                        <div class="col-sm-24 pointer">
                                           <div class="col-sm-24 input-file-upload">
@@ -351,7 +347,7 @@
                                  <div class="form-group">
                                     <div class="col-sm-24">
                                        <button class="btn btn-primary btn-block btn-lg" type="submit">
-                                         Register
+                                       Register
                                        </button>
                                     </div>
                                  </div>

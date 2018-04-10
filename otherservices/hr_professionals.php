@@ -6,103 +6,10 @@
             <div class="container">
                <div class="row">
                   <div class="col-sm-24">
-                     <!--<div class="alert alert-{{ flashMessage.type }} fade container-xs-height container-block space-bottom-sm"
-                        ng-class="{ 'in': !flashMessage.hasTransition }">
-                        <div class="col-xs-height col-middle pull-left">
-                           <div class="media container-xs-height">
-                              <div class="media-object col-xs-height col-middle">
-                                 <i class="fa fa-fw"
-                                    ng-class="{
-                                    'fa-exclamation-circle': ('error' == flashMessage.type),
-                                    'fa-check': ('success' == flashMessage.type),
-                                    'fa-info-circle': ('info' == flashMessage.type),
-                                    'fa-warning': ('warning' == flashMessage.type)
-                                    }">
-                                 </i>
-                              </div>
-                              <div class="media-body col-xs-height col-middle text-xl">
-                                 {{ flashMessage.message }}
-                                 <a ng-hide="flashMessage.hasModal||flashMessage.hasCustomModal"
-                                    ng-href="{{ flashMessage.link }}"
-                                    target="{{ flashMessage.linkTarget }}">
-                                 {{ flashMessage.linkText }}
-                                 </a>
-                                 <a ng-show="flashMessage.hasModal"
-                                    gt-modal-static="flashMessage.link"
-                                    gt-modal-size="flashMessage.modalSize">
-                                 {{ flashMessage.linkText }}
-                                 </a>
-                                 <a ng-show="flashMessage.hasCustomModal&&flashMessage.link=='publicProfileBenefits'"
-                                    gt-modal-recent-public-profiles
-                                    gt-modal-size="flashMessage.modalSize">
-                                 {{ flashMessage.linkText }}
-                                 </a>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="col-xs-height col-middle">
-                           <button type="button" class="close" ng-click="remove($index)" ng-hide="flashMessage.persistent">
-                           <span aria-hidden="true">&times;</span>
-                           <span class="sr-only">Close</span>
-                           </button>
-                        </div>
-                     </div>-->
                   </div>
                </div>
             </div>
          </div>
-        <!-- <div ng-controller="flashMessagesController"
-            scroll-to-fix
-            class="flashmessage"
-            ng-cloak>
-            <div class="container" ng-repeat="flashMessage in flashMessages | filter: {persistent: false}">
-               <div class="row">
-                  <div class="col-sm-24">
-                     <div class="alert alert-{{ flashMessage.type }} fade container-xs-height container-block space-bottom-sm"
-                        ng-class="{ 'in': !flashMessage.hasTransition }">
-                        <div class="col-xs-height col-middle pull-left">
-                           <div class="media container-xs-height">
-                              <div class="media-object col-xs-height col-middle">
-                                 <i class="fa fa-fw"
-                                    ng-class="{
-                                    'fa-exclamation-circle': ('error' == flashMessage.type),
-                                    'fa-check': ('success' == flashMessage.type),
-                                    'fa-info-circle': ('info' == flashMessage.type),
-                                    'fa-warning': ('warning' == flashMessage.type)
-                                    }">
-                                 </i>
-                              </div>
-                              <div class="media-body col-xs-height col-middle text-xl">
-                                 {{ flashMessage.message }}
-                                 <a ng-hide="flashMessage.hasModal||flashMessage.hasCustomModal"
-                                    ng-href="{{ flashMessage.link }}"
-                                    target="{{ flashMessage.linkTarget }}">
-                                 {{ flashMessage.linkText }}
-                                 </a>
-                                 <a ng-show="flashMessage.hasModal"
-                                    gt-modal-static="flashMessage.link"
-                                    gt-modal-size="flashMessage.modalSize">
-                                 {{ flashMessage.linkText }}
-                                 </a>
-                                 <a ng-show="flashMessage.hasCustomModal&&flashMessage.link=='publicProfileBenefits'"
-                                    gt-modal-recent-public-profiles
-                                    gt-modal-size="flashMessage.modalSize">
-                                 {{ flashMessage.linkText }}
-                                 </a>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="col-xs-height col-middle">
-                           <button type="button" class="close" ng-click="remove($index)" ng-hide="flashMessage.persistent">
-                           <span aria-hidden="true">&times;</span>
-                           <span class="sr-only">Close</span>
-                           </button>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>-->
       </section>
       <div style="background-image: url(<?php echo $base_url;?>assets/img/featured/Services_HR.png)" class="jumbotron bg-cover">
          <div class="container space-top-xxl space-bottom-xxl">
@@ -119,7 +26,7 @@
                   <h3 class=" space-bottom-none space-top-none">or</h3>
                </div>
                <div class="col-xs-height col-middle col-xs-10 text-left">
-                  <a gt-modal-static="&#039;mailpoolSubscription&#039;" class="btn btn-tertiary btn-lg f_btn_call">
+                  <a href="#" class="btn btn-tertiary btn-lg f_btn_call">
                   Sign up
                   </a>
                </div>
@@ -251,65 +158,5 @@
          </div>
       </div>
    </div>
-   <section class="floating-widget-container affix-left center hidden-print">
-      <ul class="list-social list-unstyled space-all-none">
-         <li class="social-legend text-sm space-all-none">
-            Share page
-         </li>
-         <li class="space-all-none">
-            <a gt-share="facebook"
-               gt-share-url=""
-               title="Share via Facebook"
-               class="bg-brand-facebook">
-            <i class="fa fa-facebook"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a gt-share="googleplus"
-               gt-share-url=""
-               title="Share via Google+"
-               class="bg-brand-google-plus">
-            <i class="fa fa-google-plus"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a gt-share="twitter"
-               gt-share-url=""
-               title="Share via Twitter"
-               class="bg-brand-twitter">
-            <i class="fa fa-twitter"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a gt-share="linkedin"
-               gt-share-url=""
-               title="Share via LinkedIn"
-               class="bg-brand-linkedin">
-            <i class="fa fa-linkedin"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a gt-share="messenger"
-               gt-share-url=""
-               title="Share via Facebook Messenger"
-               class="bg-brand-messenger">
-            <i class="fa fa-facebook-messenger"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a gt-refer-form
-               refer-type="MiscPages"
-               refer-label=""
-               refer-url=""
-               refer-generated-from=""
-               refer-description="[]"
-               refer-heading="Email this page to a friend"
-               class="bg-brand-envelope">
-            <i class="fa fa-envelope" title="Share via Email"></i>
-            </a>
-         </li>
-      </ul>
-   </section>
 </main>
-
 <?php include('../footer.php'); ?>

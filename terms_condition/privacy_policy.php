@@ -1,4 +1,3 @@
-
 <?php include('../header.php'); ?>
 <main id="main-block">
    <div class="page-header">
@@ -10,107 +9,6 @@
       </div>
    </div>
    <div class="page-content">
-      <!--<div ng-controller="flashMessagesController" id="flash-messages-persistent" ng-cloak>
-         <div class="container" ng-repeat="flashMessage in flashMessages | filter: {persistent: true}">
-            <div class="row">
-               <div class="col-sm-24">
-                  <div class="alert alert-{{ flashMessage.type }} fade container-xs-height container-block space-bottom-sm"
-                     ng-class="{ 'in': !flashMessage.hasTransition }">
-                     <div class="col-xs-height col-middle pull-left">
-                        <div class="media container-xs-height">
-                           <div class="media-object col-xs-height col-middle">
-                              <i class="fa fa-fw"
-                                 ng-class="{
-                                 'fa-exclamation-circle': ('error' == flashMessage.type),
-                                 'fa-check': ('success' == flashMessage.type),
-                                 'fa-info-circle': ('info' == flashMessage.type),
-                                 'fa-warning': ('warning' == flashMessage.type)
-                                 }">
-                              </i>
-                           </div>
-                           <div class="media-body col-xs-height col-middle text-xl">
-                              {{ flashMessage.message }}
-                              <a ng-hide="flashMessage.hasModal||flashMessage.hasCustomModal"
-                                 ng-href="{{ flashMessage.link }}"
-                                 target="{{ flashMessage.linkTarget }}">
-                              {{ flashMessage.linkText }}
-                              </a>
-                              <a ng-show="flashMessage.hasModal"
-                                 gt-modal-static="flashMessage.link"
-                                 gt-modal-size="flashMessage.modalSize">
-                              {{ flashMessage.linkText }}
-                              </a>
-                              <a ng-show="flashMessage.hasCustomModal&&flashMessage.link=='publicProfileBenefits'"
-                                 gt-modal-recent-public-profiles
-                                 gt-modal-size="flashMessage.modalSize">
-                              {{ flashMessage.linkText }}
-                              </a>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xs-height col-middle">
-                        <button type="button" class="close" ng-click="remove($index)" ng-hide="flashMessage.persistent">
-                        <span aria-hidden="true">&times;</span>
-                        <span class="sr-only">Close</span>
-                        </button>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>-->
-      <!--<div ng-controller="flashMessagesController"
-         scroll-to-fix
-         class="flashmessage"
-         ng-cloak>
-         <div class="container" ng-repeat="flashMessage in flashMessages | filter: {persistent: false}">
-            <div class="row">
-               <div class="col-sm-24">
-                  <div class="alert alert-{{ flashMessage.type }} fade container-xs-height container-block space-bottom-sm"
-                     ng-class="{ 'in': !flashMessage.hasTransition }">
-                     <div class="col-xs-height col-middle pull-left">
-                        <div class="media container-xs-height">
-                           <div class="media-object col-xs-height col-middle">
-                              <i class="fa fa-fw"
-                                 ng-class="{
-                                 'fa-exclamation-circle': ('error' == flashMessage.type),
-                                 'fa-check': ('success' == flashMessage.type),
-                                 'fa-info-circle': ('info' == flashMessage.type),
-                                 'fa-warning': ('warning' == flashMessage.type)
-                                 }">
-                              </i>
-                           </div>
-                           <div class="media-body col-xs-height col-middle text-xl">
-                              {{ flashMessage.message }}
-                              <a ng-hide="flashMessage.hasModal||flashMessage.hasCustomModal"
-                                 ng-href="{{ flashMessage.link }}"
-                                 target="{{ flashMessage.linkTarget }}">
-                              {{ flashMessage.linkText }}
-                              </a>
-                              <a ng-show="flashMessage.hasModal"
-                                 gt-modal-static="flashMessage.link"
-                                 gt-modal-size="flashMessage.modalSize">
-                              {{ flashMessage.linkText }}
-                              </a>
-                              <a ng-show="flashMessage.hasCustomModal&&flashMessage.link=='publicProfileBenefits'"
-                                 gt-modal-recent-public-profiles
-                                 gt-modal-size="flashMessage.modalSize">
-                              {{ flashMessage.linkText }}
-                              </a>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xs-height col-middle">
-                        <button type="button" class="close" ng-click="remove($index)" ng-hide="flashMessage.persistent">
-                        <span aria-hidden="true">&times;</span>
-                        <span class="sr-only">Close</span>
-                        </button>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>-->
       <div class="container">
          <div class="row">
             <div class="col-sm-24">
@@ -130,11 +28,11 @@
                         the sole owner of information collected on this website.
                      </p>
                      <p>
-                         JobLane reserves its right to share your personal
+                        JobLane reserves its right to share your personal
                         information with its licensees and affiliates.
                      </p>
                      <p>
-                         JobLane is an online recruitment service and collects a variety of personal
+                        JobLane is an online recruitment service and collects a variety of personal
                         data necessary to provide these services. By choosing to enter your personal
                         information on this site you indicate your willingness to disclose this information
                         to  JobLane and employers registered with it, and to be considered, when
@@ -162,7 +60,7 @@
                      </p>
                      <p>
                         Information obtained by the site is used only for the intended purposes stated. It is
-                         JobLane's policy not to sell or share your personal information for related or unrelated
+                        JobLane's policy not to sell or share your personal information for related or unrelated
                         purposes to non-licensee third parties, unless otherwise stated at the time of collection.
                         If at any time we decide to use personal data in a manner different from that stated at the
                         time it was collected, we will endeavour to notify you and give you a choice as to whether or
@@ -200,7 +98,7 @@
                         containing your password.
                      </p>
                      <p>
-                         JobLane reserves the right to change User IDs and Passwords at any time to protect
+                        JobLane reserves the right to change User IDs and Passwords at any time to protect
                         the security of the site.
                      </p>
                      <h4 class="text-regular">Access To Information</h4>
@@ -224,16 +122,16 @@
                         update, or remove your personal data.
                      <h4 class="text-regular">Newsletter, Site/Service Updates, Surveys, and Contests</h4>
                      <p>
-                         JobLane may offer newsletters to registered users of the site via email. If you wish
+                        JobLane may offer newsletters to registered users of the site via email. If you wish
                         to unsubscribe from a newsletter, please follow the directions at the bottom of the
                         newsletter and you will be taken off the recipient list. If you thought the email you
                         have received from our server is an unsolicited email, please contact us at
                         <a href="mailto:abuse@JobLane.com">abuse@ JobLane.com</a> and we will follow up the matter.
                      </p>
                      <p>
-                         JobLane will periodically send you website update information and service announcement
+                        JobLane will periodically send you website update information and service announcement
                         updates via email. Because these announcements contain important information about
-                         JobLane's service, as long as you remain a registered user, you will not be able
+                        JobLane's service, as long as you remain a registered user, you will not be able
                         to unsubscribe from these announcements. From time-to-time the site requests information
                         from you via surveys or contests. Participation in these surveys or contests is your
                         choice and is completely voluntary as to whether to disclose information. Information
@@ -253,7 +151,7 @@
                      <h4 class="text-regular">Cookies</h4>
                      <p>
                         Cookies are packets of information that are stored on your computer's hard drive. At
-                         JobLane, cookies allow us to keep track of the areas of the site you visit
+                        JobLane, cookies allow us to keep track of the areas of the site you visit
                         and thereby offer you easy access to the information you find most relevant. They also
                         allow us to greet you by name when you visit and to remember that you have already registered.
                         No secure information or information about your personal identity is ever contained within
@@ -269,7 +167,7 @@
                         you will use that same email address and password to access and edit your existing resume.
                      </p>
                      <p>
-                         JobLane recognises that job seekers have different levels of comfort in posting their
+                        JobLane recognises that job seekers have different levels of comfort in posting their
                         resume on the internet. To accommodate the needs of all users,  JobLane offers three levels
                         of privacy from which to choose from.
                      </p>
@@ -293,14 +191,14 @@
                      </p>
                      <h4 class="text-regular">Changes to the Privacy Policy</h4>
                      <p>
-                         JobLane reserves the right to modify or amend the Privacy Policy at any time and for
+                        JobLane reserves the right to modify or amend the Privacy Policy at any time and for
                         any reason. Please check back to this Privacy Policy from time to time to stay informed.
                      </p>
                      <p>
                         Nothing contained in this Privacy Policy is intended to create a contract or agreement 
                         between  JobLane and any user visiting the site or providing identifying information
                         in any form. If you have any questions about your personal information
-                        <a gt-modal-contact-forms-contact-us>
+                        <a>
                         contact us
                         </a>.
                      </p>
@@ -310,7 +208,5 @@
          </div>
       </div>
    </div>
-   
 </main>
-
 <?php include('../footer.php'); ?>

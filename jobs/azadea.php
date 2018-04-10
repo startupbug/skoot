@@ -31,34 +31,7 @@
          </div>
       </div>
    </section>
-   <!--<section class="bg-light">
-      <div class="container">
-          <div class="row">
-              <div class="col-sm-24">
-                  <div class="btn-group text-muted" ng-init="activeTemplate='about_us.html'">
-                                                  <label class="btn"
-                                  ng-class="{'btn-secondary btn-brand-client': activeTemplate == 'about_us.html'}"
-                                  ng-model="activeTemplate"
-                                  btn-radio="'about_us.html'">
-                              About us
-                          </label>
-                                                  <label class="btn"
-                                  ng-class="{'btn-secondary btn-brand-client': activeTemplate == 'life_with_us.html'}"
-                                  ng-model="activeTemplate"
-                                  btn-radio="'life_with_us.html'">
-                              Life with us
-                          </label>
-                                                  <label class="btn"
-                                  ng-class="{'btn-secondary btn-brand-client': activeTemplate == 'vacancies.html'}"
-                                  ng-model="activeTemplate"
-                                  btn-radio="'vacancies.html'">
-                              Vacancies
-                          </label>
-                                          </div>
-              </div>
-          </div>
-      </div>
-      </section>-->
+   
    <section class="bg-light">
       <div class="container">
          <div class="">
@@ -84,7 +57,7 @@
          <div class="container">
             <div class="row space-top-xs space-bottom-xxl">
                <div class="col-sm-24">
-                  <div ng-include="activeTemplate"></div>
+                  <div></div>
                </div>
             </div>
             <div class="panel panel-default">
@@ -111,7 +84,7 @@
          <div class="container">
             <div class="row space-top-xs space-bottom-xxl">
                <div class="col-sm-24">
-                  <div ng-include="activeTemplate"></div>
+                  <div></div>
                </div>
             </div>
             <div class="panel panel-default">
@@ -1008,202 +981,7 @@
                         </div>
                    </div>
                    </div>
-                    <!-- <div class="collapsible space-bottom-base">
-                        <div class="collapsible-toggle">
-                           <h5 
-                              class="text-lg text-regular collapsible-toggle-title space-bottom-base">
-                              <i 
-                                 class="fa fa-fw text-section">
-                              </i>
-                              Catering Jobs
-                              <span class="text-muted text-body text-base">
-                              (22)
-                              </span>
-                           </h5>
-                        </div>
-                        <div collapse="category['24'].isCollapsed" class="collapsible-body">
-                           <table class="table table-fixed table-light table-hover space-bottom-none">
-                              <tbody>
-                                 <tr>
-                                    <td class="col-sm-16">
-                                       <a href="https://www.gulftalent.com/uae/jobs/commis-245296" class="text-med">Commis</a>
-                                    </td>
-                                    <td class="col-sm-8">
-                                       Dubai, UAE
-                                    </td>
-                                 </tr>
-                                 <tr>
-                                    <td class="col-sm-16">
-                                       <a href="https://www.gulftalent.com/qatar/jobs/kitchen-chef-236471" class="text-med">Kitchen Chef</a>
-                                    </td>
-                                    <td class="col-sm-8">
-                                       Qatar
-                                    </td>
-                                 </tr>
-                                 <tr>
-                                    <td class="col-sm-16">
-                                       <a href="https://www.gulftalent.com/qatar/jobs/commis-229582" class="text-med">Commis</a>
-                                    </td>
-                                    <td class="col-sm-8">
-                                       Qatar
-                                    </td>
-                                 </tr>
-                                 <tr>
-                                    <td class="col-sm-16">
-                                       <a href="https://www.gulftalent.com/qatar/jobs/bakery-chef-de-partie-225678" class="text-med">Bakery Chef De Partie</a>
-                                    </td>
-                                    <td class="col-sm-8">
-                                       Qatar
-                                    </td>
-                                 </tr>
-                                 <tr>
-                                    <td class="col-sm-16">
-                                       <a href="https://www.gulftalent.com/bahrain/jobs/runner-234838" class="text-med">Runner</a>
-                                    </td>
-                                    <td class="col-sm-8">
-                                       Bahrain
-                                    </td>
-                                 </tr>
-                                 <tr>
-                                    <td class="col-sm-16">
-                                       <a href="https://www.gulftalent.com/uae/jobs/commis-228922" class="text-med">Commis</a>
-                                    </td>
-                                    <td class="col-sm-8">
-                                       UAE
-                                    </td>
-                                 </tr>
-                                 <tr>
-                                    <td class="col-sm-16">
-                                       <a href="https://www.gulftalent.com/jordan/jobs/chef-de-partie-233984" class="text-med">Chef de Partie</a>
-                                    </td>
-                                    <td class="col-sm-8">
-                                       Jordan
-                                    </td>
-                                 </tr>
-                                 <tr>
-                                    <td class="col-sm-16">
-                                       <a href="https://www.gulftalent.com/oman/jobs/commis-233986" class="text-med">Commis</a>
-                                    </td>
-                                    <td class="col-sm-8">
-                                       Oman
-                                    </td>
-                                 </tr>
-                                 <tr>
-                                    <td class="col-sm-16">
-                                       <a href="https://www.gulftalent.com/jordan/jobs/pastry-sous-chef-240971" class="text-med">Pastry Sous Chef</a>
-                                    </td>
-                                    <td class="col-sm-8">
-                                       Jordan
-                                    </td>
-                                 </tr>
-                                 <tr>
-                                    <td class="col-sm-16">
-                                       <a href="https://www.gulftalent.com/oman/jobs/barista-227928" class="text-med">Barista</a>
-                                    </td>
-                                    <td class="col-sm-8">
-                                       Oman
-                                    </td>
-                                 </tr>
-                                 <tr>
-                                    <td class="col-sm-16">
-                                       <a href="https://www.gulftalent.com/oman/jobs/comiis-228440" class="text-med">Comiis</a>
-                                    </td>
-                                    <td class="col-sm-8">
-                                       Oman
-                                    </td>
-                                 </tr>
-                                 <tr>
-                                    <td class="col-sm-16">
-                                       <a href="https://www.gulftalent.com/iraq/jobs/assistant-manager-2-226459" class="text-med">Assistant Manager 2</a>
-                                    </td>
-                                    <td class="col-sm-8">
-                                       Iraq
-                                    </td>
-                                 </tr>
-                                 <tr>
-                                    <td class="col-sm-16">
-                                       <a href="https://www.gulftalent.com/oman/jobs/waiter-228063" class="text-med">Waiter</a>
-                                    </td>
-                                    <td class="col-sm-8">
-                                       Oman
-                                    </td>
-                                 </tr>
-                                 <tr>
-                                    <td class="col-sm-16">
-                                       <a href="https://www.gulftalent.com/saudi-arabia/jobs/butcher-234752" class="text-med">Butcher</a>
-                                    </td>
-                                    <td class="col-sm-8">
-                                       Saudi Arabia
-                                    </td>
-                                 </tr>
-                                 <tr>
-                                    <td class="col-sm-16">
-                                       <a href="https://www.gulftalent.com/saudi-arabia/jobs/kitchen-chef-234755" class="text-med">Kitchen Chef</a>
-                                    </td>
-                                    <td class="col-sm-8">
-                                       Saudi Arabia
-                                    </td>
-                                 </tr>
-                                 <tr>
-                                    <td class="col-sm-16">
-                                       <a href="https://www.gulftalent.com/saudi-arabia/jobs/demi-chef-de-partie-234509" class="text-med">Demi Chef de Partie</a>
-                                    </td>
-                                    <td class="col-sm-8">
-                                       Saudi Arabia
-                                    </td>
-                                 </tr>
-                                 <tr>
-                                    <td class="col-sm-16">
-                                       <a href="https://www.gulftalent.com/saudi-arabia/jobs/bakery-sous-chef-234510" class="text-med">Bakery Sous Chef</a>
-                                    </td>
-                                    <td class="col-sm-8">
-                                       Saudi Arabia
-                                    </td>
-                                 </tr>
-                                 <tr>
-                                    <td class="col-sm-16">
-                                       <a href="https://www.gulftalent.com/saudi-arabia/jobs/barista-228921" class="text-med">Barista</a>
-                                    </td>
-                                    <td class="col-sm-8">
-                                       Saudi Arabia
-                                    </td>
-                                 </tr>
-                                 <tr>
-                                    <td class="col-sm-16">
-                                       <a href="https://www.gulftalent.com/saudi-arabia/jobs/pastry-chef-231251" class="text-med">Pastry Chef</a>
-                                    </td>
-                                    <td class="col-sm-8">
-                                       Saudi Arabia
-                                    </td>
-                                 </tr>
-                                 <tr>
-                                    <td class="col-sm-16">
-                                       <a href="https://www.gulftalent.com/qatar/jobs/pastry-commis-238745" class="text-med">Pastry Commis</a>
-                                    </td>
-                                    <td class="col-sm-8">
-                                       Qatar
-                                    </td>
-                                 </tr>
-                                 <tr>
-                                    <td class="col-sm-16">
-                                       <a href="https://www.gulftalent.com/saudi-arabia/jobs/chef-de-partie-234749" class="text-med">Chef de Partie</a>
-                                    </td>
-                                    <td class="col-sm-8">
-                                       Saudi Arabia
-                                    </td>
-                                 </tr>
-                                 <tr>
-                                    <td class="col-sm-16">
-                                       <a href="https://www.gulftalent.com/saudi-arabia/jobs/bakery-commis-234751" class="text-med">Bakery Commis</a>
-                                    </td>
-                                    <td class="col-sm-8">
-                                       Saudi Arabia
-                                    </td>
-                                 </tr>
-                              </tbody>
-                           </table>
-                        </div>
-                     </div>-->
+                    
                   </div>
                </div>
             </div>

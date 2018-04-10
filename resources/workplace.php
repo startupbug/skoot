@@ -1,7 +1,3 @@
-
-
-
-
 <?php include('../header.php'); ?>
 <main id="main-block">
    <div class="page-header">
@@ -19,16 +15,14 @@
          <div class="container">
             <div class="row">
                <div class="col-sm-24">
-               
                </div>
             </div>
          </div>
       </div>
       <div  class="flashmessage">
-         <div class="container" ng-repeat="flashMessage in flashMessages | filter: {persistent: false}">
+         <div class="container">
             <div class="row">
                <div class="col-sm-24">
-                
                </div>
             </div>
          </div>
@@ -116,7 +110,7 @@
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
-                             <img src="<?php echo $base_url;?>assets/img/featured/thumbnail.png" width="205px" height="138px" />
+                              <img src="<?php echo $base_url;?>assets/img/featured/thumbnail.png" width="205px" height="138px" />
                            </div>
                            <div class="media-body">
                               <span class="text-med text-link">Jobs slowdown drives up demand for postgraduate study</span>
@@ -139,7 +133,7 @@
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
-                               <img src="<?php echo $base_url;?>assets/img/featured/thumbnail.png" width="205px" height="138px" />
+                              <img src="<?php echo $base_url;?>assets/img/featured/thumbnail.png" width="205px" height="138px" />
                            </div>
                            <div class="media-body">
                               <span class="text-med text-link">How to Build a Strong Employer Brand</span>
@@ -254,7 +248,7 @@
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
-                             <img src="<?php echo $base_url;?>assets/img/featured/thumbnail.png" width="205px" height="138px" />
+                              <img src="<?php echo $base_url;?>assets/img/featured/thumbnail.png" width="205px" height="138px" />
                            </div>
                            <div class="media-body">
                               <span class="text-med text-link">Dubai&#039;s appeal continues despite rising costs</span>
@@ -277,7 +271,7 @@
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
-                               <img src="<?php echo $base_url;?>assets/img/featured/thumbnail.png" width="205px" height="138px" />
+                              <img src="<?php echo $base_url;?>assets/img/featured/thumbnail.png" width="205px" height="138px" />
                            </div>
                            <div class="media-body">
                               <span class="text-med text-link">Skills shortages threaten the Gulf&#039;s construction boom</span>
@@ -300,7 +294,7 @@
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
-                               <img src="<?php echo $base_url;?>assets/img/featured/thumbnail.png" width="205px" height="138px" />
+                              <img src="<?php echo $base_url;?>assets/img/featured/thumbnail.png" width="205px" height="138px" />
                            </div>
                            <div class="media-body">
                               <span class="text-med text-link">Gulf financial jobs soar as growth accelerates</span>
@@ -313,7 +307,7 @@
                                  </li>
                               </ul>
                               <p class="text-base">
-                                 The rapid growth experienced by the Gulf&#039;s banking and financial services companies is fuelling a regional employment boom in the sector, according 
+                                 The rapid growth experienced by the Job&#039;s banking and financial services companies is fuelling a regional employment boom in the sector, according 
                                  <span class="text-base text-link">...Read more</span>
                               </p>
                            </div>
@@ -415,7 +409,7 @@
                      <h3 class="panel-title"> News Categories </h3>
                   </div>
                   <div class="list-group">
-                      <a href="<?php echo $base_url;?>resources/employment_trends.php"
+                     <a href="<?php echo $base_url;?>resources/employment_trends.php"
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
@@ -427,7 +421,7 @@
                            </div>
                         </div>
                      </a>
-                    <a href="<?php echo $base_url;?>resources/popular_employees.php"
+                     <a href="<?php echo $base_url;?>resources/popular_employees.php"
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
@@ -439,7 +433,7 @@
                            </div>
                         </div>
                      </a>
-                    <a href="<?php echo $base_url;?>resources/categories_salaries.php"
+                     <a href="<?php echo $base_url;?>resources/categories_salaries.php"
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
@@ -469,6 +463,5 @@
          </div>
       </div>
    </div>
-  
 </main>
 <?php include('../footer.php'); ?>

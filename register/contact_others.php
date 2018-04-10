@@ -177,54 +177,7 @@
          </div>
       </div>
    </section>
-   <section class="floating-widget-container affix-left center hidden-print">
-      <ul class="list-social list-unstyled space-all-none">
-         <li class="social-legend text-sm space-all-none">
-            Share page
-         </li>
-         <li class="space-all-none">
-            <a title="Share via Facebook" class="bg-brand-facebook">
-              <i class="fa fa-facebook"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a title="Share via Google+" class="bg-brand-google-plus">
-              <i class="fa fa-google-plus"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a title="Share via Twitter" class="bg-brand-twitter">
-              <i class="fa fa-twitter"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a title="Share via LinkedIn" class="bg-brand-linkedin">
-              <i class="fa fa-linkedin"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a title="Share via Facebook Messenger" class="bg-brand-messenger">
-              <i class="fa fa-facebook-messenger"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a class="bg-brand-envelope">
-              <i class="fa fa-envelope" title="Share via Email"></i>
-            </a>
-         </li>
-      </ul>
-   </section>
+  
 </main>
-<!-- Google Code for Remarketing Tag -->
-<script type="text/javascript">
-   var google_conversion_id = 1071034449;
-   var google_custom_params = window.google_tag_params;
-   var google_remarketing_only = true;
-</script>
-<script type="text/javascript" async="true" src="../www.googleadservices.com/pagead/f.txt"></script>
-<noscript>
-   <div style="display:inline;">
-      <img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/1071034449/?value=0&amp;guid=ON&amp;script=0"/>
-   </div>
-</noscript>
+
 <?php include('../footer.php') ;?>

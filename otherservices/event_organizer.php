@@ -1,8 +1,6 @@
 <?php include('../header.php'); ?>
-
 <main id="main-block" >
    <div class="">
-      
       <div style="background-image: url(<?php echo $base_url;?>assets/img/featured/event_img.png)" class="jumbotron bg-cover">
          <div class="container">
             <div class="row">
@@ -32,11 +30,9 @@
          <div class="container">
             <div class="row space-top-lg space-bottom-xl">
                <div class="col-sm-24">
-               	<div class="user"><i class="fas fa-users"></i></div>
-
+                  <div class="user"><i class="fas fa-users"></i></div>
                   <h2 class="text-hg text-center space-bottom-lg">
-
-                       Invite the region's top professionals
+                     Invite the region's top professionals
                   </h2>
                </div>
                <div class="col-sm-4 text-center">
@@ -73,7 +69,8 @@
          <div class="container">
             <div class="row space-top-lg space-bottom-xl">
                <div class="col-sm-24">
-                  <div class="featured_img"><img src="<?php echo $base_url;?>assets/img/featured/event_icon.png"></div><h2 class="text-hg text-center space-bottom-lg">
+                  <div class="featured_img"><img src="<?php echo $base_url;?>assets/img/featured/event_icon.png"></div>
+                  <h2 class="text-hg text-center space-bottom-lg">
                      Pitch to the right businesses
                   </h2>
                </div>
@@ -86,7 +83,7 @@
                         <span class="text-primary f_million">30,000+</span><span class="text-elegant text-muted text-xxl f_prof"> Organisations</span>
                      </h3>
                      <div class="col-sm-10 col-sm-offset-7">
-                       <!-- <hr class="space-top-none space-bottom-none supermuted" />-->
+                        <!-- <hr class="space-top-none space-bottom-none supermuted" />-->
                      </div>
                   </div>
                   <div class="row">
@@ -123,7 +120,7 @@
                      <h3 class="space-top-xs f_num">Events listings page <i class="fa fa-free fa-2x text-primary"></i></h3>
                      <div class="row">
                         <div class="col-sm-14 col-sm-offset-5">
-                          <!-- <hr class="space-top-sm supermuted" />-->
+                           <!-- <hr class="space-top-sm supermuted" />-->
                         </div>
                      </div>
                   </div>
@@ -237,7 +234,7 @@
                </h2>
                <div class="row space-bottom-xl">
                   <div class="col-sm-8 text-center">
-                   <img class="img-responsive informa_f" src="<?php echo $base_url;?>assets/img/featured/informa.png">
+                     <img class="img-responsive informa_f" src="<?php echo $base_url;?>assets/img/featured/informa.png">
                   </div>
                   <div class="col-sm-8 text-center">
                      <img class="img-responsive" src="<?php echo $base_url;?>assets/img/featured/iqpc.png">
@@ -255,87 +252,24 @@
                <div class="col-sm-24">
                   <h2 class="text-hg text-center">
                      <div class="space-bottom-med">Interested? Get in touch</div>
-                     <!--<div class="space-bottom-med f_call">Call: +971 4 278 5200</div>
-                     <div class="space-bottom-med">or</div>
-                     <a gt-modal-static="'eventsEnquiry'"class="btn btn-lg btn-tertiary text-xxl">Request a Call</a>-->
-                       <div class="row row-xs-height">
-               <div class="col-xs-height col-middle col-xs-12 text-right">
-                  <h3 class=" space-bottom-none space-top-none f_event f_call">Call Now +971 4 278 5200</h3>
-               </div>
-               <div class="col-xs-height col-middle col-xs-2 text-center">
-                  <h3 class=" space-bottom-none space-top-none">or</h3>
-               </div>
-               <div class="col-xs-height col-middle col-xs-10 text-left">
-                  <a class="btn btn-tertiary btn-lg f_btn_call">
-                  Request a Call back
-                  </a>
-               </div>
-            </div>
+                     <div class="row row-xs-height">
+                        <div class="col-xs-height col-middle col-xs-12 text-right">
+                           <h3 class=" space-bottom-none space-top-none f_event f_call">Call Now +971 4 278 5200</h3>
+                        </div>
+                        <div class="col-xs-height col-middle col-xs-2 text-center">
+                           <h3 class=" space-bottom-none space-top-none">or</h3>
+                        </div>
+                        <div class="col-xs-height col-middle col-xs-10 text-left">
+                           <a class="btn btn-tertiary btn-lg f_btn_call">
+                           Request a Call back
+                           </a>
+                        </div>
+                     </div>
                   </h2>
                </div>
             </div>
          </div>
       </section>
    </div>
-   <section class="floating-widget-container affix-left center hidden-print">
-      <ul class="list-social list-unstyled space-all-none">
-         <li class="social-legend text-sm space-all-none">
-            Share page
-         </li>
-         <li class="space-all-none">
-            <a gt-share="facebook"
-               gt-share-url=""
-               title="Share via Facebook"
-               class="bg-brand-facebook">
-            <i class="fa fa-facebook"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a gt-share="googleplus"
-               gt-share-url=""
-               title="Share via Google+"
-               class="bg-brand-google-plus">
-            <i class="fa fa-google-plus"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a gt-share="twitter"
-               gt-share-url=""
-               title="Share via Twitter"
-               class="bg-brand-twitter">
-            <i class="fa fa-twitter"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a gt-share="linkedin"
-               gt-share-url=""
-               title="Share via LinkedIn"
-               class="bg-brand-linkedin">
-            <i class="fa fa-linkedin"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a gt-share="messenger"
-               gt-share-url=""
-               title="Share via Facebook Messenger"
-               class="bg-brand-messenger">
-            <i class="fa fa-facebook-messenger"></i>
-            </a>
-         </li>
-         <li class="space-all-none">
-            <a gt-refer-form
-               refer-type="MiscPages"
-               refer-label=""
-               refer-url=""
-               refer-generated-from=""
-               refer-description="[]"
-               refer-heading="Email this page to a friend"
-               class="bg-brand-envelope">
-            <i class="fa fa-envelope" title="Share via Email"></i>
-            </a>
-         </li>
-      </ul>
-   </section>
 </main>
-
 <?php include('../footer.php'); ?>

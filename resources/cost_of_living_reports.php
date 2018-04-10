@@ -371,85 +371,85 @@
                                   <strong>By industry</strong>
                                   <div class="checkbox">
                                      <label>
-                                     <input type="checkbox" value="all" ng-click="checkAll(industries)">
+                                     <input type="checkbox" value="all">
                                      All
                                      </label>
                                   </div>
                                   <div class="checkbox">
                                      <label>
-                                     <input type="checkbox" id="costOfLivingContact_industries_0" name="costOfLivingContact[industries][]" value="Oil, Gas and Energy" checked="checked" >
+                                     <input type="checkbox" id="costOfLivingContact_industries_0" name="industries" value="Oil, Gas and Energy" checked="checked" >
                                      Oil, Gas and Energy
                                      </label>
                                   </div>
                                   <div class="checkbox">
                                      <label>
-                                     <input type="checkbox" id="costOfLivingContact_industries_1" name="costOfLivingContact[industries][]" value="Construction, Engineering and Manufacturing" checked="checked" >
+                                     <input type="checkbox" id="costOfLivingContact_industries_1" name="industries" value="Construction, Engineering and Manufacturing" checked="checked" >
                                      Construction, Engineering and Manufacturing
                                      </label>
                                   </div>
                                   <div class="checkbox">
                                      <label>
-                                     <input type="checkbox" id="costOfLivingContact_industries_2" name="costOfLivingContact[industries][]" value="Financial Services" checked="checked" >
+                                     <input type="checkbox" id="costOfLivingContact_industries_2" name="industries" value="Financial Services" checked="checked" >
                                      Financial Services
                                      </label>
                                   </div>
                                   <div class="checkbox">
                                      <label>
-                                     <input type="checkbox" id="costOfLivingContact_industries_3" name="costOfLivingContact[industries][]" value="Aviation, Aviation Engineering and Airports" checked="checked" >
+                                     <input type="checkbox" id="costOfLivingContact_industries_3" name="industries" value="Aviation, Aviation Engineering and Airports" checked="checked" >
                                      Aviation, Aviation Engineering and Airports
                                      </label>
                                   </div>
                                   <div class="checkbox">
                                      <label>
-                                     <input type="checkbox" id="costOfLivingContact_industries_4" name="costOfLivingContact[industries][]" value="Education, Schools and Universities" checked="checked" >
+                                     <input type="checkbox" id="costOfLivingContact_industries_4" name="industries" value="Education, Schools and Universities" checked="checked" >
                                      Education, Schools and Universities
                                      </label>
                                   </div>
                                   <div class="checkbox">
                                      <label>
-                                     <input type="checkbox" id="costOfLivingContact_industries_5" name="costOfLivingContact[industries][]" value="Government and Freezones (Nationals and Expats)" checked="checked" >
+                                     <input type="checkbox" id="costOfLivingContact_industries_5" name="industries" value="Government and Freezones (Nationals and Expats)" checked="checked" >
                                      Government and Freezones (Nationals and Expats)
                                      </label>
                                   </div>
                                   <div class="checkbox">
                                      <label>
-                                     <input type="checkbox" id="costOfLivingContact_industries_6" name="costOfLivingContact[industries][]" value="Healthcare and Pharmaceuticals" checked="checked" >
+                                     <input type="checkbox" id="costOfLivingContact_industries_6" name="industries" value="Healthcare and Pharmaceuticals" checked="checked" >
                                      Healthcare and Pharmaceuticals
                                      </label>
                                   </div>
                                   <div class="checkbox">
                                      <label>
-                                     <input type="checkbox" id="costOfLivingContact_industries_7" name="costOfLivingContact[industries][]" value="Insurance" checked="checked" >
+                                     <input type="checkbox" id="costOfLivingContact_industries_7" name="industries" value="Insurance" checked="checked" >
                                      Insurance
                                      </label>
                                   </div>
                                   <div class="checkbox">
                                      <label>
-                                     <input type="checkbox" id="costOfLivingContact_industries_8" name="costOfLivingContact[industries][]" value="Logistics and Distribution" checked="checked" >
+                                     <input type="checkbox" id="costOfLivingContact_industries_8" name="industries" value="Logistics and Distribution" checked="checked" >
                                      Logistics and Distribution
                                      </label>
                                   </div>
                                   <div class="checkbox">
                                      <label>
-                                     <input type="checkbox" id="costOfLivingContact_industries_9" name="costOfLivingContact[industries][]" value="Media and Marketing" checked="checked" >
+                                     <input type="checkbox" id="costOfLivingContact_industries_9" name="industries" value="Media and Marketing" checked="checked" >
                                      Media and Marketing
                                      </label>
                                   </div>
                                   <div class="checkbox">
                                      <label>
-                                     <input type="checkbox" id="costOfLivingContact_industries_10" name="costOfLivingContact[industries][]" value="Retail – Luxury and FMCG" checked="checked" >
+                                     <input type="checkbox" id="costOfLivingContact_industries_10" name="industries" value="Retail – Luxury and FMCG" checked="checked" >
                                      Retail – Luxury and FMCG
                                      </label>
                                   </div>
                                   <div class="checkbox">
                                      <label>
-                                     <input type="checkbox" id="costOfLivingContact_industries_11" name="costOfLivingContact[industries][]" value="Technology and Communications" checked="checked" >
+                                     <input type="checkbox" id="costOfLivingContact_industries_11" name="industries" value="Technology and Communications" checked="checked" >
                                      Technology and Communications
                                      </label>
                                   </div>
                                   <div class="checkbox">
                                      <label>
-                                     <input type="checkbox" id="costOfLivingContact_industries_12" name="costOfLivingContact[industries][]" value="Tourism and Hospitality" checked="checked" >
+                                     <input type="checkbox" id="costOfLivingContact_industries_12" name="industries" value="Tourism and Hospitality" checked="checked" >
                                      Tourism and Hospitality
                                      </label>
                                   </div>
@@ -458,7 +458,7 @@
                             <div class="form-group">
                                <label class="col-sm-7 control-label" for="costOfLivingContact_query">Query, if any</label>
                                <div class="col-sm-12">
-                                  <textarea id="costOfLivingContact_query" name="costOfLivingContact[query]" rows="3" class="form-control"></textarea>
+                                  <textarea id="costOfLivingContact_query" name="query" rows="3" class="form-control"></textarea>
                                </div>
                             </div>
                             <div class="row">
@@ -501,7 +501,7 @@
                <div class="panel panel-default">
                   <div class="panel-body panel-body-ad">
                      <div>
-                       <img src="<?php echo $base_url;?>assets/img/cv.png" alt="Employment and Salary Trends in the Gulf 2016" width="100%"/>
+                       <img src="<?php echo $base_url;?>assets/img/cv.png" alt="Employment and Salary Trends in the JobLane 2016" width="100%"/>
                      </div>
                   </div>
                   <div class="list-group f_heading">
