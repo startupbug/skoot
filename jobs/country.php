@@ -12,35 +12,7 @@
       </div>
    </div>
    <div class="page-content">
-      <div ng-controller="flashMessagesController" id="flash-messages-persistent" ng-cloak>
-         <div class="container" ng-repeat="flashMessage in flashMessages | filter: {persistent: true}">
-            <div class="row">
-               <div class="col-sm-24">
-                  <div class="alert alert-{{ flashMessage.type }} fade container-xs-height container-block space-bottom-sm">
-                     <div class="col-xs-height col-middle pull-left">
-                        <div class="media container-xs-height">
-                           <div class="media-object col-xs-height col-middle">
-                              <i class="fa fa-fw"
-                                 >
-                              </i>
-                           </div>
-                           <div class="media-body col-xs-height col-middle text-xl">
-                            
-                          
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xs-height col-middle">
-                        <button type="button" class="close">
-                        <span aria-hidden="true">&times;</span>
-                        <span class="sr-only">Close</span>
-                        </button>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
+      
       <div ng-controller="flashMessagesController"
          scroll-to-fix
          class="flashmessage"

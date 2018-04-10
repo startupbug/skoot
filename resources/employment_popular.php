@@ -1,7 +1,4 @@
-
 <?php include('../header.php'); ?>
-
-
 <main id="main-block" >
    <div class="page-header">
       <div class="container">
@@ -16,16 +13,14 @@
          <div class="container">
             <div class="row">
                <div class="col-sm-24">
-                  
                </div>
             </div>
          </div>
       </div>
       <div class="flashmessage">
-         <div class="container" ng-repeat="flashMessage in flashMessages | filter: {persistent: false}">
+         <div class="container">
             <div class="row">
                <div class="col-sm-24">
-                 
                </div>
             </div>
          </div>
@@ -43,14 +38,13 @@
                      <div class="pull-right space-left-sm">
                         <ul class="list-inline text-lg">
                            <li>
-                              <a gt-print href="#" class="text-section">
+                              <a href="#" class="text-section">
                               <i class="fa fa-print"></i>
                               </a>
                            </li>
                         </ul>
                      </div>
-                     <h1 class="panel-title"
-                        >
+                     <h1 class="panel-title">
                         GCC jobs set to recover in 2017, led by manufacturing and healthcare
                      </h1>
                      <p class="text-md text-muted">Posted on January 31, 2017</p>
@@ -91,7 +85,7 @@
                         <p><strong>Shifting Skill Needs</strong></p>
                         <p>GulfTalent’s research found that many of the same companies reducing staff plan to simultaneously hire during 2017, as natural attrition and changes in business requirements create vacancies that need to be filled.</p>
                         <p>Some companies are eliminating a range of jobs within their organizations to cut costs, reducing department sizes and consolidating multiple job descriptions within a single hire. This may be good news for those possessing a range of skill sets, though less fortunate for those highly specialized in a single discipline.</p>
-                        <p>This trend has stimulated a demand for training from both companies and individuals seeking to reinforce their capabilities and learn new marketable skills in a highly competitive job market.  As a result, GulfTalent has witnessed a surge in demand on its <a href="../../courses.html" target="_blank">courses</a> platform, including online courses that can be taken remotely, in addition to its core <a href="../../jobs.html" target="_blank">jobs</a> and recruitment services which continue to attract thousands of professionals every day.</p>
+                        <p>This trend has stimulated a demand for training from both companies and individuals seeking to reinforce their capabilities and learn new marketable skills in a highly competitive job market.  As a result, GulfTalent has witnessed a surge in demand on its <a href="#">courses</a> platform, including online courses that can be taken remotely, in addition to its core <a href="#">jobs</a> and recruitment services which continue to attract thousands of professionals every day.</p>
                         <p><strong>Survey Methodology</strong></p>
                         <p>GulfTalent’s study was based on a survey of 854 senior executives, including CEOs and HR managers of companies across the six countries of the Gulf Cooperation Council (GCC). The survey was conducted during December 2016 and January 2017.</p>
                      </div>
@@ -318,23 +312,23 @@
                      <form class="form-horizontal" action="https://www.gulftalent.com/resources/employment-news/gcc-jobs-set-to-recover-in-2017-led-by-manufacturing-and-healthcare-76" method="post">
                         <div class="form-group">
                            <div class="col-sm-12">
-                              <input type="text" id="articleComment_name" name="articleComment[name]"    placeholder="Name" class="form-control input-lg" />
+                              <input type="text" id="articleComment_name" name="name" placeholder="Name" class="form-control input-lg" />
                            </div>
                            <div class="col-sm-12">
-                              <input type="text" id="articleComment_email" name="articleComment[email]"    placeholder="Email" class="form-control input-lg" />
-                           </div>
-                        </div>
-                        <div class="form-group">
-                           <div class="col-sm-12">
-                              <input type="text" id="articleComment_position" name="articleComment[position]"    placeholder="Job Title" class="form-control input-lg" />
-                           </div>
-                           <div class="col-sm-12">
-                              <input type="text" id="articleComment_company" name="articleComment[company]"    placeholder="Company" class="form-control input-lg" />
+                              <input type="text" id="articleComment_email" name="email" placeholder="Email" class="form-control input-lg" />
                            </div>
                         </div>
                         <div class="form-group">
                            <div class="col-sm-12">
-                              <select id="articleComment_country" name="articleComment[country]"    class="form-control input-lg">
+                              <input type="text" id="articleComment_position" name="position" placeholder="Job Title" class="form-control input-lg" />
+                           </div>
+                           <div class="col-sm-12">
+                              <input type="text" id="articleComment_company" name="company" placeholder="Company" class="form-control input-lg" />
+                           </div>
+                        </div>
+                        <div class="form-group">
+                           <div class="col-sm-12">
+                              <select id="articleComment_country" name="country" class="form-control input-lg">
                                  <option value="">Your Location</option>
                                  <option value="10999121000000">Afghanistan</option>
                                  <option value="90999301000000">Albania</option>
@@ -583,13 +577,13 @@
                         </div>
                         <div class="form-group">
                            <div class="col-sm-24">
-                              <textarea id="articleComment_comment_content" name="articleComment[comment_content]"    rows="8" placeholder="Your comment" class="form-control input-lg"></textarea>
+                              <textarea id="articleComment_comment_content" name="comment_content" rows="8" placeholder="Your comment" class="form-control input-lg"></textarea>
                            </div>
                         </div>
                         <div class="form-group">
                            <div class="radio">
                               <label>
-                              <input type="radio" name="articleComment[comment_type]"
+                              <input type="radio" name="comment_type"
                                  id="articleComment_comment_type_0" value="Publish"
                                  checked  />
                               I am happy for my comment to be published online
@@ -597,10 +591,10 @@
                            </div>
                            <div class="radio">
                               <label>
-                              <input type="radio" name="articleComment[comment_type]"
+                              <input type="radio" name="comment_type"
                                  id="articleComment_comment_type_1" value="Private"
                                  />
-                              Private comment - For GulfTalent only
+                              Private comment - For JobLane only
                               </label>
                            </div>
                         </div>
@@ -613,10 +607,10 @@
                            To post a comment, please fill in the answer in the box: 
                            12 + 4 =
                            </span>
-                           <input type="text" id="articleComment_captcha_response" name="articleComment[captcha_response]" required="required"    size="2" autocomplete="off" class="form-control" />
+                           <input type="text" id="articleComment_captcha_response" name="captcha_response" required="required"    size="2" autocomplete="off" class="form-control" />
                         </div>
-                        <input type="hidden" id="articleComment_captcha_expression" name="articleComment[captcha_expression]"    class="form-control input-lg" value="12 + 4" />
-                        <input type="hidden" id="articleComment_captcha_token" name="articleComment[captcha_token]"    class="form-control input-lg" value="1574bddb75c78a6fd2251d61e2993b5146201319" />
+                        <input type="hidden" id="articleComment_captcha_expression" name="captcha_expression" class="form-control input-lg" value="12 + 4" />
+                        <input type="hidden" id="articleComment_captcha_token" name="captcha_token" class="form-control input-lg" value="1574bddb75c78a6fd2251d61e2993b5146201319" />
                         <div class="row">
                            <div class="col-sm-12 col-sm-offset-6">
                               <button class="btn btn-section btn-lg btn-block" type="submit">
@@ -632,18 +626,11 @@
                hidden-print">
                <div class="panel panel-default">
                   <div class="panel-body panel-body-ad">
-                     <div gt-ad
-                        gt-ad-name="box_300x250"
-                        gt-ad-width="300"
-                        gt-ad-height="250"
-                        gt-ad-fallback-media="/images/free-cv-review.png?v2_68_0"
-                        gt-ad-fallback-url="/resources/job-search-support/free-cv-review"
-                        style="width: 300px; height: 250px;"
-                        >
+                     <div style="width: 300px; height: 250px;">
                      </div>
                   </div>
                   <div class="list-group">
-                     <a class="list-group-item" href="../../advertising-agencies.html">
+                     <a class="list-group-item" href="#">
                      <i class="fa fa-fw fa-chevron-right text-primary"></i>
                      Advertise Here
                      </a>
@@ -698,7 +685,7 @@
                   <div class="list-group">
                      <a href="<?php echo $base_url;?>resources/employment_salaries.php"
                         class="list-group-item">
-                        2016 Gulf pay rises lowest in a decade, despite rising costs <br />
+                        2016 JobLane pay rises lowest in a decade, despite rising costs <br />
                         <ul class="list-inline text-sm text-supermuted">
                            <li>Mar 2016</li>
                            <li class="pull-right">
@@ -802,7 +789,7 @@
                            </div>
                         </div>
                      </a>
-                      <a class="list-group-item" href="<?php echo $base_url;?>jobs/executive.php">
+                     <a class="list-group-item" href="<?php echo $base_url;?>jobs/executive.php">
                         <div class="media">
                            <div class="media-object pull-left">
                               <i class="flag flag-base flag-QA"></i>
@@ -813,7 +800,7 @@
                            </div>
                         </div>
                      </a>
-                      <a class="list-group-item" href="<?php echo $base_url;?>jobs/executive.php">
+                     <a class="list-group-item" href="<?php echo $base_url;?>jobs/executive.php">
                         <div class="media">
                            <div class="media-object pull-left">
                               <i class="flag flag-base flag-SA"></i>
@@ -834,7 +821,5 @@
          </div>
       </div>
    </div>
-   
-   
 </main>
 <?php include('../footer.php'); ?>

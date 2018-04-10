@@ -1,4 +1,3 @@
-
 <?php include('../header.php'); ?>
 <main id="main-block" >
    <div class="page-header">
@@ -215,7 +214,7 @@
                      <h4 class="text-regular">Contact Information</h4>
                      <p>
                         If you have any questions concerning this site or its policies, please contact us
-                        <a gt-modal-contact-forms-contact-us>
+                        <a>
                         contact us
                         </a>.
                      </p>
@@ -332,7 +331,5 @@
          </div>
       </div>
    </div>
-
 </main>
-
 <?php include('../footer.php'); ?>

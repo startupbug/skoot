@@ -1,7 +1,6 @@
 <?php include('../header.php'); ?>
 <main id="main-block">
    <div class="">
-      
       <div style="background-image: url(<?php echo $base_url;?>assets/img/employer_job.png)" class="jumbotron bg-cover">
          <div class="container">
             <div class="row">
@@ -10,7 +9,7 @@
                      Your business needs the right people
                   </h1>
                   <p class="text-lg text-heading text-inverted f_inverted">
-                     Recruit top professionals through GulfTalent
+                     Recruit top professionals through JobLane
                   </p>
                </div>
                <div class="col-sm-11 col-sm-offset-3">
@@ -71,13 +70,13 @@
                         <img src="<?php echo $base_url;?>assets/img/testimonials/testimonial-1.png" class="img-thumbnail img-responsive center-block f_img" />
                      </div>
                      <div class="col-xs-4">
-                       <img src="<?php echo $base_url;?>assets/img/testimonials/testimonial-1.png" class="img-thumbnail img-responsive center-block f_img" />
+                        <img src="<?php echo $base_url;?>assets/img/testimonials/testimonial-1.png" class="img-thumbnail img-responsive center-block f_img" />
                      </div>
                      <div class="col-xs-4">
-                       <img src="<?php echo $base_url;?>assets/img/testimonials/testimonial-1.png" class="img-thumbnail img-responsive center-block f_img" />
+                        <img src="<?php echo $base_url;?>assets/img/testimonials/testimonial-1.png" class="img-thumbnail img-responsive center-block f_img" />
                      </div>
                      <div class="col-xs-4">
-                       <img src="<?php echo $base_url;?>assets/img/testimonials/testimonial-1.png" class="img-thumbnail img-responsive center-block f_img" />
+                        <img src="<?php echo $base_url;?>assets/img/testimonials/testimonial-1.png" class="img-thumbnail img-responsive center-block f_img" />
                      </div>
                      <div class="col-xs-4">
                         <img src="<?php echo $base_url;?>assets/img/testimonials/testimonial-1.png" class="img-thumbnail img-responsive center-block f_img" />
@@ -90,7 +89,7 @@
       <section class="bg-light">
          <div class="container">
             <div class="row space-top-lg">
-               <h1 class="text-center space-bottom-xl">Start recruiting today with GulfTalent</h1>
+               <h1 class="text-center space-bottom-xl">Start recruiting today with JobLane</h1>
                <div class="col-sm-8">
                   <div class="panel panel-default">
                      <div class="panel-body">
@@ -109,7 +108,6 @@
                            <h3 class="space-top-sm space-bottom-sm f_posting">Job Posting</h3>
                            <div class="row">
                               <div class="col-xs-14 col-xs-offset-5">
-                                
                               </div>
                            </div>
                            <p class="space-top-sm space-bottom-sm">
@@ -137,18 +135,11 @@
                            <h3 class="space-top-sm space-bottom-sm f_posting">CV Search</h3>
                            <div class="row">
                               <div class="col-xs-14 col-xs-offset-5">
-                                
                               </div>
                            </div>
                            <p class="space-top-sm space-bottom-sm">
                               Access database of 7 million professionals and contact them instantly
                            </p>
-                           <!--<div class="text-center text-med space-top-sm">
-                              <a href="employers/trial-cv-search-dynamic.html" class="text-heading">
-                              <i class="fa fa-fw fa-chevron-right text-primary"></i>
-                              Start your free trial now!
-                              </a>
-                           </div>-->
                         </div>
                      </div>
                   </div>
@@ -171,7 +162,6 @@
                            <h3 class="space-top-sm space-bottom-sm f_posting">Employer Branding</h3>
                            <div class="row">
                               <div class="col-xs-14 col-xs-offset-5">
-                               
                               </div>
                            </div>
                            <p class="space-top-sm space-bottom-sm">
@@ -241,7 +231,6 @@
                            <h3 class="space-top-sm space-bottom-sm f_posting">Focused</h3>
                            <div class="row">
                               <div class="col-xs-14 col-xs-offset-5">
-                                
                               </div>
                            </div>
                            <p class="space-top-sm space-bottom-sm">
@@ -269,7 +258,6 @@
                            <h3 class="space-top-sm space-bottom-sm f_posting">Dedicated</h3>
                            <div class="row">
                               <div class="col-xs-14 col-xs-offset-5">
-                                
                               </div>
                            </div>
                            <p class="space-top-sm space-bottom-sm">
@@ -297,7 +285,6 @@
                            <h3 class="space-top-sm space-bottom-sm f_posting">Cost-Effective</h3>
                            <div class="row">
                               <div class="col-xs-14 col-xs-offset-5">
-                               
                               </div>
                            </div>
                            <p class="space-top-sm space-bottom-sm">
@@ -319,53 +306,31 @@
                      <div slide class="container-xs-height media-height-med">
                         <div class="row row-xs-height">
                            <div class="col-xs-4 col-xs-height col-middle media-height-med">
-                             <img src="<?php echo $base_url;?>assets/img/featured/cnn.jpg" alt="CNN" class="img-responsive center-block" />
+                              <img src="<?php echo $base_url;?>assets/img/featured/cnn.jpg" alt="CNN" class="img-responsive center-block" />
                            </div>
                            <div class="col-xs-4 col-xs-height col-middle media-height-med">
-                            <img src="<?php echo $base_url;?>assets/img/featured/bloomberg.jpg" alt="CNN" class="img-responsive center-block" />
+                              <img src="<?php echo $base_url;?>assets/img/featured/bloomberg.jpg" alt="CNN" class="img-responsive center-block" />
                            </div>
                            <div class="col-xs-4 col-xs-height col-middle media-height-med">
-                             <img src="<?php echo $base_url;?>assets/img/featured/cnn.jpg" alt="CNN" class="img-responsive center-block" />
+                              <img src="<?php echo $base_url;?>assets/img/featured/cnn.jpg" alt="CNN" class="img-responsive center-block" />
                            </div>
                            <div class="col-xs-4 col-xs-height col-middle media-height-med">
-                           <img src="<?php echo $base_url;?>assets/img/featured/cnn.jpg" alt="CNN" class="img-responsive center-block" />
+                              <img src="<?php echo $base_url;?>assets/img/featured/cnn.jpg" alt="CNN" class="img-responsive center-block" />
                            </div>
                            <div class="col-xs-4 col-xs-height col-middle media-height-med">
-                            <img src="<?php echo $base_url;?>assets/img/featured/cnn.jpg" alt="CNN" class="img-responsive center-block" />
+                              <img src="<?php echo $base_url;?>assets/img/featured/cnn.jpg" alt="CNN" class="img-responsive center-block" />
                            </div>
                            <div class="col-xs-4 col-xs-height col-middle media-height-med">
-                             <img src="<?php echo $base_url;?>assets/img/featured/cnn.jpg" alt="CNN" class="img-responsive center-block" />
+                              <img src="<?php echo $base_url;?>assets/img/featured/cnn.jpg" alt="CNN" class="img-responsive center-block" />
                            </div>
                         </div>
                      </div>
-                     <!--<div slide class="container-xs-height media-height-med">
-                        <div class="row row-xs-height">
-                           <div class="col-xs-4 col-xs-height col-middle media-height-med">
-                              <img src="images1/logos/HE874-1935_minilogoa95c.png?v2_68_0" class="center-block" />
-                           </div>
-                           <div class="col-xs-4 col-xs-height col-middle media-height-med">
-                              <img src="images1/logos/HE048-1109_logoa95c.jpg?v2_68_0" class="center-block" />
-                           </div>
-                           <div class="col-xs-4 col-xs-height col-middle media-height-med">
-                              <img src="images1/logos/OE580-6636_logoa95c.png?v2_68_0" class="center-block" />
-                           </div>
-                           <div class="col-xs-4 col-xs-height col-middle media-height-med">
-                              <img src="images1/logos/NE485-5542_logoa95c.jpg?v2_68_0" class="center-block" />
-                           </div>
-                           <div class="col-xs-4 col-xs-height col-middle media-height-med">
-                              <img src="images1/logos/GE991-1050_logoa95c.jpg?v2_68_0" class="center-block" />
-                           </div>
-                           <div class="col-xs-4 col-xs-height col-middle media-height-med">
-                              <img src="images1/logos/GE178-236_logoa95c.png?v2_68_0" class="center-block" />
-                           </div>
-                        </div>
-                     </div>-->
                   </div>
                </div>
             </div>
          </div>
       </section>
-     <!-- <section class="bg-dark">
+      <!-- <section class="bg-dark">
          <div class="container">
             <h1 class="text-center trigger-slides">What our clients say</h1>
             <div>
@@ -516,33 +481,13 @@
                </carousel>
             </div>
          </div>
-      </section>-->
+         </section>-->
       <section class="bg-light">
          <div class="container">
             <div class="row space-top-lg space-bottom-lg">
                <div class="col-sm-24">
                   <h1 class="text-center space-bottom-xxl">Featured in leading media</h1>
                   <div class="container-xs-height space-bottom-lg">
-                     <!--<div class="row row-xs-height">
-                        <div class="col-xs-height col-middle col-xs-4">
-                           <img src="<?php echo $base_url;?>assets/img/featured/cnn.jpg" alt="CNN" class="img-responsive center-block" />
-                        </div>
-                        <div class="col-xs-height col-middle col-xs-4">
-                         <img src="<?php echo $base_url;?>assets/img/featured/bloomberg.jpg" alt="CNN" class="img-responsive center-block" />
-                        </div>
-                        <div class="col-xs-height col-middle col-xs-4">
-                         <img src="<?php echo $base_url;?>assets/img/featured/financial.jpg" alt="CNN" class="img-responsive center-block" />
-                        </div>
-                        <div class="col-xs-height col-middle col-xs-4">
-                           <img src="<?php echo $base_url;?>assets/img/featured/aljazeera.jpg" alt="CNN" class="img-responsive center-block" />
-                        </div>
-                        <div class="col-xs-height col-middle col-xs-4">
-                           <img src="<?php echo $base_url;?>assets/img/featured/reuters.png" alt="CNN" class="img-responsive center-block" />
-                        </div>
-                        <div class="col-xs-height col-middle col-xs-4">
-                          <img src="<?php echo $base_url;?>assets/img/featured/news-s-ashargha95c.png" alt="CNN" class="img-responsive center-block" />
-                        </div>
-                     </div>-->
                   </div>
                </div>
             </div>
@@ -581,7 +526,7 @@
                                        </div>
                                     </div>
                                     <div class="media-body col-xs-height col-middle">
-                                       <h4 class="space-bottom-none text-link">Try CV Search for Free</h4>
+                                       <h4 class="space-bottom-none text-link f_link">Try CV Search for Free</h4>
                                     </div>
                                  </div>
                               </div>
@@ -594,7 +539,5 @@
          </div>
       </section>
    </div>
-   
-  
 </main>
 <?php include('../footer.php'); ?>

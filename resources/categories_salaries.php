@@ -1,6 +1,3 @@
-
-
-
 <?php include('../header.php'); ?>
 <main id="main-block">
    <div class="page-header">
@@ -18,16 +15,14 @@
          <div class="container">
             <div class="row">
                <div class="col-sm-24">
-               
                </div>
             </div>
          </div>
       </div>
       <div  class="flashmessage">
-         <div class="container" ng-repeat="flashMessage in flashMessages | filter: {persistent: false}">
+         <div class="container">
             <div class="row">
                <div class="col-sm-24">
-                
                </div>
             </div>
          </div>
@@ -115,7 +110,7 @@
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
-                             <img src="<?php echo $base_url;?>assets/img/featured/thumbnail.png" width="205px" height="138px" />
+                              <img src="<?php echo $base_url;?>assets/img/featured/thumbnail.png" width="205px" height="138px" />
                            </div>
                            <div class="media-body">
                               <span class="text-med text-link">Jobs slowdown drives up demand for postgraduate study</span>
@@ -138,7 +133,7 @@
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
-                               <img src="<?php echo $base_url;?>assets/img/featured/thumbnail.png" width="205px" height="138px" />
+                              <img src="<?php echo $base_url;?>assets/img/featured/thumbnail.png" width="205px" height="138px" />
                            </div>
                            <div class="media-body">
                               <span class="text-med text-link">How to Build a Strong Employer Brand</span>
@@ -164,7 +159,7 @@
                               <img src="<?php echo $base_url;?>assets/img/featured/thumbnail.png" width="205px" height="138px" />
                            </div>
                            <div class="media-body">
-                              <span class="text-med text-link">Gulf construction firms continue to hire, despite oil slump</span>
+                              <span class="text-med text-link">Job construction firms continue to hire, despite oil slump</span>
                               <ul class="list-inline text-sm text-muted">
                                  <li>
                                     September 16, 2015
@@ -174,7 +169,7 @@
                                  </li>
                               </ul>
                               <p class="text-base">
-                                 Construction companies across the Gulf region continue to seek talent for their projects, according to a panel of company directors from the constru
+                                 Construction companies across the Job region continue to seek talent for their projects, according to a panel of company directors from the constru
                                  <span class="text-base text-link">...Read more</span>
                               </p>
                            </div>
@@ -210,7 +205,7 @@
                               <img src="<?php echo $base_url;?>assets/img/featured/thumbnail.png" width="205px" height="138px" />
                            </div>
                            <div class="media-body">
-                              <span class="text-med text-link">Saudi Arabia and Qatar lead job creation in the Gulf</span>
+                              <span class="text-med text-link">Saudi Arabia and Qatar lead job creation in the Job</span>
                               <ul class="list-inline text-sm text-muted">
                                  <li>
                                     April 19, 2010
@@ -233,7 +228,7 @@
                               <img src="<?php echo $base_url;?>assets/img/featured/thumbnail.png" width="205px" height="138px" />
                            </div>
                            <div class="media-body">
-                              <span class="text-med text-link">Economic downturn reduces recruitment activity in the Gulf</span>
+                              <span class="text-med text-link">Economic downturn reduces recruitment activity in the Job</span>
                               <ul class="list-inline text-sm text-muted">
                                  <li>
                                     July 9, 2009
@@ -253,7 +248,7 @@
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
-                             <img src="<?php echo $base_url;?>assets/img/featured/thumbnail.png" width="205px" height="138px" />
+                              <img src="<?php echo $base_url;?>assets/img/featured/thumbnail.png" width="205px" height="138px" />
                            </div>
                            <div class="media-body">
                               <span class="text-med text-link">Dubai&#039;s appeal continues despite rising costs</span>
@@ -266,7 +261,7 @@
                                  </li>
                               </ul>
                               <p class="text-base">
-                                 Despite high inflation and the lowest savings rate in the region, the UAE remains the most popular Gulf destination for expatriates, according to th
+                                 Despite high inflation and the lowest savings rate in the region, the UAE remains the most popular Job destination for expatriates, according to th
                                  <span class="text-base text-link">...Read more</span>
                               </p>
                            </div>
@@ -276,10 +271,10 @@
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
-                               <img src="<?php echo $base_url;?>assets/img/featured/thumbnail.png" width="205px" height="138px" />
+                              <img src="<?php echo $base_url;?>assets/img/featured/thumbnail.png" width="205px" height="138px" />
                            </div>
                            <div class="media-body">
-                              <span class="text-med text-link">Skills shortages threaten the Gulf&#039;s construction boom</span>
+                              <span class="text-med text-link">Skills shortages threaten the Job&#039;s construction boom</span>
                               <ul class="list-inline text-sm text-muted">
                                  <li>
                                     October 9, 2006
@@ -289,7 +284,7 @@
                                  </li>
                               </ul>
                               <p class="text-base">
-                                 The Gulf&#039;s construction sector continues its rapid growth but is facing severe staffing challenges as too many companies compete for a limited supp
+                                 The Job&#039;s construction sector continues its rapid growth but is facing severe staffing challenges as too many companies compete for a limited supp
                                  <span class="text-base text-link">...Read more</span>
                               </p>
                            </div>
@@ -299,10 +294,10 @@
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
-                               <img src="<?php echo $base_url;?>assets/img/featured/thumbnail.png" width="205px" height="138px" />
+                              <img src="<?php echo $base_url;?>assets/img/featured/thumbnail.png" width="205px" height="138px" />
                            </div>
                            <div class="media-body">
-                              <span class="text-med text-link">Gulf financial jobs soar as growth accelerates</span>
+                              <span class="text-med text-link">Job financial jobs soar as growth accelerates</span>
                               <ul class="list-inline text-sm text-muted">
                                  <li>
                                     February 8, 2006
@@ -312,7 +307,7 @@
                                  </li>
                               </ul>
                               <p class="text-base">
-                                 The rapid growth experienced by the Gulf&#039;s banking and financial services companies is fuelling a regional employment boom in the sector, according 
+                                 The rapid growth experienced by the Job&#039;s banking and financial services companies is fuelling a regional employment boom in the sector, according 
                                  <span class="text-base text-link">...Read more</span>
                               </p>
                            </div>
@@ -358,7 +353,7 @@
                                  </li>
                               </ul>
                               <p class="text-base">
-                                 GulfTalent&#039;s research focused on the supply and demand for lawyers in the main countries of the Gulf Cooperation Council. The results showed that term
+                                 JobLane&#039;s research focused on the supply and demand for lawyers in the main countries of the JobLane Cooperation Council. The results showed that term
                                  <span class="text-base text-link">...Read more</span>
                               </p>
                            </div>
@@ -376,7 +371,7 @@
                   <div class="list-group">
                      <a href="#"
                         class="list-group-item">
-                        2016 Gulf pay rises lowest in a decade, despite rising costs <br />
+                        2016 JobLane pay rises lowest in a decade, despite rising costs <br />
                         <ul class="list-inline text-sm text-supermuted">
                            <li>Mar 2016</li>
                            <li class="pull-right">
@@ -438,7 +433,7 @@
                            </div>
                         </div>
                      </a>
-                    <a href="<?php echo $base_url;?>resources/categories_salaries.php"
+                     <a href="<?php echo $base_url;?>resources/categories_salaries.php"
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
@@ -450,7 +445,7 @@
                            </div>
                         </div>
                      </a>
-                    <a href="<?php echo $base_url;?>resources/workplace.php"
+                     <a href="<?php echo $base_url;?>resources/workplace.php"
                         class="list-group-item">
                         <div class="media">
                            <div class="media-object pull-left">
@@ -468,6 +463,5 @@
          </div>
       </div>
    </div>
-  
 </main>
 <?php include('../footer.php'); ?>

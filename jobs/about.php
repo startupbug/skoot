@@ -457,16 +457,5 @@
       </ul>
    </section>
 </main>
-<!-- Google Code for Remarketing Tag -->
-<script type="text/javascript">
-   var google_conversion_id = 1071034449;
-   var google_custom_params = window.google_tag_params;
-   var google_remarketing_only = true;
-</script>
-<script type="text/javascript" async="true" src="../www.googleadservices.com/pagead/f.txt"></script>
-<noscript>
-   <div style="display:inline;">
-      <img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/1071034449/?value=0&amp;guid=ON&amp;script=0"/>
-   </div>
-</noscript>
+
 <?php include('../footer.php') ;?>

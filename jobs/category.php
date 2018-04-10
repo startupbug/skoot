@@ -21,7 +21,7 @@
                            <div class="media container-xs-height media-height-sm">
                               <div class="media-object pull-left">
                                  <div class="icon icon-circle icon-2x icon-circle-section hover-expand">
-                                    <i class="fa  fa-teacher"></i>
+                                    <i class="fa fa-teacher"></i>
                                  </div>
                               </div>
                               <div class="media-body col-xs-height col-middle">

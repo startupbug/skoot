@@ -1,6 +1,6 @@
 <?php include('../header.php'); ?>
 
-<main id="main-block" gt-scroll-on="facetedSearch.pagination:changed" gt-scroll-speed="50">
+<main id="main-block">
    <div class="page-header">
       <div class="container">
          <div class="row">

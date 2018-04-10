@@ -1,9 +1,6 @@
-
 <?php include('../header.php'); ?>
-
 <main id="main-block">
    <div class="">
-    
       <div style="background-image: url(<?php echo $base_url;?>assets/img/featured/universities_img.png)" class="jumbotron bg-cover">
          <div class="container space-top-lg space-bottom-lg">
             <div class="row">
@@ -31,13 +28,11 @@
       <section class="bg-light">
          <div class="container">
             <div class="row space-top-xl space-bottom-lg">
-                <h2 class="text-hg text-center space-bottom-xl">Invite the region's top professionals </h2>
+               <h2 class="text-hg text-center space-bottom-xl">Invite the region's top professionals </h2>
                <div class="col-sm-3 col-sm-offset-3 space-top-med">
                   <i class="fa fa-users fa-5x text-muted"></i>
                </div>
-
                <div class="col-sm-18">
-
                   <h2 class="text-left space-top-xl space-bottom-xl text-muted">
                      <span class="text-elegant f_reach">Reach out to </span>
                      <span class="text-hg text-primary f_million">7 million</span>
@@ -63,11 +58,11 @@
                      <h3 class="f_num">Jobs</h3>
                      <div class="row">
                         <div class="col-sm-8 col-sm-offset-8">
-                          <!-- <hr class="space-top-sm supermuted" />-->
+                           <!-- <hr class="space-top-sm supermuted" />-->
                         </div>
                      </div>
                   </div>
-                  <p class="text-center text-muted text-elegant text-xl f_entry">Find entry level jobs for your<br />graduates through GulfTalent</p>
+                  <p class="text-center text-muted text-elegant text-xl f_entry">Find entry level jobs for your<br />graduates through JobLane</p>
                </div>
                <div class="col-sm-8">
                   <div class="media text-center">
@@ -81,7 +76,7 @@
                      <h3 class="f_num">Internships</h3>
                      <div class="row">
                         <div class="col-sm-8 col-sm-offset-8">
-                          <!-- <hr class="space-top-sm supermuted" />-->
+                           <!-- <hr class="space-top-sm supermuted" />-->
                         </div>
                      </div>
                   </div>
@@ -99,7 +94,7 @@
                      <h3 class="f_num">Career Day</h3>
                      <div class="row">
                         <div class="col-sm-8 col-sm-offset-8">
-                          <!-- <hr class="space-top-sm supermuted" />-->
+                           <!-- <hr class="space-top-sm supermuted" />-->
                         </div>
                      </div>
                   </div>
@@ -132,63 +127,51 @@
             <div class="row space-top-xl space-bottom-xl">
                <h2 class="text-hg text-center space-bottom-xl">The top choice for leading universities</h2>
                <div class="col-sm-4 text-center space-left-med space-right-med">
-                 <!-- <h3 class="text-muted text-xl">UAE</h3>-->
-               <img class="img-responsive center-block" src="<?php echo $base_url;?>assets/img/featured/uni1.png">
-                 
+                  <!-- <h3 class="text-muted text-xl">UAE</h3>-->
+                  <img class="img-responsive center-block" src="<?php echo $base_url;?>assets/img/featured/uni1.png">
                </div>
                <div class="col-sm-4 text-center space-right-med">
                   <!--<h3 class="text-muted text-xl">Saudi Arabia</h3>-->
                   <img class="img-responsive center-block" src="<?php echo $base_url;?>assets/img/featured/uni2.png">
-                 
                </div>
                <div class="col-sm-4 text-center space-right-med">
-                 <!-- <h3 class="text-muted text-xl">Oman</h3>-->
+                  <!-- <h3 class="text-muted text-xl">Oman</h3>-->
                   <img class="img-responsive center-block" src="<?php echo $base_url;?>assets/img/featured/uni3.png">
-                  
                </div>
                <div class="col-sm-4 text-center space-right-med">
                   <!--<h3 class="text-muted text-xl">Bahrain</h3>-->
                   <img class="img-responsive center-block" src="<?php echo $base_url;?>assets/img/featured/uni4.png">
-                  
                </div>
                <div class="col-sm-4 text-center space-right-med">
                   <!--<h3 class="text-muted text-xl">Qatar</h3>-->
                   <img class="img-responsive center-block" src="<?php echo $base_url;?>assets/img/featured/uni5.png">
-                 
                </div>
             </div>
          </div>
       </section>
-<section class="bg-cover jumbotron" style="background-image: url(<?php echo $base_url;?>assets/img/featured/event_bottom.png)">
+      <section class="bg-cover jumbotron" style="background-image: url(<?php echo $base_url;?>assets/img/featured/event_bottom.png)">
          <div class="container">
             <div class="row">
                <div class="col-sm-24">
                   <h2 class="text-hg text-center">
-                     <div class="space-bottom-med">Interested? Get in touch</div>
-                      <div class="row row-xs-height">
-               <div class="col-xs-height col-middle col-xs-12 text-right">
-                  <h3 class=" space-bottom-none space-top-none f_event f_call">Call Now +971 4 278 5200</h3>
+                  <div class="space-bottom-med">Interested? Get in touch</div>
+                  <div class="row row-xs-height">
+                     <div class="col-xs-height col-middle col-xs-12 text-right">
+                        <h3 class=" space-bottom-none space-top-none f_event f_call">Call Now +971 4 278 5200</h3>
+                     </div>
+                     <div class="col-xs-height col-middle col-xs-2 text-center">
+                        <h3 class=" space-bottom-none space-top-none">or</h3>
+                     </div>
+                     <div class="col-xs-height col-middle col-xs-10 text-left">
+                        <a class="btn btn-tertiary btn-lg f_btn_call">
+                        Request a Call back
+                        </a>
+                     </div>
+                  </div>
                </div>
-               <div class="col-xs-height col-middle col-xs-2 text-center">
-                  <h3 class=" space-bottom-none space-top-none">or</h3>
-               </div>
-               <div class="col-xs-height col-middle col-xs-10 text-left">
-                  <a class="btn btn-tertiary btn-lg f_btn_call">
-                  Request a Call back
-                  </a>
-               </div>
-            </div>
-                     <!--<div class="space-bottom-med">Call Now: +971 4 278 5200</div>
-                     <div class="space-bottom-med">or</div>
-                  </h2>
-               </div>
-               <div class="col-sm-6 col-sm-offset-9 space-bottom-lg">
-                  <a gt-modal-contact-forms-contact-us class="btn btn-tertiary btn-block text-xxl">Request a Call</a>
-               </div>-->
             </div>
          </div>
-      </div>
-   </section>
+      </section>
       <section class="bg-light f_bg">
          <div class="container">
             <div class="row">
@@ -198,7 +181,5 @@
          </div>
       </section>
    </div>
-   
 </main>
-
 <?php include('../footer.php'); ?>

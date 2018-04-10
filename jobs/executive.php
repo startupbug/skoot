@@ -63,31 +63,31 @@
                               <li class="filter-group-list-item">
                                  <div class="checkbox">
                                     <label title="Kuala Lumpur"><input type="checkbox">Kuala Lumpur</label>
-                                    <div class="pull-right ng-binding">(8)</div>
+                                    <div class="pull-right">(8)</div>
                                  </div>
                               </li>
                               <li class="filter-group-list-item">
                                  <div class="checkbox">
                                     <label title="Selongar"><input type="checkbox">Selongar</label>
-                                    <div class="pull-right ng-binding">(7)</div>
+                                    <div class="pull-right">(7)</div>
                                  </div>
                               </li>
                               <li class="filter-group-list-item">
                                  <div class="checkbox">
                                     <label title="Penang"><input type="checkbox">Penang</label>
-                                    <div class="pull-right ng-binding">(87)</div>
+                                    <div class="pull-right">(87)</div>
                                  </div>
                               </li>
                               <li class="filter-group-list-item">
                                  <div class="checkbox">
                                     <label title="Johar"><input type="checkbox">Johar</label>
-                                    <div class="pull-right ng-binding">(187)</div>
+                                    <div class="pull-right">(187)</div>
                                  </div>
                               </li>
                               <li class="filter-group-list-item">
                                  <div class="checkbox">
                                     <label title="Sarawak"><input type="checkbox">Sarawak</label>
-                                    <div class="pull-right ng-binding">(87)</div>
+                                    <div class="pull-right">(87)</div>
                                  </div>
                               </li>
                               <li>
@@ -113,31 +113,31 @@
                               <li class="filter-group-list-item">
                                  <div class="checkbox">
                                     <label title="Civil Engineering"><input type="checkbox">Civil Engineering</label>
-                                    <div class="pull-right ng-binding">(8)</div>
+                                    <div class="pull-right">(8)</div>
                                  </div>
                               </li>
                               <li class="filter-group-list-item">
                                  <div class="checkbox">
                                     <label title="Management"><input type="checkbox">Management</label>
-                                    <div class="pull-right ng-binding">(7)</div>
+                                    <div class="pull-right">(7)</div>
                                  </div>
                               </li>
                               <li class="filter-group-list-item">
                                  <div class="checkbox">
                                     <label title="Finance & Consulting"><input type="checkbox">Finance & Consulting</label>
-                                    <div class="pull-right ng-binding">(87)</div>
+                                    <div class="pull-right">(87)</div>
                                  </div>
                               </li>
                               <li class="filter-group-list-item">
                                  <div class="checkbox">
                                     <label title="Legal"><input type="checkbox">Legal</label>
-                                    <div class="pull-right ng-binding">(187)</div>
+                                    <div class="pull-right">(187)</div>
                                  </div>
                               </li>
                               <li class="filter-group-list-item">
                                  <div class="checkbox">
                                     <label title="Software"><input type="checkbox">Software</label>
-                                    <div class="pull-right ng-binding">(87)</div>
+                                    <div class="pull-right">(87)</div>
                                  </div>
                               </li>
                               <li>
@@ -163,31 +163,31 @@
                               <li class="filter-group-list-item">
                                  <div class="checkbox">
                                     <label title="Top Management / Director"><input type="checkbox">Top Management / Director</label>
-                                    <div class="pull-right ng-binding">(8)</div>
+                                    <div class="pull-right">(8)</div>
                                  </div>
                               </li>
                               <li class="filter-group-list-item">
                                  <div class="checkbox">
                                     <label title="Experienced professional"><input type="checkbox">Experienced professional</label>
-                                    <div class="pull-right ng-binding">(7)</div>
+                                    <div class="pull-right">(7)</div>
                                  </div>
                               </li>
                               <li class="filter-group-list-item">
                                  <div class="checkbox">
                                     <label title="Supervisor / Manager"><input type="checkbox">Supervisor / Manager</label>
-                                    <div class="pull-right ng-binding">(87)</div>
+                                    <div class="pull-right">(87)</div>
                                  </div>
                               </li>
                               <li class="filter-group-list-item">
                                  <div class="checkbox">
                                     <label title="Junior Professional"><input type="checkbox">Junior Professional</label>
-                                    <div class="pull-right ng-binding">(187)</div>
+                                    <div class="pull-right">(187)</div>
                                  </div>
                               </li>
                               <li class="filter-group-list-item">
                                  <div class="checkbox">
                                     <label title="Student/ Fresh graduate"><input type="checkbox">Student/ Fresh graduate</label>
-                                    <div class="pull-right ng-binding">(87)</div>
+                                    <div class="pull-right">(87)</div>
                                  </div>
                               </li>
                               <li>
@@ -213,13 +213,13 @@
                               <li class="filter-group-list-item">
                                  <div class="checkbox">
                                     <label title="Construction"><input type="checkbox">Construction</label>
-                                    <div class="pull-right ng-binding">(8)</div>
+                                    <div class="pull-right">(8)</div>
                                  </div>
                               </li>
                               <li class="filter-group-list-item">
                                  <div class="checkbox">
                                     <label title="Consulting"><input type="checkbox">Consulting</label>
-                                    <div class="pull-right ng-binding">(7)</div>
+                                    <div class="pull-right">(7)</div>
                                  </div>
                               </li>
                               <li class="filter-group-list-item">
@@ -231,13 +231,13 @@
                               <li class="filter-group-list-item">
                                  <div class="checkbox">
                                     <label title="IT"><input type="checkbox">IT</label>
-                                    <div class="pull-right ng-binding">(187)</div>
+                                    <div class="pull-right">(187)</div>
                                  </div>
                               </li>
                               <li class="filter-group-list-item">
                                  <div class="checkbox">
                                     <label title="FMCG"><input type="checkbox">FMCG</label>
-                                    <div class="pull-right ng-binding">(87)</div>
+                                    <div class="pull-right">(87)</div>
                                  </div>
                               </li>
                               <li>
