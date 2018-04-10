@@ -1,18 +1,15 @@
 
 <?php include('../header.php'); ?>
 
-<main id="main-block"
-   gt-scroll-on="facetedSearch.pagination:changed"
-   gt-scroll-speed="50"
-   >
-<div class="page-header">
-   <div class="container">
-      <div class="row">
-         <div class="col-sm-24">
-         </div>
-      </div>
-   </div>
-</div>
+<main id="main-block">
+  <div class="page-header">
+     <div class="container">
+        <div class="row">
+           <div class="col-sm-24">
+           </div>
+        </div>
+     </div>
+  </div>
 <div class="page-content">
    <div ng-controller="flashMessagesController" id="flash-messages-persistent" ng-cloak>
       <div class="container" ng-repeat="flashMessage in flashMessages | filter: {persistent: true}">
@@ -560,7 +557,7 @@
                      </div>
                      <div class="form-inline form-group">
                         <span>
-                        To post a comment, please fill in the answer in the box: 
+                        To post a comment, please fill in the answer in the box:
                         13 + 5 =
                         </span>
                         <input type="text" id="articleComment_captcha_response" name="articleComment[captcha_response]" required="required"    size="2" autocomplete="off" class="form-control" />
@@ -582,15 +579,12 @@
             hidden-print">
             <div class="panel panel-default">
                <div class="panel-body panel-body-ad">
-                  <div gt-ad
-                     gt-ad-name="box_300x250"
-                     gt-ad-width="300"
-                     gt-ad-height="250"
-                     gt-ad-fallback-media="../../images/free-cv-reviewa95c.png?v2_68_0"
-                     gt-ad-fallback-url="/resources/job-search-support/free-cv-review"
-                     style="width: 300px; height: 250px;"
-                     >
-                  </div>
+
+                  <div style="width: 300px; height: 240px;">
+                         <a href="#">
+                           <img src="http://localhost/skoot/skootjob/assets/img/cv.png" width="300px" height="230px">
+                         </a>
+                       </div>
                </div>
                <div class="list-group">
                   <a class="list-group-item" href="../../advertising-agencies.html">
@@ -810,9 +804,7 @@
             <h3 class="panel-title">Tell us your feedback</h3>
          </div>
          <div class="panel-body" ng-hide="formSubmitted">
-            <form class="form-horizontal" role="form" novalidate name="contact-us-form"
-               gt-validate
-               gt-submit="submit()">
+            <form class="form-horizontal">
                <div class="form-group">
                   <div class="col-sm-20 col-sm-offset-2">
                      <input type="text" id="contact_us_name" name="contact_us[name]" required="required"    class="form-control" ng-model="form.name" gt-model-value="" message="Please enter name!" placeholder="Your Name" />
@@ -837,14 +829,6 @@
                      </button>
                   </div>
                </div>
-               <input type="hidden"
-                  value="Feedback"
-                  ng-model="form.subject"
-                  gt-model-value="" />
-               <input type="hidden"
-                  value="feedback"
-                  ng-model="form.type"
-                  gt-model-value="" />
             </form>
          </div>
          <div class="panel-body" ng-show="formSubmitted">

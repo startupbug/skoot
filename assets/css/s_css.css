@@ -331,3 +331,16 @@ h3.s_heading_bottom {
 .s_padding_height{
     padding-left: 0px !important;
 }
+
+.form-group input, .form-group select {
+    margin-bottom: 10px;
+}
+
+.s_red_candidate{
+  font-size: 27px;
+  padding: 30px 0px;
+}
+
+.form-control-required{
+  padding: 8px;
+}

@@ -17,7 +17,7 @@
                      <h3 class=" space-bottom-none space-top-none">
                         Call Now +971 4 278 5200
                         <span class="space-left-sm space-right-sm">or</span>
-                        <a class="btn btn-tertiary btn-lg">
+                        <a class="btn btn-tertiary btn-lg" onclick="modalOpen('advertising_request_modal')">
                         Request a call back
                         </a>
                      </h3>
@@ -235,7 +235,7 @@
                         <p class="space-left-med space-top-med space-right-med">OR</p>
                      </div>
                      <div class="col-xs-height col-middle">
-                        <a class="btn btn-secondary btn-lg">
+                        <a class="btn btn-secondary btn-lg" onclick="modalOpen('advertising_request_modal')">
                         Request a call back
                         </a>
                      </div>
@@ -328,7 +328,7 @@
                            OR
                         </p>
                         <div class="text-center space-top-none">
-                           <a contact-forms-advertise-with-us-form-modal="" class="btn btn-secondary btn-lg">
+                           <a  onclick="modalOpen('advertising_request_modal')" class="btn btn-secondary btn-lg">
                            Request a call back
                            </a>
                         </div>
@@ -340,4 +340,72 @@
       </section>
    </div>
 </main>
+
+<div id="advertising_request_modal" class="w3-modal">
+  <div class="modal-dialog" style="margin-top: 99px;">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 class="modal-title">Advertise with Us</h2>
+        <button onclick="modalClose('advertising_request_modal')" class="close"><i class="fa fa-remove"></i></button>
+      </div>
+      <div class="modal-body">
+        <div>
+          <form class="form-horizontal">
+            <div class="form-group">
+              <label class="col-sm-7 control-label required" for="adBannerEnquiry_fullname">
+                Name
+                <span class="text-primary">*</span>
+              </label>
+              <div class="col-sm-12">
+                <input type="text" id="adBannerEnquiry_fullname" name="adBannerEnquiry[fullname]" required="required" class="form-control text-muted">
+              </div>
+            </div>
+            <div class="form-group">
+              <label class="col-sm-7 control-label required" for="adBannerEnquiry_emailTo">
+                Email
+                <span class="text-primary">*</span>
+              </label>
+              <div class="col-sm-12">
+                <input type="text" id="adBannerEnquiry_emailTo" name="adBannerEnquiry[emailTo]" required="required" class="form-control text-muted">
+              </div>
+            </div>
+            <div class="form-group">
+              <label class="col-sm-7 control-label required" for="adBannerEnquiry_telephone">
+                Telephone
+                <span class="text-primary">*</span>
+              </label>
+              <div class="col-sm-12">
+                <input type="text" id="adBannerEnquiry_telephone" name="adBannerEnquiry[telephone]" required="required" class="form-control text-muted">
+              </div>
+            </div>
+            <div class="form-group">
+              <label class="col-sm-7 control-label required" for="adBannerEnquiry_organization">
+                Organisation
+                <span class="text-primary">*</span>
+              </label>
+              <div class="col-sm-12">
+                <input type="text" id="adBannerEnquiry_organization" name="adBannerEnquiry[organization]" required="required" class="form-control text-muted">
+              </div>
+            </div>
+            <div class="form-group">
+              <label class="col-sm-7 control-label required" for="adBannerEnquiry_description">
+                Advertising Needs
+                <span class="text-primary">*</span>
+              </label>
+              <div class="col-sm-12">
+                <textarea id="adBannerEnquiry_description" name="adBannerEnquiry[description]" required="required" rows="5" class="form-control text-muted"></textarea>
+              </div>
+            </div>
+            <div class="form-group">
+              <div class="col-sm-6 col-sm-offset-9">
+                <button type="submit" class="btn btn-section btn-block col-sm-24">Submit</button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 <?php include('../footer.php') ;?>

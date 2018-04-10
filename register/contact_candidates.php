@@ -31,12 +31,12 @@
                        <h3 class="panel-title s_font_20">Looking for a job?</h3>
                     </div>
                     <div class="list-group">
-                       <a href="#" class="list-group-item">
+                       <a href="<?php echo $base_url;?>register/register_candidate.php" class="list-group-item">
                           <i class="fa fa-fw fa-chevron-right"></i>
                           Register as a Candidate
                        </a>
                        <h4 class="space-top-base space-bottom-base text-color">Have a question?</h4>
-                       <a href="faqs.php" class="list-group-item">
+                       <a href="<?php echo $base_url;?>register/faqs.php" class="list-group-item">
                          <i class="fa fa-fw fa-chevron-right"></i>
                          Visit Help Center for Candidates
                        </a>

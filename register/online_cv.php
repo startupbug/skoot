@@ -1,9 +1,6 @@
 <?php include('../header.php'); ?>
 
-<main id="main-block"
-   gt-scroll-on="facetedSearch.pagination:changed"
-   gt-scroll-speed="50"
-   >
+<main id="main-block">
    <div class="page-content">
       <section style="background-image: url(<?php echo $base_url;?>assets/img/register/candidate_write.jpg)" class="bg-cover">
          <div class="clearfix">
@@ -21,7 +18,7 @@
                      <li class="text-inverted">Quickly create your professional CV using GulfTalent CV builder</li>
                      <li class="text-inverted">Use this professionally formatted CV for your job hunt anywhere</li>
                   </ul>
-                  <a class="text-lg" href="">
+                  <a class="text-lg" onclick=" modalOpen('online_cv_modal');">
                     <i class="fa fa-fw text_color fa-chevron-right"></i>
                     See a Sample CV
                 </a>
@@ -362,6 +359,19 @@
          </div>
       </section>
    </div>
-
 </main>
+
+<div id="online_cv_modal" class="w3-modal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div>
+        <img src="<?php echo $base_url; ?>assets/images1/sampleCV.png" style="width:100%">
+        <button class="close"  onclick=" modalClose('online_cv_modal');">
+            <i class="fa fa-remove"></i>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
 <?php include('../footer.php'); ?>

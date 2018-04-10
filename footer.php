@@ -1,5 +1,59 @@
-<!-- Footer Section -->
 
+<div id="register_footer_modal" class="w3-modal">
+  <div class="modal-dialog">
+     <div class="modal-content">
+        <div>
+           <div class="modal-header">
+              <h2 class="modal-title">Register for Jobs</h2>
+              <div class="text-heading text-lg"></div>
+              <button class="close" onclick=" modalClose('register_footer_modal');">
+              <i class="fa fa-remove"></i>
+              </button>
+           </div>
+           <div class="modal-body">
+              <ul class="list-symbol-check list-symbol-success text-lg text-secondary">
+                 <li>Build a professional online CV</li>
+                 <li>Apply for jobs with top employers</li>
+                 <li>Receive relevant job alerts by email</li>
+                 <li>Get noticed by top recruiters (optional)</li>
+              </ul>
+              <hr class="supermuted">
+              <div>
+                 <div class="row space-bottom-sm space-top-sm">
+                    <div class="col-sm-16 col-sm-offset-4">
+                       <button class="btn btn-block btn-primary col-sm-24">
+                       Sign up with Email
+                       </button>
+                    </div>
+                 </div>
+                 <div class="row">
+                    <div class="col-sm-16 col-sm-offset-4 horizontal-line-middle-background text-center">
+                       <div class="horizontal-line-middle-background-title text-muted">or</div>
+                    </div>
+                 </div>
+                 <div class="row space-bottom-xs space-top-sm">
+                    <div class="col-sm-16 col-sm-offset-4">
+                       <button class="btn btn-block btn-brand-facebook col-sm-24">
+                       <i class="fa fa-fw fa-facebook-square text-left"></i>
+                       Sign up with Facebook
+                       </button>
+                    </div>
+                 </div>
+                 <div class="row space-bottom-sm space-top-sm">
+                    <div class="col-sm-18 col-sm-offset-3 text-muted">
+                       By clicking Register, you agree to GulfTalent's
+                       <a href="<?php echo $base_url; ?>terms_condition/terms.php">Terms</a>,
+                       <a href="<?php echo $base_url; ?>terms_condition/privacy_policy.php">Privacy Policy</a>
+                       and <a>Mailing Permissions</a>
+                    </div>
+                 </div>
+              </div>
+           </div>
+        </div>
+     </div>
+  </div>
+</div>
+<!-- Footer Section -->
 <footer class="hidden-print">
     <section class="sitemap">
         <div class="container hidden-print">
@@ -8,7 +62,7 @@
                     <h4>Jobs</h4>
                     <ul class="list-unstyled">
                         <li><a href="<?php echo $base_url; ?>jobs/search_job.php">Find jobs</a></li>
-                        <li><a>Register for Jobs</a></li>
+                        <li><a  onclick="modalOpen('register_footer_modal')">Register for Jobs</a></li>
                         <li><a href="<?php echo $base_url; ?>register/job-title.php">Jobs by Title</a></li>
                         <li><a href="<?php echo $base_url; ?>register/jobalert.php">Sign up for job alerts</a></li>
                         <li><a href="<?php echo $base_url; ?>register/online_cv.php">Build online CV</a></li>
@@ -65,7 +119,7 @@
                         <li><a href="<?php echo $base_url; ?>register/online_media_coverage.php">Print &amp; online coverage</a></li>
                         <li><a href="<?php echo $base_url; ?>register/contact_candidates.php">Contact us</a></li>
                         <li><a href="<?php echo $base_url; ?>joblane/sitemap.php">Sitemap</a></li>
-                    
+
                     </ul>
                 </div>
                 <div class="col-sm-4">
