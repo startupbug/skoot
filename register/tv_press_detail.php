@@ -4,7 +4,7 @@
       <div class="container">
          <div class="row">
            <div class="col-sm-24">
-              <h2>TV coverage of Jonlane</h2>
+              <h2>Print and online media coverage of Jonlane</h2>
            </div>
          </div>
       </div>
@@ -16,95 +16,34 @@
              <div class="row">
               <div class="col-sm-16 reset-width">
                  <div class="panel panel-default">
-                    <div class="panel-heading">
-                       <h3 class="panel-title s_font_20">2014</h3>
-                    </div>
-                    <div class="list-group">
-                       <a href="tv_coverage_detail.php" class="list-group-item">
-                          <div class="media">
-                             <div class="media-object pull-left">
-                                <img src="<?php echo $base_url; ?>assets\img\Layer-9.png"  width="205px">
-                             </div>
-                             <div class="media-body">
-                               <h3 class="s_font_20" style="margin-top:10px">CNN.com</h3>
-                               <p class="space-bottom-xs s_font_18 text-color">Coverage of JobLane's survey on JobLane compensation Trends</p>
-                               <span class="text-sm text-supermuted">
-                                  Jun 2014, English
+                   <div class="panel-heading">
+                      <div class="row">
+                         <div class="col-sm-18">
+                            <h1 class="panel-title">
+                               Sorry, boss, I’ll be off sick today: bad case of Brazilitis
+                            </h1>
+                            <p>
+                               <span class="text-muted">
+                               UAE, 10 Jun 2014
                                </span>
-                             </div>
-                          </div>
-                       </a>
-                       <a href="tv_coverage_detail.php" class="list-group-item">
-                          <div class="media">
-                             <div class="media-object pull-left">
-                                <img src="<?php echo $base_url; ?>assets\img\Layer-9.png"  width="205px">
-                             </div>
-                             <div class="media-body">
-                               <h3 class="s_font_20" style="margin-top:10px">CNN.com</h3>
-                               <p class="space-bottom-xs s_font_18 text-color">Coverage of JobLane's survey on JobLane compensation Trends</p>
-                               <span class="text-sm text-supermuted">
-                                  Jun 2014, English
-                               </span>
-                             </div>
-                          </div>
-                       </a>
-                    </div>
-                 </div>
-                 <div class="panel panel-default">
-                    <div class="panel-heading">
-                       <h3 class="panel-title s_font_20">2010</h3>
-                    </div>
-                    <div class="list-group">
-                       <a href="tv_coverage_detail.php" class="list-group-item">
-                          <div class="media">
-                             <div class="media-object pull-left">
-                                <img src="<?php echo $base_url; ?>assets\img\Layer-9.png"  width="205px">
-                             </div>
-                             <div class="media-body">
-                               <h3 class="s_font_20" style="margin-top:10px">CNN.com</h3>
-                               <p class="space-bottom-xs s_font_18 text-color">Coverage of JobLane's survey on JobLane compensation Trends</p>
-                               <span class="text-sm text-supermuted">
-                                  Jun 2014, English
-                               </span>
-                             </div>
-                          </div>
-                       </a>
-                       <a href="tv_coverage_detail.php" class="list-group-item">
-                          <div class="media">
-                             <div class="media-object pull-left">
-                                <img src="<?php echo $base_url; ?>assets\img\Layer-9.png"  width="205px">
-                             </div>
-                             <div class="media-body">
-                               <h3 class="s_font_20" style="margin-top:10px">CNN.com</h3>
-                               <p class="space-bottom-xs s_font_18 text-color">Coverage of JobLane's survey on JobLane compensation Trends</p>
-                               <span class="text-sm text-supermuted">
-                                  Jun 2014, English
-                               </span>
-                             </div>
-                          </div>
-                       </a>
-                    </div>
-                 </div>
-                 <div class="panel panel-default">
-                    <div class="panel-heading">
-                       <h3 class="panel-title s_font_20">2009</h3>
-                    </div>
-                    <div class="list-group">
-                       <a href="tv_coverage_detail.php" class="list-group-item">
-                          <div class="media">
-                             <div class="media-object pull-left">
-                                <img src="<?php echo $base_url; ?>assets\img\Layer-9.png"  width="205px">
-                             </div>
-                             <div class="media-body">
-                               <h3 class="s_font_20" style="margin-top:10px">CNN.com</h3>
-                               <p class="space-bottom-xs s_font_18 text-color">Coverage of JobLane's survey on JobLane compensation Trends</p>
-                               <span class="text-sm text-supermuted">
-                                  Jun 2014, English
-                               </span>
-                             </div>
-                          </div>
-                       </a>
-                    </div>
+                            </p>
+                         </div>
+                         <div class="col-sm-6">
+                            <img src="<?php echo $base_url; ?>assets/images1/newslogo_thenationala95c.jpg" class="img-responsive pull-right">
+                         </div>
+                      </div>
+                   </div>
+                   <div class="panel-body">
+                      <p>ABU DHABI Any time after Thursday, your colleague at the next desk might be asleep.  And if he's in IT support, he might not be there at all.</p>
+                      <p>The reason? A little football tournament 11,000 kilometers away from Brazil.</p>
+                      <p>With some World Cup matches kicking off at 2am in the UAE, productivity is about to plummet, a survey suggests, as staff claim "dodgy stomachs" or "banging headaches" as a reason for not coming in to work.</p>
+                      <p>IT Professionals, according to the survey, are more likely than the others to come to work late or call in sick after a late-night match.  HR staff are most likely to take a day of annual leave, and marketing professionals are more likely to simply reduce their sleep and come to work tired.</p>
+                      <p>Firms to pay a Cup penalty</p>
+                      <p>About one in 10 will go to work late to catch up on sleep, or take a day of annual leave watching a late-night match.  Three percent, however, said they would report sick so they do not have to go to work.  About a third of respondents said they would cut down on sleep to make it to work on time.</p>
+                      <p>The online survey of 18,000 professionals by the recruitment firm GulfTalent suggests that 89 percent of employees in the region plan to watch.  The tournament, from June 12 to July 13, will be broadcast live in the UAE most days between 8pm and 4am.</p>
+                      <p>The second half of the tournament takes place during Ramadan, when many employees in the Middle East work reduced hours, allowing them to sleep after work and be up in time for the matches. In comparison, the UK is expecting to lose 250 million working hours at a cost of 4 billion, more than Dh25bn, in lost productivity.</p>
+                      <p>It is not clear whether this will change when England go out to Germany on penalties.</p>
+                   </div>
                  </div>
                  <div class="text-center">
                    <ul class="pagination">
@@ -130,16 +69,16 @@
               </div>
               <div class="col-sm-8 hidden-print">
                  <div class="panel panel-default">
-                   <div class="panel-heading">
-                     <div class="text-heading panel-title s-panel-title text-capitalize">Print & Online Coverage</div>
-                   </div>
+                    <div class="panel-heading">
+                      <div class="text-heading panel-title s-panel-title text-capitalize">Recent TV Coverage</div>
+                    </div>
                     <div class="list-group">
                        <a href="tv_press_detail.php" class="list-group-item">
                           <div class="media">
                              <div class="media-object pull-left">
                                 <img src="<?php echo $base_url; ?>assets/images/articles/salary2016a95c.jpg?v2_68_0" width="60px" height="70px">
                              </div>
-                             <div class="media-body s_par text-color">
+                             <div class="media-body text-color">
                                 Sorry, Boss, I,ll be off sick today : bad case Brazilitis
                                 <br>
                                 <span class="text-sm text-muted">
@@ -162,9 +101,9 @@
                              </div>
                           </div>
                        </a>
-                       <a class="list-group-item hidden-print text-section" href="tv_press.php">
+                       <a class="list-group-item hidden-print text-section" href="tv_coverage.php">
                          <i class="fa fa-fw fa-chevron-right text-section"></i>
-                         See all print & online coverage
+                         See all TV coverage
                        </a>
                        <a class="list-group-item hidden-print text-section" href="<?php echo $base_url; ?>otherservices/journalist.php">
                          <i class="fa fa-fw fa-chevron-right text-section"></i>

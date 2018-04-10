@@ -4,7 +4,7 @@
       <div class="container">
          <div class="row">
            <div class="col-sm-24">
-              <h2>TV coverage of Jonlane</h2>
+              <h2>Print and online media coverage of Jonlane</h2>
            </div>
          </div>
       </div>
@@ -20,89 +20,85 @@
                        <h3 class="panel-title s_font_20">2014</h3>
                     </div>
                     <div class="list-group">
-                       <a href="tv_coverage_detail.php" class="list-group-item">
-                          <div class="media">
-                             <div class="media-object pull-left">
-                                <img src="<?php echo $base_url; ?>assets\img\Layer-9.png"  width="205px">
-                             </div>
-                             <div class="media-body">
-                               <h3 class="s_font_20" style="margin-top:10px">CNN.com</h3>
-                               <p class="space-bottom-xs s_font_18 text-color">Coverage of JobLane's survey on JobLane compensation Trends</p>
-                               <span class="text-sm text-supermuted">
-                                  Jun 2014, English
-                               </span>
-                             </div>
-                          </div>
+                       <a href="tv_press_detail.php" class="list-group-item">
+                         <div class="container-xs-height s-print-margin">
+                            <div class="row row-xs-height">
+                               <div class="col-xs-4 text-center text-hg text-primary col-xs-height col-middle">
+                                 <img src="<?php echo $base_url; ?>assets/images1/newslogo_thenationala95c.jpg" title="The National " width="130px">
+                               </div>
+                               <div class="col-xs-20 col-xs-height col-middle">
+                                  <p class="s-print-head">The National</p>
+                                  <p class="space-bottom-xs">Sorry, boss, I’ll be off sick today: bad case of Brazilitis</p>
+                                  <span class="text-sm text-supermuted">
+                                  UAE, Jun 2014
+                                  </span>
+                               </div>
+                            </div>
+                         </div>
                        </a>
-                       <a href="tv_coverage_detail.php" class="list-group-item">
-                          <div class="media">
-                             <div class="media-object pull-left">
-                                <img src="<?php echo $base_url; ?>assets\img\Layer-9.png"  width="205px">
-                             </div>
-                             <div class="media-body">
-                               <h3 class="s_font_20" style="margin-top:10px">CNN.com</h3>
-                               <p class="space-bottom-xs s_font_18 text-color">Coverage of JobLane's survey on JobLane compensation Trends</p>
-                               <span class="text-sm text-supermuted">
-                                  Jun 2014, English
-                               </span>
-                             </div>
-                          </div>
+                       <a href="tv_press_detail.php" class="list-group-item">
+                         <div class="container-xs-height s-print-margin">
+                            <div class="row row-xs-height">
+                               <div class="col-xs-4 text-center text-hg text-primary col-xs-height col-middle">
+                                 <img src="<?php echo $base_url; ?>assets/images1/newslogo_thenationala95c.jpg" title="The National " width="130px">
+                               </div>
+                               <div class="col-xs-20 col-xs-height col-middle">
+                                  <p class="s-print-head">The National</p>
+                                  <p class="space-bottom-xs">Sorry, boss, I’ll be off sick today: bad case of Brazilitis</p>
+                                  <span class="text-sm text-supermuted">
+                                  UAE, Jun 2014
+                                  </span>
+                               </div>
+                            </div>
+                         </div>
                        </a>
-                    </div>
-                 </div>
-                 <div class="panel panel-default">
-                    <div class="panel-heading">
-                       <h3 class="panel-title s_font_20">2010</h3>
-                    </div>
-                    <div class="list-group">
-                       <a href="tv_coverage_detail.php" class="list-group-item">
-                          <div class="media">
-                             <div class="media-object pull-left">
-                                <img src="<?php echo $base_url; ?>assets\img\Layer-9.png"  width="205px">
-                             </div>
-                             <div class="media-body">
-                               <h3 class="s_font_20" style="margin-top:10px">CNN.com</h3>
-                               <p class="space-bottom-xs s_font_18 text-color">Coverage of JobLane's survey on JobLane compensation Trends</p>
-                               <span class="text-sm text-supermuted">
-                                  Jun 2014, English
-                               </span>
-                             </div>
-                          </div>
+                       <a href="tv_press_detail.php" class="list-group-item">
+                         <div class="container-xs-height s-print-margin">
+                            <div class="row row-xs-height">
+                               <div class="col-xs-4 text-center text-hg text-primary col-xs-height col-middle">
+                                 <img src="<?php echo $base_url; ?>assets/images1/newslogo_thenationala95c.jpg" title="The National " width="130px">
+                               </div>
+                               <div class="col-xs-20 col-xs-height col-middle">
+                                  <p class="s-print-head">The National</p>
+                                  <p class="space-bottom-xs">Sorry, boss, I’ll be off sick today: bad case of Brazilitis</p>
+                                  <span class="text-sm text-supermuted">
+                                  UAE, Jun 2014
+                                  </span>
+                               </div>
+                            </div>
+                         </div>
                        </a>
-                       <a href="tv_coverage_detail.php" class="list-group-item">
-                          <div class="media">
-                             <div class="media-object pull-left">
-                                <img src="<?php echo $base_url; ?>assets\img\Layer-9.png"  width="205px">
-                             </div>
-                             <div class="media-body">
-                               <h3 class="s_font_20" style="margin-top:10px">CNN.com</h3>
-                               <p class="space-bottom-xs s_font_18 text-color">Coverage of JobLane's survey on JobLane compensation Trends</p>
-                               <span class="text-sm text-supermuted">
-                                  Jun 2014, English
-                               </span>
-                             </div>
-                          </div>
+                       <a href="tv_press_detail.php" class="list-group-item">
+                         <div class="container-xs-height s-print-margin">
+                            <div class="row row-xs-height">
+                               <div class="col-xs-4 text-center text-hg text-primary col-xs-height col-middle">
+                                 <img src="<?php echo $base_url; ?>assets/images1/newslogo_thenationala95c.jpg" title="The National " width="130px">
+                               </div>
+                               <div class="col-xs-20 col-xs-height col-middle">
+                                  <p class="s-print-head">The National</p>
+                                  <p class="space-bottom-xs">Sorry, boss, I’ll be off sick today: bad case of Brazilitis</p>
+                                  <span class="text-sm text-supermuted">
+                                  UAE, Jun 2014
+                                  </span>
+                               </div>
+                            </div>
+                         </div>
                        </a>
-                    </div>
-                 </div>
-                 <div class="panel panel-default">
-                    <div class="panel-heading">
-                       <h3 class="panel-title s_font_20">2009</h3>
-                    </div>
-                    <div class="list-group">
-                       <a href="tv_coverage_detail.php" class="list-group-item">
-                          <div class="media">
-                             <div class="media-object pull-left">
-                                <img src="<?php echo $base_url; ?>assets\img\Layer-9.png"  width="205px">
-                             </div>
-                             <div class="media-body">
-                               <h3 class="s_font_20" style="margin-top:10px">CNN.com</h3>
-                               <p class="space-bottom-xs s_font_18 text-color">Coverage of JobLane's survey on JobLane compensation Trends</p>
-                               <span class="text-sm text-supermuted">
-                                  Jun 2014, English
-                               </span>
-                             </div>
-                          </div>
+                       <a href="tv_press_detail.php" class="list-group-item">
+                         <div class="container-xs-height s-print-margin">
+                            <div class="row row-xs-height">
+                               <div class="col-xs-4 text-center text-hg text-primary col-xs-height col-middle">
+                                 <img src="<?php echo $base_url; ?>assets/images1/newslogo_thenationala95c.jpg" title="The National " width="130px">
+                               </div>
+                               <div class="col-xs-20 col-xs-height col-middle">
+                                  <p class="s-print-head">The National</p>
+                                  <p class="space-bottom-xs">Sorry, boss, I’ll be off sick today: bad case of Brazilitis</p>
+                                  <span class="text-sm text-supermuted">
+                                  UAE, Jun 2014
+                                  </span>
+                               </div>
+                            </div>
+                         </div>
                        </a>
                     </div>
                  </div>
@@ -130,25 +126,11 @@
               </div>
               <div class="col-sm-8 hidden-print">
                  <div class="panel panel-default">
-                   <div class="panel-heading">
-                     <div class="text-heading panel-title s-panel-title text-capitalize">Print & Online Coverage</div>
-                   </div>
+                    <div class="panel-heading">
+                      <div class="text-heading panel-title s-panel-title text-capitalize">Recent TV Coverage</div>
+                    </div>
                     <div class="list-group">
-                       <a href="tv_press_detail.php" class="list-group-item">
-                          <div class="media">
-                             <div class="media-object pull-left">
-                                <img src="<?php echo $base_url; ?>assets/images/articles/salary2016a95c.jpg?v2_68_0" width="60px" height="70px">
-                             </div>
-                             <div class="media-body s_par text-color">
-                                Sorry, Boss, I,ll be off sick today : bad case Brazilitis
-                                <br>
-                                <span class="text-sm text-muted">
-                                  UAE, Jun 2014
-                                </span>
-                             </div>
-                          </div>
-                       </a>
-                       <a href="tv_press_detail.php" class="list-group-item">
+                       <a href="tv_coverage_detail.php" class="list-group-item">
                           <div class="media">
                              <div class="media-object pull-left">
                                 <img src="<?php echo $base_url; ?>assets/images/articles/salary2016a95c.jpg?v2_68_0" width="60px" height="70px">
@@ -162,9 +144,23 @@
                              </div>
                           </div>
                        </a>
-                       <a class="list-group-item hidden-print text-section" href="tv_press.php">
+                       <a href="tv_coverage_detail.php" class="list-group-item">
+                          <div class="media">
+                             <div class="media-object pull-left">
+                                <img src="<?php echo $base_url; ?>assets/images/articles/salary2016a95c.jpg?v2_68_0" width="60px" height="70px">
+                             </div>
+                             <div class="media-body text-color">
+                                Sorry, Boss, I,ll be off sick today : bad case Brazilitis
+                                <br>
+                                <span class="text-sm text-muted">
+                                  UAE, Jun 2014
+                                </span>
+                             </div>
+                          </div>
+                       </a>
+                       <a class="list-group-item hidden-print text-section" href="tv_coverage.php">
                          <i class="fa fa-fw fa-chevron-right text-section"></i>
-                         See all print & online coverage
+                         See all TV coverage
                        </a>
                        <a class="list-group-item hidden-print text-section" href="<?php echo $base_url; ?>otherservices/journalist.php">
                          <i class="fa fa-fw fa-chevron-right text-section"></i>

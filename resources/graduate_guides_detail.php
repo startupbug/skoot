@@ -32,7 +32,7 @@
                           <i class="fa fa-fw fa-chevron-right"></i>
                           Download did not start automatically?
                        </a>
-                       <a href="#" class="list-group-item">
+                       <a onclick="modalOpen('graduate_guides_problem_modal')" class="list-group-item">
                           <i class="fa fa-fw fa-chevron-right"></i>
                           Problems viewing this file?
                        </a>
@@ -281,16 +281,29 @@
       </ul>
    </section>
 </main>
-<!-- Google Code for Remarketing Tag -->
-<script type="text/javascript">
-   var google_conversion_id = 1071034449;
-   var google_custom_params = window.google_tag_params;
-   var google_remarketing_only = true;
-</script>
-<script type="text/javascript" async="true" src="../www.googleadservices.com/pagead/f.txt"></script>
-<noscript>
-   <div style="display:inline;">
-      <img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/1071034449/?value=0&amp;guid=ON&amp;script=0"/>
-   </div>
-</noscript>
+<div id="graduate_guides_problem_modal" class="w3-modal">
+  <div class="modal-dialog" style="margin-top: 233px;">
+    <div class="modal-content">
+      <div>
+        <div class="modal-header">
+          <h3 class="modal-title">Problems viewing the file?</h3>
+          <button class="close"onclick="modalClose('graduate_guides_problem_modal')"><i class="fa fa-remove"></i></button>
+        </div>
+        <div class="modal-body text-muted">
+          <p>
+            Make sure you have 'Adobe Reader' installed on your computer. If not, download your free copy from
+            <a href="http://www.adobe.com/reader" target="_blank">www.adobe.com/reader</a>
+          </p>
+          <p>
+            If you still cannot view the file, please email us at
+            <a href="mailto:info@Joblane.com">
+              info@Joblane.com
+            </a>
+            mentioning the title of the publication you had difficulty downloading and we will send you a copy by email.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 <?php include('../footer.php') ;?>

@@ -344,3 +344,12 @@ h3.s_heading_bottom {
 .form-control-required{
   padding: 8px;
 }
+.s-print-head{
+  color: #25a8e0 !important;
+  font-size:20px !important;
+  margin: 0 0 6px !important;
+  font-weight: 600 !important;
+}
+.s-print-margin{
+  margin: 15px 10px;
+}
