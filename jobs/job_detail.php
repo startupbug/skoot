@@ -54,7 +54,7 @@
 
                     <div class="row">
                        <div class="col-sm-12 col-sm-offset-6">
-                          <a  onclick="modalOpen('applynow_modal')" class="btn btn-primary btn-block btn-lg" >
+                          <a  onclick="modalOpen('applynow_modal');" class="btn btn-primary btn-block btn-lg" >
                           Apply Now
                           </a>
                        </div>
